@@ -11308,7 +11308,7 @@ msgstr "A"
 
 msgctxt "selection:gnuhealth.patient,blood_type:"
 msgid "AB"
-msgstr "AB血型"
+msgstr "AB"
 
 msgctxt "selection:gnuhealth.patient,blood_type:"
 msgid "B"
@@ -11316,7 +11316,7 @@ msgstr "B"
 
 msgctxt "selection:gnuhealth.patient,blood_type:"
 msgid "O"
-msgstr "O型血"
+msgstr "O"
 
 msgctxt "selection:gnuhealth.patient,gender:"
 msgid ""
