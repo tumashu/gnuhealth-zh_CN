@@ -462,7 +462,7 @@ msgstr "人"
 
 msgctxt "field:gnuhealth.birth_certificate,observations:"
 msgid "Observations"
-msgstr "意见"
+msgstr "观察结果"
 
 msgctxt "field:gnuhealth.birth_certificate,rec_name:"
 msgid "Record Name"
@@ -550,7 +550,7 @@ msgstr "尸检"
 
 msgctxt "field:gnuhealth.death_certificate,certification_date:"
 msgid "Certified on"
-msgstr "认证"
+msgstr "确认日期"
 
 msgctxt "field:gnuhealth.death_certificate,cod:"
 msgid "Cause"
@@ -598,7 +598,7 @@ msgstr "人"
 
 msgctxt "field:gnuhealth.death_certificate,observations:"
 msgid "Observations"
-msgstr "意见"
+msgstr "观察结果"
 
 msgctxt "field:gnuhealth.death_certificate,operational_sector:"
 msgid "Op. Sector"
@@ -662,7 +662,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.death_underlying_condition,interval:"
 msgid "Interval"
-msgstr "内部"
+msgstr "时间间隔"
 
 msgctxt "field:gnuhealth.death_underlying_condition,rec_name:"
 msgid "Record Name"
@@ -910,7 +910,7 @@ msgstr "公寓"
 
 msgctxt "field:gnuhealth.du,address_street_number:"
 msgid "Number"
-msgstr "保险号"
+msgstr "门牌号"
 
 msgctxt "field:gnuhealth.du,address_subdivision:"
 msgid "Subdivision"
@@ -3895,7 +3895,7 @@ msgstr "下一个剂量"
 
 msgctxt "field:gnuhealth.vaccination,observations:"
 msgid "Observations"
-msgstr "意见"
+msgstr "观察结果"
 
 msgctxt "field:gnuhealth.vaccination,picture:"
 msgid "Label"
@@ -10516,7 +10516,7 @@ msgstr "下一个剂量"
 
 msgctxt "report:patient.vaccination:"
 msgid "Observations"
-msgstr "意见"
+msgstr "观察结果"
 
 msgctxt "report:patient.vaccination:"
 msgid "PATIENT"
@@ -12386,7 +12386,7 @@ msgstr "主要情况"
 
 msgctxt "view:gnuhealth.birth_certificate:"
 msgid "Observations"
-msgstr "意见"
+msgstr "观察结果"
 
 msgctxt "view:gnuhealth.birth_certificate:"
 msgid "Sign"
@@ -12414,7 +12414,7 @@ msgstr "主要情况"
 
 msgctxt "view:gnuhealth.death_certificate:"
 msgid "Observations"
-msgstr "意见"
+msgstr "观察结果"
 
 msgctxt "view:gnuhealth.death_certificate:"
 msgid "Other"
