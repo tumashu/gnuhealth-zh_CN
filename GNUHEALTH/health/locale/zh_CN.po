@@ -9697,7 +9697,7 @@ msgstr "医联体"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_federation_country_config"
 msgid "Federation Country Configuration"
-msgstr "医联体国家设置"
+msgstr "医联体国家信息设置"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_healthprofessionals"
 msgid "Health Professionals"
