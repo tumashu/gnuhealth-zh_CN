@@ -357,7 +357,7 @@ msgstr "患者"
 
 msgctxt "model:ir.action,name:act_orthanc_server_view"
 msgid "Servers"
-msgstr "服务器"
+msgstr "服务器列表"
 
 msgctxt "model:ir.action,name:act_orthanc_study_view"
 msgid "Studies"
@@ -397,7 +397,7 @@ msgstr ""
 
 msgctxt "model:ir.ui.menu,name:orthanc_server_menu"
 msgid "Servers"
-msgstr "服务器"
+msgstr "服务器列表"
 
 msgctxt "view:gnuhealth.imaging.test.result:"
 msgid "Studies"
