@@ -1,13 +1,13 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-08-02 10:17+0000\n"
+"PO-Revision-Date: 2019-11-03 12:11+0000\n"
 "Last-Translator: Feng Shu <tumashu@163.com>\n"
 "Language: zh_CN\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.7.1\n"
+"X-Generator: Weblate 3.8\n"
 
 msgctxt "field:company.company,childs:"
 msgid "Children"
@@ -109,7 +109,6 @@ msgctxt "field:res.user-company.employee,employee:"
 msgid "Employee"
 msgstr "雇员"
 
-#, fuzzy
 msgctxt "field:res.user-company.employee,user:"
 msgid "User"
 msgstr "用户"
@@ -200,23 +199,23 @@ msgstr "雇员"
 
 msgctxt "model:ir.action,name:act_company_config"
 msgid "Configure Company"
-msgstr "Configure Company"
+msgstr "设置公司"
 
 msgctxt "model:ir.action,name:act_company_list"
 msgid "Companies"
-msgstr "Companies"
+msgstr "公司"
 
 msgctxt "model:ir.action,name:act_company_tree"
 msgid "Companies"
-msgstr "Companies"
+msgstr "公司"
 
 msgctxt "model:ir.action,name:act_employee_form"
 msgid "Employees"
-msgstr "Employees"
+msgstr "雇员"
 
 msgctxt "model:ir.action,name:report_letter"
 msgid "Letter"
-msgstr "Letter"
+msgstr "信"
 
 msgctxt "model:ir.cron-company.company,name:"
 msgid "Cron - Company"
@@ -232,15 +231,15 @@ msgstr "公司中的用户"
 
 msgctxt "model:ir.ui.menu,name:menu_company_list"
 msgid "Companies"
-msgstr "Companies"
+msgstr "公司"
 
 msgctxt "model:ir.ui.menu,name:menu_company_tree"
 msgid "Companies"
-msgstr "Companies"
+msgstr "公司"
 
 msgctxt "model:ir.ui.menu,name:menu_employee_form"
 msgid "Employees"
-msgstr "Employees"
+msgstr "雇员"
 
 msgctxt "model:res.user-company.employee,name:"
 msgid "User - Employee"
@@ -274,22 +273,18 @@ msgctxt "view:company.company:"
 msgid "Reports"
 msgstr "报告"
 
-#, fuzzy
 msgctxt "wizard_button:company.company.config,company,add:"
 msgid "Add"
 msgstr "添加"
 
-#, fuzzy
 msgctxt "wizard_button:company.company.config,company,end:"
 msgid "Cancel"
 msgstr "取消"
 
-#, fuzzy
 msgctxt "wizard_button:company.company.config,start,company:"
 msgid "OK"
 msgstr "确定"
 
-#, fuzzy
 msgctxt "wizard_button:company.company.config,start,end:"
 msgid "Cancel"
 msgstr "取消"

@@ -1,13 +1,13 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-07-30 09:17+0000\n"
+"PO-Revision-Date: 2019-11-03 12:12+0000\n"
 "Last-Translator: Feng Shu <tumashu@163.com>\n"
 "Language: zh_CN\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.7.1\n"
+"X-Generator: Weblate 3.8\n"
 
 msgctxt "field:purchase.line,requests:"
 msgid "Requests"
@@ -27,9 +27,8 @@ msgstr "计算计量单位"
 
 msgctxt "field:purchase.request,default_uom_digits:"
 msgid "Default UOM Digits"
-msgstr ""
+msgstr "默认计量单位有效数字"
 
-#, fuzzy
 msgctxt "field:purchase.request,description:"
 msgid "Description"
 msgstr "描述"
@@ -40,7 +39,7 @@ msgstr "已忽略的异常"
 
 msgctxt "field:purchase.request,origin:"
 msgid "Origin"
-msgstr ""
+msgstr "起源"
 
 msgctxt "field:purchase.request,party:"
 msgid "Party"
@@ -52,7 +51,7 @@ msgstr "产品"
 
 msgctxt "field:purchase.request,product_uom_category:"
 msgid "Product Uom Category"
-msgstr ""
+msgstr "产品计量单位类别"
 
 msgctxt "field:purchase.request,purchase:"
 msgid "Purchase"
@@ -70,7 +69,6 @@ msgctxt "field:purchase.request,quantity:"
 msgid "Quantity"
 msgstr "数量"
 
-#, fuzzy
 msgctxt "field:purchase.request,state:"
 msgid "State"
 msgstr "状态"
@@ -89,7 +87,7 @@ msgstr "计量单位"
 
 msgctxt "field:purchase.request,uom_digits:"
 msgid "UOM Digits"
-msgstr ""
+msgstr "计量单位有效数字"
 
 msgctxt "field:purchase.request,warehouse:"
 msgid "Warehouse"
@@ -103,7 +101,6 @@ msgctxt "field:purchase.request.create_purchase.ask_party,company:"
 msgid "Company"
 msgstr "公司"
 
-#, fuzzy
 msgctxt "field:purchase.request.create_purchase.ask_party,description:"
 msgid "Description"
 msgstr "描述"
@@ -118,17 +115,16 @@ msgstr "产品"
 
 msgctxt "model:ir.action,name:act_purchase_request_form"
 msgid "Purchase Requests"
-msgstr "Purchase Requests"
+msgstr "采购申请"
 
 msgctxt "model:ir.action,name:wizard_create_purchase"
 msgid "Create Purchase"
-msgstr "Create Purchase"
+msgstr "创建采购"
 
 msgctxt "model:ir.action,name:wizard_purchase_cancellation_handle_exception"
 msgid "Handle Purchase Cancellation"
-msgstr "Handle Purchase Cancellation"
+msgstr "取消采购处理"
 
-#, fuzzy
 msgctxt ""
 "model:ir.action.act_window.domain,name:act_purchase_request_form_domain_all"
 msgid "All"
@@ -137,13 +133,13 @@ msgstr "全部"
 msgctxt ""
 "model:ir.action.act_window.domain,name:act_purchase_request_form_domain_draft"
 msgid "Draft"
-msgstr "Draft"
+msgstr "草案"
 
 msgctxt ""
 "model:ir.action.act_window.domain,name:"
 "act_purchase_request_form_domain_exception"
 msgid "Exception"
-msgstr "Exception"
+msgstr "异常"
 
 msgctxt "model:ir.message,text:msg_purchase_delete_request"
 msgid ""
@@ -173,7 +169,7 @@ msgctxt ""
 "model:ir.model.button,string:"
 "purchase_hande_purchase_cancellation_exception_button"
 msgid "Handle Purchase Cancellation"
-msgstr "Handle Purchase Cancellation"
+msgstr "取消采购处理"
 
 msgctxt "model:ir.rule.group,name:rule_group_purchase_request"
 msgid "User in company"
@@ -181,16 +177,15 @@ msgstr "公司中的用户"
 
 msgctxt "model:ir.ui.menu,name:menu_purchase_request_form"
 msgid "Purchase Requests"
-msgstr "Purchase Requests"
+msgstr "采购申请"
 
-#, fuzzy
 msgctxt "model:purchase.request,name:"
 msgid "Purchase Request"
-msgstr "Purchase Request"
+msgstr "采购申请"
 
 msgctxt "model:purchase.request.create_purchase.ask_party,name:"
 msgid "Create Purchase Ask Party"
-msgstr ""
+msgstr "创建采购邀请方"
 
 msgctxt "model:purchase.request.handle.purchase.cancellation.start,name:"
 msgid "Handle Purchase Cancellation Exception - Start"
@@ -198,27 +193,23 @@ msgstr "处理采购取消异常 - 开始"
 
 msgctxt "model:res.group,name:group_purchase_request"
 msgid "Purchase Request"
-msgstr "Purchase Request"
+msgstr "采购申请"
 
-#, fuzzy
 msgctxt "selection:purchase.request,state:"
 msgid "Cancel"
 msgstr "取消"
 
-#, fuzzy
 msgctxt "selection:purchase.request,state:"
 msgid "Done"
 msgstr "完成"
 
-#, fuzzy
 msgctxt "selection:purchase.request,state:"
 msgid "Draft"
-msgstr "Draft"
+msgstr "草案"
 
-#, fuzzy
 msgctxt "selection:purchase.request,state:"
 msgid "Exception"
-msgstr "Exception"
+msgstr "异常"
 
 msgctxt "selection:purchase.request,state:"
 msgid "Purchased"
@@ -236,7 +227,6 @@ msgctxt "view:purchase.request:"
 msgid "Supply Info"
 msgstr "供应信息"
 
-#, fuzzy
 msgctxt "wizard_button:purchase.request.create_purchase,ask_party,end:"
 msgid "Cancel"
 msgstr "取消"
@@ -251,7 +241,6 @@ msgctxt ""
 msgid "Cancel Request"
 msgstr "取消申请"
 
-#, fuzzy
 msgctxt ""
 "wizard_button:purchase.request.handle.purchase.cancellation,start,end:"
 msgid "Cancel"
