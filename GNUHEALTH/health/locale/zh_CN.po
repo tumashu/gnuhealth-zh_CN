@@ -10500,7 +10500,7 @@ msgstr "女"
 
 msgctxt "report:patient.vaccination:"
 msgid "HISTORY"
-msgstr "疫苗接种史"
+msgstr "史"
 
 msgctxt "report:patient.vaccination:"
 msgid "ID"

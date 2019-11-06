@@ -1185,7 +1185,7 @@ msgstr "备注"
 
 msgctxt "report:patient.labtest.report:"
 msgid "Results"
-msgstr "结果列表"
+msgstr "结果"
 
 msgctxt "report:patient.labtest.report:"
 msgid "Sex"
