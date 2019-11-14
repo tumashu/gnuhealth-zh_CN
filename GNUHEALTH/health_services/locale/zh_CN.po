@@ -84,7 +84,7 @@ msgstr "日期"
 
 msgctxt "field:gnuhealth.health_service,service_line:"
 msgid "Service Line"
-msgstr "服务热线"
+msgstr "服务明细"
 
 msgctxt "field:gnuhealth.health_service,state:"
 msgid "State"
@@ -180,7 +180,7 @@ msgstr "发票上面显示的患者"
 
 msgctxt "help:gnuhealth.health_service,service_line:"
 msgid "Service Line"
-msgstr "服务热线"
+msgstr "服务明细"
 
 msgctxt "help:gnuhealth.health_service.line,appointment:"
 msgid ""
