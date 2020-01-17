@@ -10,6 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Pootle-Path: /zh_CN/GNUHEALTH/health_webdav3_server/locale/zh_CN.po\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Pootle-Revision: 50000\n"
 
 msgctxt "model:ir.action,name:act_collection_list"
 msgid "Collections"
