@@ -44,7 +44,7 @@ msgstr "姓名不能重复！"
 
 msgctxt "error:gnuhealth.du:"
 msgid "The Domiciliary Unit must be unique !"
-msgstr "常住住所不能重复！"
+msgstr "居住地址不能重复！"
 
 msgctxt "error:gnuhealth.ethnicity:"
 msgid "The CODE must be unique !"
@@ -582,7 +582,7 @@ msgstr "日期"
 
 msgctxt "field:gnuhealth.death_certificate,du:"
 msgid "DU"
-msgstr "常住住所"
+msgstr "居住地址"
 
 msgctxt "field:gnuhealth.death_certificate,id:"
 msgid "ID"
@@ -3999,7 +3999,7 @@ msgstr "死亡日期"
 
 msgctxt "field:party.party,du:"
 msgid "DU"
-msgstr "常住住所"
+msgstr "居住地址"
 
 msgctxt "field:party.party,du_address:"
 msgid "Main address"
@@ -4163,7 +4163,7 @@ msgstr "死亡日期和时间"
 
 msgctxt "help:gnuhealth.death_certificate,du:"
 msgid "Domiciliary Unit"
-msgstr "常住住所"
+msgstr "居住地址"
 
 msgctxt "help:gnuhealth.death_certificate,signed_by:"
 msgid "Health Professional that signed the death certificate"
@@ -4213,7 +4213,7 @@ msgstr "房屋总面积（平方米）"
 
 msgctxt "help:gnuhealth.du,urladdr:"
 msgid "Locates the DU on the Open Street Map by default"
-msgstr "默认在 Open Street 地图上定位到常住住所"
+msgstr "默认在 Open Street 地图上定位到居住地址"
 
 msgctxt "help:gnuhealth.ethnicity,code:"
 msgid "Please use CAPITAL LETTERS and no spaces"
@@ -4614,7 +4614,7 @@ msgid ""
 "case of a Domiciliary Unit, just link it to the name of the         contact "
 "in the address form."
 msgstr ""
-"这个地址用于临时联络，如果患者正在度假，可以填写酒店地址。如患者在常住住所，"
+"这个地址用于临时联络，如果患者正在度假，可以填写酒店地址。如患者在居住地址，"
 "可以直接关联常住地址。"
 
 msgctxt "help:gnuhealth.patient,current_insurance:"
@@ -5311,11 +5311,11 @@ msgstr "出生日期"
 
 msgctxt "help:party.party,du:"
 msgid "Domiciliary Unit"
-msgstr "常住住所"
+msgstr "居住地址"
 
 msgctxt "help:party.party,du_address:"
 msgid "Main Address, based on the associated DU"
-msgstr "主要地址，基于常住住所"
+msgstr "主要地址，基于居住地址"
 
 msgctxt "help:party.party,father:"
 msgid "Father from the Birth Certificate"
@@ -6093,7 +6093,7 @@ msgstr "动脉内"
 
 msgctxt "model:gnuhealth.du,name:"
 msgid "Domiciliary Unit"
-msgstr "常住住所"
+msgstr "居住地址"
 
 msgctxt "model:gnuhealth.ethnicity,name:"
 msgid "Ethnicity"
@@ -9473,7 +9473,7 @@ msgstr "药品用药途径"
 
 msgctxt "model:ir.action,name:gnuhealth_action_du"
 msgid "Domiciliary Units"
-msgstr "常住住所"
+msgstr "居住地址"
 
 msgctxt "model:ir.action,name:gnuhealth_action_ethnicity"
 msgid "Ethnicities"
@@ -9797,7 +9797,7 @@ msgstr "人口与家庭"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_edit_du"
 msgid "Domiciliary Units"
-msgstr "常住住所"
+msgstr "居住地址"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_edit_family"
 msgid "Families"
@@ -12940,11 +12940,11 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.du:"
 #~ msgid "Domicilary Unit"
-#~ msgstr "常住住所"
+#~ msgstr "居住地址"
 
 #~ msgctxt "view:gnuhealth.du:"
 #~ msgid "Domiciliary Units"
-#~ msgstr "常住住所"
+#~ msgstr "居住地址"
 
 #~ msgctxt "view:gnuhealth.ethnicity:"
 #~ msgid "Ethnicities"
