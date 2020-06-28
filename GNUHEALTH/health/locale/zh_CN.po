@@ -9769,7 +9769,7 @@ msgstr "疾病诊断"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_pathology_categories"
 msgid "Categories"
-msgstr "疾病诊断分类"
+msgstr "疾病分类"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_pathology_category"
 msgid "Disease categories"
