@@ -738,7 +738,7 @@ msgstr "评估"
 
 msgctxt "field:gnuhealth.directions,procedure:"
 msgid "Procedure"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "field:gnuhealth.directions,rec_name:"
 msgid "Record Name"
@@ -2606,7 +2606,7 @@ msgstr "疾病诊断"
 
 msgctxt "field:gnuhealth.patient.disease,pcs_code:"
 msgid "Code"
-msgstr "操作或干预代码"
+msgstr "手术操作代码"
 
 msgctxt "field:gnuhealth.patient.disease,pregnancy_warning:"
 msgid "Pregnancy warning"
@@ -2742,7 +2742,7 @@ msgstr "抽象能力"
 
 msgctxt "field:gnuhealth.patient.evaluation,actions:"
 msgid "Procedures"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "field:gnuhealth.patient.evaluation,appointment:"
 msgid "Appointment"
@@ -3383,7 +3383,7 @@ msgstr "显性性状"
 
 msgctxt "field:gnuhealth.pol,procedure:"
 msgid "Procedure"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "field:gnuhealth.pol,procedure_code:"
 msgid "Procedure Code"
@@ -3391,7 +3391,7 @@ msgstr "代码"
 
 msgctxt "field:gnuhealth.pol,procedure_text:"
 msgid "Procedure"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "field:gnuhealth.pol,rec_name:"
 msgid "Record Name"
@@ -4693,7 +4693,7 @@ msgstr "疾病诊断"
 
 msgctxt "help:gnuhealth.patient.disease,pcs_code:"
 msgid "Procedure code, for example, ICD-10-PCS Code 7-character string"
-msgstr "操作或干预代码， 例如：ICD-10-PCS代码，7个字符组成的字符串"
+msgstr "手术操作代码， 例如：ICD-10-PCS代码，7个字符组成的字符串"
 
 msgctxt "help:gnuhealth.patient.disease,short_comment:"
 msgid ""
@@ -8981,7 +8981,7 @@ msgstr "处方单"
 
 msgctxt "model:gnuhealth.procedure,name:"
 msgid "Medical Procedures"
-msgstr "医学操作或干预"
+msgstr "手术操作"
 
 msgctxt "model:gnuhealth.secondary_condition,name:"
 msgid "Secondary Conditions"
@@ -9449,7 +9449,7 @@ msgstr "处方"
 
 msgctxt "model:ir.action,name:action_gnuhealth_procedure_view"
 msgid "Procedures"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "model:ir.action,name:appointments_report_open"
 msgid "Appointments with Dx Report"
@@ -9785,7 +9785,7 @@ msgstr "疾病诊断"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_procedure"
 msgid "Procedures"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_specialty"
 msgid "Medical Specialties"
@@ -9869,7 +9869,7 @@ msgstr "患者评估[只读]"
 
 msgctxt "model:ir.ui.menu,name:menu_gnuhealth_procedure_list"
 msgid "Procedures"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "model:ir.ui.menu,name:menu_people"
 msgid "People"
@@ -10256,7 +10256,7 @@ msgstr "日期: "
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "rocedures"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "report:patient.card:"
 msgid "Blood type :"
@@ -11986,7 +11986,7 @@ msgstr "处方"
 
 msgctxt "selection:gnuhealth.pol,medical_context:"
 msgid "Procedure"
-msgstr "操作或干预"
+msgstr "手术操作"
 
 msgctxt "selection:gnuhealth.pol,medical_context:"
 msgid "Surgery"
@@ -13144,7 +13144,7 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.procedure:"
 #~ msgid "Procedure"
-#~ msgstr "操作或干预"
+#~ msgstr "手术操作"
 
 #~ msgctxt "view:gnuhealth.secondary_condition:"
 #~ msgid "Patient Evaluation secondary condition"
