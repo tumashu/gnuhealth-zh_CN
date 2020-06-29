@@ -52,7 +52,7 @@ msgstr "新生儿ID（二维码）"
 
 msgctxt "model:ir.action,name:report_patient_qrcard"
 msgid "ID Cards - QR"
-msgstr "ID卡（二维码）"
+msgstr "就诊卡（带二维码）"
 
 msgctxt "report:appointment.qrcodel:"
 msgid ":"
