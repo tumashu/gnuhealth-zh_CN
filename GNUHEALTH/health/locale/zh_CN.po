@@ -10300,7 +10300,7 @@ msgstr "患者情况说明"
 
 msgctxt "report:patient.conditions_history:"
 msgid "Automated"
-msgstr "自动的"
+msgstr "（自动生成）"
 
 msgctxt "report:patient.conditions_history:"
 msgid "Diagnosed"
@@ -10376,7 +10376,7 @@ msgstr "改善"
 
 msgctxt "report:patient.conditions_history:"
 msgid "info about this patient relevant conditions"
-msgstr "患者相关患病情况的信息"
+msgstr "患者患病情况的相关信息"
 
 msgctxt "report:patient.conditions_history:"
 msgid "mild"
