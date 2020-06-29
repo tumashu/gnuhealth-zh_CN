@@ -9553,7 +9553,7 @@ msgstr "药物"
 
 msgctxt "model:ir.action,name:report_appointment_receipt"
 msgid "Appointment Receipt"
-msgstr "预约单"
+msgstr "预约凭证"
 
 msgctxt "model:ir.action,name:report_immunization_status"
 msgid "Immunization Status Report"
@@ -9909,7 +9909,7 @@ msgstr ":"
 
 msgctxt "report:appointment.receipt:"
 msgid "Appointment #"
-msgstr "预约 #"
+msgstr "预约编号: "
 
 msgctxt "report:appointment.receipt:"
 msgid "Date :"
@@ -9925,7 +9925,7 @@ msgstr "医疗机构"
 
 msgctxt "report:appointment.receipt:"
 msgid "Instructions / Notes :"
-msgstr "说明 / 注释: "
+msgstr "备注说明: "
 
 msgctxt "report:appointment.receipt:"
 msgid "PUID"
@@ -9941,7 +9941,7 @@ msgstr "专业"
 
 msgctxt "report:appointment.receipt:"
 msgid "You must present this receipt and your"
-msgstr "你必须出示这张收据"
+msgstr "就诊时必须出示此预约凭证和本人"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "(Complete Listing)"

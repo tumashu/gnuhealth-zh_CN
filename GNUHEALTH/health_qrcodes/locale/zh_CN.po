@@ -36,7 +36,7 @@ msgstr "二维码"
 
 msgctxt "model:ir.action,name:report_appointment_qrcode"
 msgid "Appointment QRCODE"
-msgstr "预约二维码"
+msgstr "预约凭证（带二维码）"
 
 msgctxt "model:ir.action,name:report_labtest_barcode39"
 msgid "Code39 barcode label"
@@ -60,7 +60,7 @@ msgstr ":"
 
 msgctxt "report:appointment.qrcodel:"
 msgid "Appointment #"
-msgstr "预约 #"
+msgstr "预约编号: "
 
 msgctxt "report:appointment.qrcodel:"
 msgid "Health Professional"
@@ -72,7 +72,7 @@ msgstr "医疗机构"
 
 msgctxt "report:appointment.qrcodel:"
 msgid "Instructions / Notes"
-msgstr "说明 / 注释"
+msgstr "备注说明"
 
 msgctxt "report:appointment.qrcodel:"
 msgid "PUID :"
