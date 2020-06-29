@@ -4095,7 +4095,7 @@ msgstr "PUID"
 
 msgctxt "field:party.party,residence:"
 msgid "Residence"
-msgstr "定居地"
+msgstr "定居"
 
 msgctxt "field:party.party,unidentified:"
 msgid "Unidentified"
