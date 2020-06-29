@@ -9561,7 +9561,7 @@ msgstr "免疫情况报告"
 
 msgctxt "model:ir.action,name:report_patient_card"
 msgid "ID Cards"
-msgstr "身份证"
+msgstr "就诊卡"
 
 msgctxt "model:ir.action,name:report_patient_disease"
 msgid "Health Conditions"
