@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
-ssh -t gnuhealth@172.16.0.109 'cd ~; bash getlang-gnuhealth.sh'
+/usr/bin/cp -rf GNUHEALTH/* ~/gnuhealth/tryton/server/modules
+~/gnuhealth/tryton/server/trytond-5.0.23/bin/trytond-admin --all -d gnuhealth
