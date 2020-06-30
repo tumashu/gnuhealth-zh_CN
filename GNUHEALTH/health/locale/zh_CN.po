@@ -554,7 +554,7 @@ msgstr "确认日期"
 
 msgctxt "field:gnuhealth.death_certificate,cod:"
 msgid "Cause"
-msgstr "原因"
+msgstr "死亡原因"
 
 msgctxt "field:gnuhealth.death_certificate,code:"
 msgid "Code"
@@ -606,7 +606,7 @@ msgstr "所在社区"
 
 msgctxt "field:gnuhealth.death_certificate,place_details:"
 msgid "Details"
-msgstr "细节"
+msgstr "具体情况"
 
 msgctxt "field:gnuhealth.death_certificate,place_of_death:"
 msgid "Place"
@@ -982,7 +982,7 @@ msgstr "材质"
 
 msgctxt "field:gnuhealth.du,members:"
 msgid "Members"
-msgstr "此住所居住的其他人员"
+msgstr "此处居住的其他人员"
 
 msgctxt "field:gnuhealth.du,name:"
 msgid "Code"
@@ -3583,7 +3583,7 @@ msgstr "妊娠警告"
 
 msgctxt "field:gnuhealth.prescription.order,prescription_date:"
 msgid "Prescription Date"
-msgstr "处方日期"
+msgstr "开方日期"
 
 msgctxt "field:gnuhealth.prescription.order,prescription_id:"
 msgid "Prescription ID"
@@ -3591,7 +3591,7 @@ msgstr "处方编号"
 
 msgctxt "field:gnuhealth.prescription.order,prescription_line:"
 msgid "Prescription line"
-msgstr "处方药品明细"
+msgstr "处方明细"
 
 msgctxt "field:gnuhealth.prescription.order,prescription_warning_ack:"
 msgid "Prescription verified"
@@ -3603,11 +3603,11 @@ msgstr "记录名称"
 
 msgctxt "field:gnuhealth.prescription.order,report_prescription_date:"
 msgid "Prescription Date"
-msgstr "处方日期"
+msgstr "开方日期"
 
 msgctxt "field:gnuhealth.prescription.order,report_prescription_time:"
 msgid "Prescription Time"
-msgstr "开处方时间"
+msgstr "开方时间"
 
 msgctxt "field:gnuhealth.prescription.order,state:"
 msgid "State"
@@ -4625,7 +4625,7 @@ msgstr "保险信息。你可以选择病人的不同保险"
 
 msgctxt "help:gnuhealth.patient,family:"
 msgid "Family Code"
-msgstr "家庭代号"
+msgstr "家庭代码"
 
 msgctxt "help:gnuhealth.patient,general_info:"
 msgid "General information about the patient"
@@ -4657,7 +4657,7 @@ msgstr "婚姻状态"
 
 msgctxt "help:gnuhealth.patient,name:"
 msgid "Person associated to this patient"
-msgstr "患者的亲戚朋友"
+msgstr "此患者对应的人"
 
 msgctxt "help:gnuhealth.patient,primary_care_doctor:"
 msgid "Current General Practitioner / Family Doctor"
@@ -9592,7 +9592,7 @@ msgctxt ""
 "model:ir.action.act_window.domain,name:"
 "act_gnuhealth_appointment_domain_checkedin"
 msgid "Checked in"
-msgstr "双击设为已候诊"
+msgstr "已候诊"
 
 msgctxt ""
 "model:ir.action.act_window.domain,name:"
@@ -9609,7 +9609,7 @@ msgctxt ""
 "model:ir.action.act_window.domain,name:"
 "act_gnuhealth_appointment_domain_noshow"
 msgid "No Shows"
-msgstr "双击设为爽约"
+msgstr "爽约"
 
 msgctxt "model:ir.sequence,name:seq_gnuhealth_appointment"
 msgid "Appointment"
@@ -10660,7 +10660,7 @@ msgstr "处方编号: "
 
 msgctxt "report:prescription.order:"
 msgid "Prescription date :"
-msgstr "处方日期: "
+msgstr "开方日期: "
 
 msgctxt "report:prescription.order:"
 msgid "Qty"
@@ -12406,7 +12406,7 @@ msgstr "免疫状况报告"
 
 msgctxt "view:gnuhealth.death_certificate:"
 msgid "Cause"
-msgstr "原因"
+msgstr "死亡原因"
 
 msgctxt "view:gnuhealth.death_certificate:"
 msgid "Main"
