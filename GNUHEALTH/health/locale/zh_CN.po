@@ -2510,7 +2510,7 @@ msgstr "记录名称"
 
 msgctxt "field:gnuhealth.patient,rh:"
 msgid "Rh"
-msgstr "Rh 血型"
+msgstr "Rh血型"
 
 msgctxt "field:gnuhealth.patient,vaccinations:"
 msgid "Vaccinations"
