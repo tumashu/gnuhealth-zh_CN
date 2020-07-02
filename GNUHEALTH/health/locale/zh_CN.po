@@ -2742,7 +2742,7 @@ msgstr "抽象能力"
 
 msgctxt "field:gnuhealth.patient.evaluation,actions:"
 msgid "Procedures"
-msgstr "手术操作"
+msgstr "处理措施"
 
 msgctxt "field:gnuhealth.patient.evaluation,appointment:"
 msgid "Appointment"
@@ -2798,11 +2798,11 @@ msgstr "推荐给"
 
 msgctxt "field:gnuhealth.patient.evaluation,diagnosis:"
 msgid "Main Condition"
-msgstr "主要疾病"
+msgstr "主要诊断疾病"
 
 msgctxt "field:gnuhealth.patient.evaluation,diagnostic_hypothesis:"
 msgid "Hypotheses / DDx"
-msgstr "初步诊断"
+msgstr "推定诊断"
 
 msgctxt "field:gnuhealth.patient.evaluation,diastolic:"
 msgid "Diastolic Pressure"
@@ -2874,11 +2874,11 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.patient.evaluation,info_diagnosis:"
 msgid "Presumptive Diagnosis: Extra Info"
-msgstr "初步诊断：其它信息"
+msgstr "推定诊断：其它信息"
 
 msgctxt "field:gnuhealth.patient.evaluation,information_source:"
 msgid "Source"
-msgstr "原始资料"
+msgstr "信息来源"
 
 msgctxt "field:gnuhealth.patient.evaluation,institution:"
 msgid "Institution"
@@ -2974,7 +2974,7 @@ msgstr "相关疾病"
 
 msgctxt "field:gnuhealth.patient.evaluation,reliable_info:"
 msgid "Reliable"
-msgstr "可靠的"
+msgstr "可靠"
 
 msgctxt "field:gnuhealth.patient.evaluation,report_evaluation_date:"
 msgid "Evaluation Date"
@@ -2990,7 +2990,7 @@ msgstr "呼吸速率"
 
 msgctxt "field:gnuhealth.patient.evaluation,secondary_conditions:"
 msgid "Other Conditions"
-msgstr "其它疾病"
+msgstr "其它诊断疾病"
 
 msgctxt "field:gnuhealth.patient.evaluation,signed_by:"
 msgid "Health Prof"
@@ -3054,7 +3054,7 @@ msgstr "体重"
 
 msgctxt "field:gnuhealth.patient.evaluation,whr:"
 msgid "WHR"
-msgstr "劳动心率"
+msgstr "腰臀比"
 
 msgctxt "field:gnuhealth.patient.evaluation,write_date:"
 msgid "Write Date"
@@ -3951,7 +3951,7 @@ msgstr "联系"
 
 msgctxt "field:party.contact_mechanism,emergency:"
 msgid "Emergency"
-msgstr "紧急"
+msgstr "急诊"
 
 msgctxt "field:party.contact_mechanism,remarks:"
 msgid "Remarks"
@@ -4787,7 +4787,7 @@ msgctxt "help:gnuhealth.patient.evaluation,diagnosis:"
 msgid ""
 "Presumptive Diagnosis. If no diagnosis can be made, encode the main sign or "
 "symptom."
-msgstr "初步诊断，如果无法下诊断, 填写主要迹象或体征的代码。"
+msgstr "推定诊断，如果无法下诊断, 填写主要迹象或体征的代码。"
 
 msgctxt "help:gnuhealth.patient.evaluation,diagnostic_hypothesis:"
 msgid "Other Diagnostic Hypotheses / Differential Diagnosis (DDx)"
@@ -10184,7 +10184,7 @@ msgstr "发起人"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Main Condition :"
-msgstr "主要疾病: "
+msgstr "主要诊断疾病: "
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Marital Status"
@@ -10200,7 +10200,7 @@ msgstr "职业: "
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Other Conditions"
-msgstr "其它疾病"
+msgstr "其它诊断疾病"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "P"
@@ -10256,7 +10256,7 @@ msgstr "日期: "
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "rocedures"
-msgstr "手术操作"
+msgstr "处理措施"
 
 msgctxt "report:patient.card:"
 msgid "Blood type :"
@@ -10772,7 +10772,7 @@ msgstr ""
 
 msgctxt "selection:gnuhealth.appointment,urgency:"
 msgid "Medical Emergency"
-msgstr "急救"
+msgstr "急诊"
 
 msgctxt "selection:gnuhealth.appointment,urgency:"
 msgid "Normal"
@@ -10788,11 +10788,11 @@ msgstr ""
 
 msgctxt "selection:gnuhealth.appointment,visit_type:"
 msgid "Followup"
-msgstr "患者随访"
+msgstr "复诊"
 
 msgctxt "selection:gnuhealth.appointment,visit_type:"
 msgid "New health condition"
-msgstr "健康新状况"
+msgstr "初诊"
 
 msgctxt "selection:gnuhealth.appointment,visit_type:"
 msgid "Well Child visit"
@@ -11760,15 +11760,15 @@ msgstr ""
 
 msgctxt "selection:gnuhealth.patient.evaluation,urgency:"
 msgid "Medical Emergency"
-msgstr "紧急医疗"
+msgstr "急诊"
 
 msgctxt "selection:gnuhealth.patient.evaluation,urgency:"
 msgid "Normal"
-msgstr "正常的"
+msgstr "正常"
 
 msgctxt "selection:gnuhealth.patient.evaluation,urgency:"
 msgid "Urgent"
-msgstr "紧急的"
+msgstr "紧急"
 
 msgctxt "selection:gnuhealth.patient.evaluation,visit_type:"
 msgid ""
@@ -11776,11 +11776,11 @@ msgstr ""
 
 msgctxt "selection:gnuhealth.patient.evaluation,visit_type:"
 msgid "Followup"
-msgstr "患者随访"
+msgstr "复诊"
 
 msgctxt "selection:gnuhealth.patient.evaluation,visit_type:"
 msgid "New health condition"
-msgstr "健康新状况"
+msgstr "初诊"
 
 msgctxt "selection:gnuhealth.patient.evaluation,visit_type:"
 msgid "Well Child visit"
@@ -12630,7 +12630,7 @@ msgstr "诊断信息"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Main Condition"
-msgstr "主要疾病"
+msgstr "主要诊断疾病"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Main Info"
@@ -12650,7 +12650,7 @@ msgstr "营养"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Other information related to this evaluation"
-msgstr "与此次评估相关的信息"
+msgstr "与此次就诊相关的信息"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Present Illness"
