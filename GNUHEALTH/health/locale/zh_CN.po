@@ -3427,7 +3427,7 @@ msgstr "用药时间点"
 
 msgctxt "field:gnuhealth.prescription.line,allow_substitution:"
 msgid "Allow substitution"
-msgstr "允许替代药"
+msgstr "允许使用替代药品"
 
 msgctxt "field:gnuhealth.prescription.line,common_dosage:"
 msgid "Frequency"
