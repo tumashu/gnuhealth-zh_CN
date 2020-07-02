@@ -1986,7 +1986,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.medicament,indications:"
 msgid "Indication"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "field:gnuhealth.medicament,is_vaccine:"
 msgid "Vaccine"
@@ -2050,7 +2050,7 @@ msgstr "单位"
 
 msgctxt "field:gnuhealth.medicament,storage:"
 msgid "Storage Conditions"
-msgstr "储藏"
+msgstr "贮藏条件"
 
 msgctxt "field:gnuhealth.medicament,strength:"
 msgid "Strength"
@@ -3142,7 +3142,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.patient.medication,indication:"
 msgid "Indication"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "field:gnuhealth.patient.medication,infusion:"
 msgid "Infusion"
@@ -3483,7 +3483,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.prescription.line,indication:"
 msgid "Indication"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "field:gnuhealth.prescription.line,infusion:"
 msgid "Infusion"
@@ -3523,11 +3523,11 @@ msgstr "记录名称"
 
 msgctxt "field:gnuhealth.prescription.line,refills:"
 msgid "Refills #"
-msgstr "继续按方抓药 #"
+msgstr "继续按方用药 #"
 
 msgctxt "field:gnuhealth.prescription.line,review:"
 msgid "Valid Until"
-msgstr "处方截止日期"
+msgstr "处方有效期"
 
 msgctxt "field:gnuhealth.prescription.line,route:"
 msgid "Administration Route"
@@ -4404,7 +4404,7 @@ msgstr "组成成分"
 
 msgctxt "help:gnuhealth.medicament,dosage:"
 msgid "Dosage / Indications"
-msgstr "剂量/适应证"
+msgstr "剂量/适应症"
 
 msgctxt "help:gnuhealth.medicament,form:"
 msgid "Drug form, such as tablet, suspension, liquid .."
@@ -4412,7 +4412,7 @@ msgstr "药品剂型，比如片剂、悬浮剂、液体剂 .."
 
 msgctxt "help:gnuhealth.medicament,indications:"
 msgid "Indications"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "help:gnuhealth.medicament,name:"
 msgid "Product Name"
@@ -5208,7 +5208,7 @@ msgctxt "help:gnuhealth.prescription.line,review:"
 msgid ""
 "Until this date, the patient         usually can ask for a refill / reorder "
 "of this medicament"
-msgstr "这个日期之前，患者通常可以继续按方抓药"
+msgstr "这个日期之前，患者通常可以继续按方用药"
 
 msgctxt "help:gnuhealth.prescription.line,route:"
 msgid "Drug administration route code."
@@ -9665,7 +9665,7 @@ msgstr "药品剂量单位"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_drug_form"
 msgid "Drug Forms"
-msgstr "药品型号"
+msgstr "药品剂型"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_drug_route"
 msgid "Drug Administration Routes"
@@ -10432,7 +10432,7 @@ msgstr "ID :"
 
 msgctxt "report:patient.medication:"
 msgid "Indication"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "report:patient.medication:"
 msgid "Male"
@@ -10616,7 +10616,7 @@ msgstr "不确定"
 
 msgctxt "report:prescription.order:"
 msgid "Indication"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "report:prescription.order:"
 msgid "Insurance :"
@@ -10668,7 +10668,7 @@ msgstr "数量"
 
 msgctxt "report:prescription.order:"
 msgid "Refills"
-msgstr "继续按方抓药"
+msgstr "继续按方用药"
 
 msgctxt "report:prescription.order:"
 msgid "Remarks"
@@ -12490,7 +12490,7 @@ msgstr "剂型"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Indications"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Main"
@@ -12506,7 +12506,7 @@ msgstr "注意事项"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Overdose"
-msgstr "过量"
+msgstr "用药过量"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Pregnancy"
@@ -12530,7 +12530,7 @@ msgstr "溶液"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Storage"
-msgstr "储藏"
+msgstr "贮藏条件"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "strength"
@@ -12718,7 +12718,7 @@ msgstr "状态"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Treatment duration"
-msgstr "疗程"
+msgstr "治疗持续时间"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Treatment period"
@@ -12774,7 +12774,7 @@ msgstr "剂型和用药途径"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Medication and Condition"
-msgstr "药品与疾病"
+msgstr "药品及适应症"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Misc"
@@ -12924,19 +12924,19 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.drug.form:"
 #~ msgid "Drug Form"
-#~ msgstr "药品型号"
+#~ msgstr "药品剂型"
 
 #~ msgctxt "view:gnuhealth.drug.form:"
 #~ msgid "Drug Forms"
-#~ msgstr "药品型号"
+#~ msgstr "药品剂型"
 
 #~ msgctxt "view:gnuhealth.drug.route:"
 #~ msgid "Drug Form"
-#~ msgstr "药品型号"
+#~ msgstr "药品剂型"
 
 #~ msgctxt "view:gnuhealth.drug.route:"
 #~ msgid "Drug Forms"
-#~ msgstr "药品型号"
+#~ msgstr "药品剂型"
 
 #~ msgctxt "view:gnuhealth.du:"
 #~ msgid "Domicilary Unit"
