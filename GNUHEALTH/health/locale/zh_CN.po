@@ -12518,7 +12518,7 @@ msgstr "材质包装"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Product"
-msgstr "产品"
+msgstr "药品"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Route"
