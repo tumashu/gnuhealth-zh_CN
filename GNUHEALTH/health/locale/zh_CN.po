@@ -2470,7 +2470,7 @@ msgstr "一般信息"
 
 msgctxt "field:gnuhealth.patient,hb:"
 msgid "Hb"
-msgstr "Hb"
+msgstr "血红蛋白"
 
 msgctxt "field:gnuhealth.patient,id:"
 msgid "ID"
