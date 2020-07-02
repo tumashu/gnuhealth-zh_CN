@@ -3074,7 +3074,7 @@ msgstr "不良反应"
 
 msgctxt "field:gnuhealth.patient.medication,common_dosage:"
 msgid "Frequency"
-msgstr "频率"
+msgstr "常规用药频率"
 
 msgctxt "field:gnuhealth.patient.medication,course_completed:"
 msgid "Course Completed"
@@ -3122,7 +3122,7 @@ msgstr "剂型"
 
 msgctxt "field:gnuhealth.patient.medication,frequency:"
 msgid "Frequency"
-msgstr "频率"
+msgstr "用药频率"
 
 msgctxt "field:gnuhealth.patient.medication,frequency_prn:"
 msgid "PRN"
@@ -3427,11 +3427,11 @@ msgstr "用药时间点"
 
 msgctxt "field:gnuhealth.prescription.line,allow_substitution:"
 msgid "Allow substitution"
-msgstr "允许替代"
+msgstr "允许替代药"
 
 msgctxt "field:gnuhealth.prescription.line,common_dosage:"
 msgid "Frequency"
-msgstr "频率"
+msgstr "常规用药频率"
 
 msgctxt "field:gnuhealth.prescription.line,create_date:"
 msgid "Create Date"
@@ -3467,7 +3467,7 @@ msgstr "剂型"
 
 msgctxt "field:gnuhealth.prescription.line,frequency:"
 msgid "Frequency"
-msgstr "频率"
+msgstr "用药频率"
 
 msgctxt "field:gnuhealth.prescription.line,frequency_prn:"
 msgid "PRN"
@@ -3523,11 +3523,11 @@ msgstr "记录名称"
 
 msgctxt "field:gnuhealth.prescription.line,refills:"
 msgid "Refills #"
-msgstr "追订量 #"
+msgstr "继续按方抓药 #"
 
 msgctxt "field:gnuhealth.prescription.line,review:"
 msgid "Valid Until"
-msgstr "追订截止时间"
+msgstr "处方截止日期"
 
 msgctxt "field:gnuhealth.prescription.line,route:"
 msgid "Administration Route"
@@ -4987,7 +4987,7 @@ msgstr "患者遇到的副作用或不良反应"
 
 msgctxt "help:gnuhealth.patient.medication,common_dosage:"
 msgid "Common / standard dosage frequency for this medicament"
-msgstr "药剂的标准剂量频率"
+msgstr "这种药品的常规/标准用药频率"
 
 msgctxt "help:gnuhealth.patient.medication,discontinued_reason:"
 msgid "Short description for discontinuing the treatment"
@@ -5132,7 +5132,7 @@ msgstr "推荐的用药时间点。例如，08:00, 13:00, 18:00 可以用 08 13 
 
 msgctxt "help:gnuhealth.prescription.line,common_dosage:"
 msgid "Common / standard dosage frequency for this medicament"
-msgstr "这种药剂的标准用量频率"
+msgstr "这种药品的常规/标准用药频率"
 
 msgctxt "help:gnuhealth.prescription.line,dose:"
 msgid "Amount of medication (eg, 250 mg) per dose"
@@ -5208,7 +5208,7 @@ msgctxt "help:gnuhealth.prescription.line,review:"
 msgid ""
 "Until this date, the patient         usually can ask for a refill / reorder "
 "of this medicament"
-msgstr "在这个日期之前，患者通常可以补充或者追订此药物"
+msgstr "这个日期之前，患者通常可以继续按方抓药"
 
 msgctxt "help:gnuhealth.prescription.line,route:"
 msgid "Drug administration route code."
@@ -9549,7 +9549,7 @@ msgstr "医学专科"
 
 msgctxt "model:ir.action,name:gnuhealth_action_view_medicament"
 msgid "Medicaments"
-msgstr "药物"
+msgstr "药品"
 
 msgctxt "model:ir.action,name:report_appointment_receipt"
 msgid "Appointment Receipt"
@@ -9813,7 +9813,7 @@ msgstr "健康专家专长"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_edit_medicament"
 msgid "Medicaments"
-msgstr "药物"
+msgstr "药品"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_institution_operationalsector"
 msgid "Operational sectors by institution"
@@ -10668,7 +10668,7 @@ msgstr "数量"
 
 msgctxt "report:prescription.order:"
 msgid "Refills"
-msgstr "追订量"
+msgstr "继续按方抓药"
 
 msgctxt "report:prescription.order:"
 msgid "Remarks"
@@ -12682,7 +12682,7 @@ msgstr "不良反应及附注"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Common Dosage"
-msgstr "常用剂量"
+msgstr "常规剂量"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Dosage"
@@ -12762,7 +12762,7 @@ msgstr "其它信息"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Common Dosage"
-msgstr "常用剂量"
+msgstr "常规剂量"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Dosage"
@@ -12774,7 +12774,7 @@ msgstr "剂型和用药途径"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Medication and Condition"
-msgstr "药物与患者状况"
+msgstr "药品与疾病"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Misc"
