@@ -3126,7 +3126,7 @@ msgstr "用药频率"
 
 msgctxt "field:gnuhealth.patient.medication,frequency_prn:"
 msgid "PRN"
-msgstr "按需使用"
+msgstr "必要时使用"
 
 msgctxt "field:gnuhealth.patient.medication,frequency_unit:"
 msgid "unit"
@@ -3471,7 +3471,7 @@ msgstr "用药频率"
 
 msgctxt "field:gnuhealth.prescription.line,frequency_prn:"
 msgid "PRN"
-msgstr "按需使用"
+msgstr "必要时使用"
 
 msgctxt "field:gnuhealth.prescription.line,frequency_unit:"
 msgid "unit"
@@ -5031,7 +5031,7 @@ msgstr ""
 
 msgctxt "help:gnuhealth.patient.medication,frequency_prn:"
 msgid "Use it as needed, pro re nata"
-msgstr "按需使用"
+msgstr "必要时使用"
 
 msgctxt "help:gnuhealth.patient.medication,healthprof:"
 msgid "Health Professional who prescribed or reviewed the medicament"
@@ -5172,7 +5172,7 @@ msgstr ""
 
 msgctxt "help:gnuhealth.prescription.line,frequency_prn:"
 msgid "Use it as needed, pro re nata"
-msgstr "按需使用"
+msgstr "必要时使用"
 
 msgctxt "help:gnuhealth.prescription.line,indication:"
 msgid ""
@@ -6289,7 +6289,7 @@ msgstr "每天一次，晚上"
 
 msgctxt "model:gnuhealth.medication.dosage,name:420449005"
 msgid "as needed"
-msgstr "按需使用"
+msgstr "必要时使用"
 
 msgctxt "model:gnuhealth.medication.dosage,name:422114001"
 msgid "1 time"
@@ -10708,7 +10708,7 @@ msgstr "年"
 
 msgctxt "report:prescription.order:"
 msgid "as needed"
-msgstr "按需使用"
+msgstr "必要时使用"
 
 msgctxt "report:prescription.order:"
 msgid "e"
