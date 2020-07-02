@@ -2442,7 +2442,7 @@ msgstr "保险"
 
 msgctxt "field:gnuhealth.patient,deceased:"
 msgid "Deceased"
-msgstr "已经死亡"
+msgstr "已死亡"
 
 msgctxt "field:gnuhealth.patient,diseases:"
 msgid "Conditions"
