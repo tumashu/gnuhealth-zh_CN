@@ -3711,7 +3711,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.sequence.setup,patient_evaluation_sequence:"
 msgid "Patient Evaluation Sequence"
-msgstr "患者评估序列"
+msgstr "患者就诊评估序列"
 
 msgctxt "field:gnuhealth.sequence.setup,patient_sequence:"
 msgid "Patient Sequence"
@@ -3751,7 +3751,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.sequences,patient_evaluation_sequence:"
 msgid "Patient Evaluation Sequence"
-msgstr "患者评估序列"
+msgstr "患者就诊评估序列"
 
 msgctxt "field:gnuhealth.sequences,patient_sequence:"
 msgid "Patient Sequence"
@@ -4922,11 +4922,11 @@ msgstr "患者其他疾病"
 
 msgctxt "help:gnuhealth.patient.evaluation,signed_by:"
 msgid "Health Professional that finished the patient evaluation"
-msgstr "完成患者评估的健康专家"
+msgstr "完成患者就诊评估的健康专家"
 
 msgctxt "help:gnuhealth.patient.evaluation,signs_and_symptoms:"
 msgid "Enter the Signs and Symptoms for the patient in this evaluation."
-msgstr "输入患者评估时的症状和体征。"
+msgstr "输入患者就诊评估时的症状和体征。"
 
 msgctxt "help:gnuhealth.patient.evaluation,systolic:"
 msgid "Systolic pressure expressed in mmHg"
@@ -8953,7 +8953,7 @@ msgstr "患者心电图"
 
 msgctxt "model:gnuhealth.patient.evaluation,name:"
 msgid "Patient Evaluation"
-msgstr "患者评估"
+msgstr "患者就诊评估"
 
 msgctxt "model:gnuhealth.patient.medication,name:"
 msgid "Patient Medication"
@@ -9301,7 +9301,7 @@ msgstr "病人疫苗接种信息"
 
 msgctxt "model:ir.action,name:act_app_evaluation"
 msgid "Patient Evaluation"
-msgstr "患者评估"
+msgstr "患者就诊评估"
 
 msgctxt "model:ir.action,name:act_appointment_form1"
 msgid "Appointments"
@@ -9341,7 +9341,7 @@ msgstr "疾病"
 
 msgctxt "model:ir.action,name:act_create_patient_evaluation"
 msgid "Create Patient Evaluation"
-msgstr "创建患者评估项目"
+msgstr "创建患者就诊评估项目"
 
 msgctxt "model:ir.action,name:act_death_cert_form"
 msgid "Death certificates"
@@ -9357,7 +9357,7 @@ msgstr "心电图"
 
 msgctxt "model:ir.action,name:act_evaluation_form1"
 msgid "Evaluations"
-msgstr "患者评估"
+msgstr "患者就诊评估"
 
 msgctxt "model:ir.action,name:act_medicament_by_category"
 msgid "Medicament by Category"
@@ -9437,7 +9437,7 @@ msgstr "疾病分类"
 
 msgctxt "model:ir.action,name:action_gnuhealth_patient_evaluation_view"
 msgid "Patient Evaluations [readonly]"
-msgstr "患者评估[只读]"
+msgstr "患者就诊评估[只读]"
 
 msgctxt "model:ir.action,name:action_gnuhealth_patient_view"
 msgid "Patients"
@@ -9569,7 +9569,7 @@ msgstr "健康状况"
 
 msgctxt "model:ir.action,name:report_patient_evaluation"
 msgid "Patient Evaluation Summary"
-msgstr "患者评估总结"
+msgstr "患者就诊评估总结"
 
 msgctxt "model:ir.action,name:report_patient_medication"
 msgid "Medications"
@@ -9621,7 +9621,7 @@ msgstr "患者"
 
 msgctxt "model:ir.sequence,name:seq_gnuhealth_patient_evaluation"
 msgid "Patient Evaluation"
-msgstr "患者评估"
+msgstr "患者就诊评估"
 
 msgctxt "model:ir.sequence,name:seq_gnuhealth_prescription"
 msgid "Prescription"
@@ -9637,7 +9637,7 @@ msgstr "患者"
 
 msgctxt "model:ir.sequence.type,name:seq_type_gnuhealth_patient_evaluation"
 msgid "Patient Evaluation"
-msgstr "患者评估"
+msgstr "患者就诊评估"
 
 msgctxt "model:ir.sequence.type,name:seq_type_gnuhealth_prescription"
 msgid "Prescription"
@@ -9865,7 +9865,7 @@ msgstr "死亡证明"
 
 msgctxt "model:ir.ui.menu,name:menu_gnuhealth_patient_evaluation_list"
 msgid "Patient Evaluations [readonly]"
-msgstr "患者评估[只读]"
+msgstr "患者就诊评估[只读]"
 
 msgctxt "model:ir.ui.menu,name:menu_gnuhealth_procedure_list"
 msgid "Procedures"
@@ -11958,7 +11958,7 @@ msgstr "影像"
 
 msgctxt "selection:gnuhealth.pol,medical_context:"
 msgid "Encounter"
-msgstr "患者评估"
+msgstr "患者就诊评估"
 
 msgctxt "selection:gnuhealth.pol,medical_context:"
 msgid "Family history"
@@ -12896,7 +12896,7 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.diagnostic_hypothesis:"
 #~ msgid "Patient Evaluation other diagnostic hypotheses"
-#~ msgstr "患者评估其它假定的诊断"
+#~ msgstr "患者就诊评估其它假定的诊断"
 
 #~ msgctxt "view:gnuhealth.directions:"
 #~ msgid "Patient directions"
@@ -13104,7 +13104,7 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.patient.evaluation:"
 #~ msgid "Evaluations"
-#~ msgstr "患者评估"
+#~ msgstr "患者就诊评估"
 
 #~ msgctxt "view:gnuhealth.patient.evaluation:"
 #~ msgid "Mental Status"
@@ -13112,7 +13112,7 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.patient.evaluation:"
 #~ msgid "Patient Evaluation"
-#~ msgstr "患者评估"
+#~ msgstr "患者就诊评估"
 
 #~ msgctxt "view:gnuhealth.patient.medication:"
 #~ msgid "Patient Medication"
@@ -13148,7 +13148,7 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.secondary_condition:"
 #~ msgid "Patient Evaluation secondary condition"
-#~ msgstr "患者评估次要疾病"
+#~ msgstr "患者就诊评估次要疾病"
 
 #~ msgctxt "view:gnuhealth.signs_and_symptoms:"
 #~ msgid "Clinical Findinds - Signs and Symptoms"
