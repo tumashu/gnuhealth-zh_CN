@@ -2802,7 +2802,7 @@ msgstr "主要诊断疾病"
 
 msgctxt "field:gnuhealth.patient.evaluation,diagnostic_hypothesis:"
 msgid "Hypotheses / DDx"
-msgstr "推定诊断"
+msgstr "初步诊断"
 
 msgctxt "field:gnuhealth.patient.evaluation,diastolic:"
 msgid "Diastolic Pressure"
@@ -2874,7 +2874,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.patient.evaluation,info_diagnosis:"
 msgid "Presumptive Diagnosis: Extra Info"
-msgstr "推定诊断：其它信息"
+msgstr "初步诊断：其它信息"
 
 msgctxt "field:gnuhealth.patient.evaluation,information_source:"
 msgid "Source"
@@ -2986,7 +2986,7 @@ msgstr "评估时间"
 
 msgctxt "field:gnuhealth.patient.evaluation,respiratory_rate:"
 msgid "Respiratory Rate"
-msgstr "呼吸速率"
+msgstr "呼吸频率"
 
 msgctxt "field:gnuhealth.patient.evaluation,secondary_conditions:"
 msgid "Other Conditions"
@@ -4787,7 +4787,7 @@ msgctxt "help:gnuhealth.patient.evaluation,diagnosis:"
 msgid ""
 "Presumptive Diagnosis. If no diagnosis can be made, encode the main sign or "
 "symptom."
-msgstr "推定诊断，如果无法下诊断, 填写主要迹象或体征的代码。"
+msgstr "初步诊断，如果无法下诊断, 填写主要迹象或体征的代码。"
 
 msgctxt "help:gnuhealth.patient.evaluation,diagnostic_hypothesis:"
 msgid "Other Diagnostic Hypotheses / Differential Diagnosis (DDx)"
@@ -10228,7 +10228,7 @@ msgstr "打印日期:"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Resp Rate"
-msgstr "呼吸速率"
+msgstr "呼吸频率"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Sex"
