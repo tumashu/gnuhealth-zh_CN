@@ -242,7 +242,7 @@ msgstr "这个病人已接种过该疫苗"
 
 msgctxt "error:party.party:"
 msgid "The Federation Account must be unique"
-msgstr "医联体个人帐户不能重复"
+msgstr "健康信息平台帐号不能重复"
 
 msgctxt "error:party.party:"
 msgid "The PUID must be unique"
@@ -2774,7 +2774,7 @@ msgstr "代码"
 
 msgctxt "field:gnuhealth.patient.evaluation,computed_age:"
 msgid "Age"
-msgstr "创建日期"
+msgstr "年龄"
 
 msgctxt "field:gnuhealth.patient.evaluation,create_date:"
 msgid "Create Date"
@@ -3126,7 +3126,7 @@ msgstr "用药频率"
 
 msgctxt "field:gnuhealth.patient.medication,frequency_prn:"
 msgid "PRN"
-msgstr "必要时使用"
+msgstr "需要时使用"
 
 msgctxt "field:gnuhealth.patient.medication,frequency_unit:"
 msgid "unit"
@@ -3319,7 +3319,7 @@ msgstr "创建用户"
 
 msgctxt "field:gnuhealth.pol,federation_account:"
 msgid "Account"
-msgstr "医联体个人帐户"
+msgstr "健康信息平台帐号"
 
 msgctxt "field:gnuhealth.pol,gene:"
 msgid "Gene"
@@ -3471,7 +3471,7 @@ msgstr "用药频率"
 
 msgctxt "field:gnuhealth.prescription.line,frequency_prn:"
 msgid "PRN"
-msgstr "必要时使用"
+msgstr "需要时使用"
 
 msgctxt "field:gnuhealth.prescription.line,frequency_unit:"
 msgid "unit"
@@ -4019,7 +4019,7 @@ msgstr "前缀"
 
 msgctxt "field:party.party,federation_account:"
 msgid "Federation ID"
-msgstr "医联体个人帐户"
+msgstr "健康信息平台帐号"
 
 msgctxt "field:party.party,gender:"
 msgid "Gender"
@@ -4237,7 +4237,7 @@ msgstr "父亲，母亲，兄弟..."
 
 msgctxt "help:gnuhealth.federation.country.config,country:"
 msgid "Country code to be use as the prefix for the FederationID account."
-msgstr "国家代码将做为医联体个人帐户的前缀使用"
+msgstr "国家代码将做为健康信息平台帐号的前缀使用"
 
 msgctxt "help:gnuhealth.federation.country.config,use_citizenship:"
 msgid ""
@@ -5031,7 +5031,7 @@ msgstr ""
 
 msgctxt "help:gnuhealth.patient.medication,frequency_prn:"
 msgid "Use it as needed, pro re nata"
-msgstr "必要时使用"
+msgstr "需要时使用"
 
 msgctxt "help:gnuhealth.patient.medication,healthprof:"
 msgid "Health Professional who prescribed or reviewed the medicament"
@@ -5093,7 +5093,7 @@ msgstr "此健康档案页记录的年龄"
 
 msgctxt "help:gnuhealth.pol,federation_account:"
 msgid "Federation Account"
-msgstr "医联体个人帐户"
+msgstr "健康信息平台帐号"
 
 msgctxt "help:gnuhealth.pol,gene:"
 msgid "Gene / protein"
@@ -5172,7 +5172,7 @@ msgstr ""
 
 msgctxt "help:gnuhealth.prescription.line,frequency_prn:"
 msgid "Use it as needed, pro re nata"
-msgstr "必要时使用"
+msgstr "需要时使用"
 
 msgctxt "help:gnuhealth.prescription.line,indication:"
 msgid ""
@@ -5330,14 +5330,14 @@ msgid ""
 "the code of the emiting institution countryRefer to the GNU Health manual "
 "for further information"
 msgstr ""
-"3个字母组成的国家代码（ISO 3166-1 alpha-3 标准）用作医联体个人帐户的前缀，"
+"3个字母组成的国家代码（ISO 3166-1 alpha-3 标准）用作健康信息平台帐号的前缀，"
 "AAA 到 AAZ, QMA 到 QZZ, XAA 到 XZZ, ZZA 到 ZZZ 四个代码段为用户保留，XXX 表示"
 "国籍未确认，XXB 表示难民。默认使用 emiting institution country 的代码。了解更"
 "多信息，请参考 GNU Health 手册"
 
 msgctxt "help:party.party,federation_account:"
 msgid "Federation Account"
-msgstr "医联体个人帐户"
+msgstr "健康信息平台帐号"
 
 msgctxt "help:party.party,insurance:"
 msgid "Insurance Plans associated to this party"
@@ -6137,7 +6137,7 @@ msgstr "家庭成员"
 
 msgctxt "model:gnuhealth.federation.country.config,name:"
 msgid "Federation Account Country"
-msgstr "医联体个人帐户－国家"
+msgstr "健康信息平台帐号－国家"
 
 msgctxt "model:gnuhealth.healthprofessional,name:"
 msgid "Health Professional"
@@ -6233,23 +6233,23 @@ msgstr "每周1次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:229797004"
 msgid "1 time per day"
-msgstr "每天1次"
+msgstr "每天使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:229798009"
 msgid "3 times per day"
-msgstr "每天3次"
+msgstr "每天使用三次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:229799001"
 msgid "2 times per day"
-msgstr "每天2次"
+msgstr "每天使用二次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:307439001"
 msgid "4 times per day"
-msgstr "每天4次"
+msgstr "每天使用四次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:307468000"
 msgid "every 6 hours"
-msgstr "每6小时"
+msgstr "每6小时使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:307469008"
 msgid "every 8 hours"
@@ -6257,43 +6257,43 @@ msgstr "每8小时"
 
 msgctxt "model:gnuhealth.medication.dosage,name:307470009"
 msgid "every 12 hours"
-msgstr "每12小时"
+msgstr "每12小时使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:307472001"
 msgid "1 time per day in the morning"
-msgstr "每天1次，早晨"
+msgstr "每天早晨使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:307475004"
 msgid "every month"
-msgstr "每月"
+msgstr "每月使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:307476003"
 msgid "every 28 days"
-msgstr "每28天"
+msgstr "每28天使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:396142006"
 msgid "1 time per day at bedtime"
-msgstr "每天1次，白天"
+msgstr "每天白天使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:396145008"
 msgid "3 times per day, before meals"
-msgstr "每天3次，吃饭前"
+msgstr "每天使用三次，吃饭使用"
 
 msgctxt "model:gnuhealth.medication.dosage,name:396146009"
 msgid "3 times per day, with meals"
-msgstr "每天3次，随餐"
+msgstr "每天使用三次，随餐使用"
 
 msgctxt "model:gnuhealth.medication.dosage,name:396147000"
 msgid "1 time per day in the evening"
-msgstr "每天一次，晚上"
+msgstr "每晚使用一次"
 
 msgctxt "model:gnuhealth.medication.dosage,name:420449005"
 msgid "as needed"
-msgstr "必要时使用"
+msgstr "需要时使用"
 
 msgctxt "model:gnuhealth.medication.dosage,name:422114001"
 msgid "1 time"
-msgstr "1次"
+msgstr "一次"
 
 msgctxt "model:gnuhealth.occupation,name:"
 msgid "Occupation"
@@ -9489,7 +9489,7 @@ msgstr "家庭成员"
 
 msgctxt "model:ir.action,name:gnuhealth_action_federation_country_config"
 msgid "Federation Country Configuration"
-msgstr "医联体国家信息设置"
+msgstr "健康信息平台国家信息设置"
 
 msgctxt "model:ir.action,name:gnuhealth_action_form_pathology"
 msgid "Conditions"
@@ -9693,11 +9693,11 @@ msgstr "种族"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_federation"
 msgid "Federation"
-msgstr "医联体"
+msgstr "健康信息平台"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_federation_country_config"
 msgid "Federation Country Configuration"
-msgstr "医联体国家信息设置"
+msgstr "健康信息平台国家信息设置"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_healthprofessionals"
 msgid "Health Professionals"
@@ -10708,7 +10708,7 @@ msgstr "年"
 
 msgctxt "report:prescription.order:"
 msgid "as needed"
-msgstr "必要时使用"
+msgstr "需要时使用"
 
 msgctxt "report:prescription.order:"
 msgid "e"
@@ -11871,7 +11871,7 @@ msgstr "原籍国ID"
 msgctxt ""
 "selection:gnuhealth.person_alternative_identification,alternative_id_type:"
 msgid "GNU Health Federation"
-msgstr "Gnu Health 医联体"
+msgstr "Gnu Health 健康信息平台"
 
 msgctxt ""
 "selection:gnuhealth.person_alternative_identification,alternative_id_type:"
@@ -12666,7 +12666,7 @@ msgstr "时间"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Treatment Plan"
-msgstr "治疗计划"
+msgstr "治疗方案"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Vital Signs"
@@ -12710,7 +12710,7 @@ msgstr "已经经过健康专家签字或者审核"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Specific Dosage"
-msgstr "具体用量"
+msgstr "非常规剂量"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Status"
@@ -12782,7 +12782,7 @@ msgstr "杂项"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Specific Dosage"
-msgstr "具体用量"
+msgstr "非常规剂量"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Treatment time"
