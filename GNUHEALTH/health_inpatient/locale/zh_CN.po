@@ -430,7 +430,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.inpatient.medication,indication:"
 msgid "Indication"
-msgstr "适应证"
+msgstr "适应症"
 
 msgctxt "field:gnuhealth.inpatient.medication,is_active:"
 msgid "Active"
@@ -450,7 +450,7 @@ msgstr "住院编号"
 
 msgctxt "field:gnuhealth.inpatient.medication,qty:"
 msgid "x"
-msgstr "每次数量"
+msgstr "每次用量"
 
 msgctxt "field:gnuhealth.inpatient.medication,rec_name:"
 msgid "Record Name"
@@ -498,7 +498,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.inpatient.medication.admin_time,name:"
 msgid "Medication"
-msgstr "药物"
+msgstr "药品"
 
 msgctxt "field:gnuhealth.inpatient.medication.admin_time,rec_name:"
 msgid "Record Name"
@@ -546,7 +546,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.inpatient.medication.log,name:"
 msgid "Medication"
-msgstr "药物"
+msgstr "药品"
 
 msgctxt "field:gnuhealth.inpatient.medication.log,rec_name:"
 msgid "Record Name"
@@ -630,7 +630,7 @@ msgstr "医疗机构"
 
 msgctxt "field:gnuhealth.inpatient.registration,medications:"
 msgid "Medications"
-msgstr "药物"
+msgstr "药品"
 
 msgctxt "field:gnuhealth.inpatient.registration,name:"
 msgid "Registration Code"
@@ -746,7 +746,7 @@ msgstr "剂量（如250毫克）"
 
 msgctxt "help:gnuhealth.inpatient.medication,dose_unit:"
 msgid "Unit of measure for the medication to be taken"
-msgstr "待服用药物的计量单位"
+msgstr "待用药品的计量单位"
 
 msgctxt "help:gnuhealth.inpatient.medication,end_treatment:"
 msgid "Date of start of Treatment"
@@ -773,7 +773,7 @@ msgid ""
 "Choose a disease for this medicament from the disease list. It can be an "
 "existing disease of the patient or a prophylactic."
 msgstr ""
-"从疾病列表中选择一种疾病，对应当前药物。这种药物可以用于治疗或者预防这种疾"
+"从疾病列表中选择一种疾病与当前药品对应。此药品可以用于治疗或者预防这种疾"
 "病。"
 
 msgctxt "help:gnuhealth.inpatient.medication,is_active:"
@@ -782,7 +782,7 @@ msgstr "如果病人当前服用此药品，就选中此项"
 
 msgctxt "help:gnuhealth.inpatient.medication,medicament:"
 msgid "Prescribed Medicament"
-msgstr "处方药物"
+msgstr "处方药"
 
 msgctxt "help:gnuhealth.inpatient.medication,qty:"
 msgid "Quantity of units (eg, 2 capsules) of the medicament"
@@ -802,7 +802,7 @@ msgstr "剂量（如250毫克）"
 
 msgctxt "help:gnuhealth.inpatient.medication.admin_time,dose_unit:"
 msgid "Unit of measure for the medication to be taken"
-msgstr "待服药物计量单位"
+msgstr "待用药品计量单位"
 
 msgctxt "help:gnuhealth.inpatient.medication.admin_time,remarks:"
 msgid "specific remarks for this dose"
@@ -814,7 +814,7 @@ msgstr "剂量（如250毫克）"
 
 msgctxt "help:gnuhealth.inpatient.medication.log,dose_unit:"
 msgid "Unit of measure for the medication to be taken"
-msgstr "待服药物计量单位"
+msgstr "待用药品计量单位"
 
 msgctxt "help:gnuhealth.inpatient.medication.log,remarks:"
 msgid "specific remarks for this dose"
@@ -1210,15 +1210,15 @@ msgstr "住院用餐项目"
 
 msgctxt "model:gnuhealth.inpatient.medication,name:"
 msgid "Inpatient Medication"
-msgstr "住院药物治疗"
+msgstr "住院药品治疗"
 
 msgctxt "model:gnuhealth.inpatient.medication.admin_time,name:"
 msgid "Inpatient Medication Admin Times"
-msgstr "住院药物给药时间"
+msgstr "住院用药时间"
 
 msgctxt "model:gnuhealth.inpatient.medication.log,name:"
 msgid "Inpatient Medication Log History"
-msgstr "住院药物治疗史"
+msgstr "住院用药史"
 
 msgctxt "model:gnuhealth.inpatient.registration,name:"
 msgid "Patient admission History"
@@ -1586,7 +1586,7 @@ msgstr "治疗期"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Administrative data"
-msgstr "用药途径数据"
+msgstr "住院管理数据"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Admission"
