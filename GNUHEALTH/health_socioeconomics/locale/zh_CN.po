@@ -104,7 +104,7 @@ msgstr "创建用户"
 
 msgctxt "field:gnuhealth.ses.assessment,du:"
 msgid "DU"
-msgstr "常住住所"
+msgstr "现住地址"
 
 msgctxt "field:gnuhealth.ses.assessment,education:"
 msgid "Education Level"

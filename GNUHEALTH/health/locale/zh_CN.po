@@ -44,7 +44,7 @@ msgstr "姓名不能重复！"
 
 msgctxt "error:gnuhealth.du:"
 msgid "The Domiciliary Unit must be unique !"
-msgstr "居住地址不能重复！"
+msgstr "现住地址不能重复！"
 
 msgctxt "error:gnuhealth.ethnicity:"
 msgid "The CODE must be unique !"
@@ -181,7 +181,7 @@ msgid ""
 "End time \"%(evaluation_endtime)s\" BEFORE evaluation start "
 "\"%(evaluation_start)s\""
 msgstr ""
-"结束时间\"%(evaluation_endtime)s\" 在评估开始 \"%(evaluation_start)s\" 之前"
+"结束时间\"%(evaluation_endtime)s\" 在就诊评估开始 \"%(evaluation_start)s\" 之前"
 
 msgctxt "error:gnuhealth.patient.evaluation:"
 msgid "No health professional associated to this user"
@@ -189,7 +189,7 @@ msgstr "此用户没有关联到某位健康专家"
 
 msgctxt "error:gnuhealth.patient.evaluation:"
 msgid "The evaluation code must be unique !"
-msgstr "评估代码不能重复！"
+msgstr "就诊评估代码不能重复！"
 
 msgctxt "error:gnuhealth.patient.medication:"
 msgid ""
@@ -582,7 +582,7 @@ msgstr "日期"
 
 msgctxt "field:gnuhealth.death_certificate,du:"
 msgid "DU"
-msgstr "居住地址"
+msgstr "现住地址"
 
 msgctxt "field:gnuhealth.death_certificate,id:"
 msgid "ID"
@@ -694,7 +694,7 @@ msgstr "创建用户"
 
 msgctxt "field:gnuhealth.diagnostic_hypothesis,evaluation:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "就诊评估"
 
 msgctxt "field:gnuhealth.diagnostic_hypothesis,id:"
 msgid "ID"
@@ -734,7 +734,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.directions,name:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "就诊评估"
 
 msgctxt "field:gnuhealth.directions,procedure:"
 msgid "Procedure"
@@ -2618,7 +2618,7 @@ msgstr "记录名称"
 
 msgctxt "field:gnuhealth.patient.disease,related_evaluations:"
 msgid "Related Evaluations"
-msgstr "相关评估"
+msgstr "相关就诊评估"
 
 msgctxt "field:gnuhealth.patient.disease,short_comment:"
 msgid "Remarks"
@@ -2626,7 +2626,7 @@ msgstr "备注"
 
 msgctxt "field:gnuhealth.patient.disease,status:"
 msgid "Status"
-msgstr "状态"
+msgstr "没有变化"
 
 msgctxt "field:gnuhealth.patient.disease,treatment_description:"
 msgid "Treatment Description"
@@ -2790,11 +2790,11 @@ msgstr "脱水"
 
 msgctxt "field:gnuhealth.patient.evaluation,derived_from:"
 msgid "Derived from"
-msgstr "推荐人"
+msgstr "转诊医生"
 
 msgctxt "field:gnuhealth.patient.evaluation,derived_to:"
 msgid "Derived to"
-msgstr "推荐给"
+msgstr "接诊医生"
 
 msgctxt "field:gnuhealth.patient.evaluation,diagnosis:"
 msgid "Main Condition"
@@ -2814,7 +2814,7 @@ msgstr "计划"
 
 msgctxt "field:gnuhealth.patient.evaluation,discharge_reason:"
 msgid "Discharge Reason"
-msgstr "患者离开原因"
+msgstr "患者离院原因"
 
 msgctxt "field:gnuhealth.patient.evaluation,evaluation_endtime:"
 msgid "End"
@@ -2978,11 +2978,11 @@ msgstr "可靠"
 
 msgctxt "field:gnuhealth.patient.evaluation,report_evaluation_date:"
 msgid "Evaluation Date"
-msgstr "评估日期"
+msgstr "就诊评估日期"
 
 msgctxt "field:gnuhealth.patient.evaluation,report_evaluation_time:"
 msgid "Evaluation Time"
-msgstr "评估时间"
+msgstr "就诊评估时间"
 
 msgctxt "field:gnuhealth.patient.evaluation,respiratory_rate:"
 msgid "Respiratory Rate"
@@ -3671,7 +3671,7 @@ msgstr "创建用户"
 
 msgctxt "field:gnuhealth.secondary_condition,evaluation:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "就诊评估"
 
 msgctxt "field:gnuhealth.secondary_condition,id:"
 msgid "ID"
@@ -3791,7 +3791,7 @@ msgstr "创建用户"
 
 msgctxt "field:gnuhealth.signs_and_symptoms,evaluation:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "就诊评估"
 
 msgctxt "field:gnuhealth.signs_and_symptoms,id:"
 msgid "ID"
@@ -3999,7 +3999,7 @@ msgstr "死亡日期"
 
 msgctxt "field:party.party,du:"
 msgid "DU"
-msgstr "居住地址"
+msgstr "现住地址"
 
 msgctxt "field:party.party,du_address:"
 msgid "Main address"
@@ -4163,7 +4163,7 @@ msgstr "死亡日期时间"
 
 msgctxt "help:gnuhealth.death_certificate,du:"
 msgid "Domiciliary Unit"
-msgstr "居住地址"
+msgstr "现住地址"
 
 msgctxt "help:gnuhealth.death_certificate,signed_by:"
 msgid "Health Professional that signed the death certificate"
@@ -4213,7 +4213,7 @@ msgstr "房屋总面积（平方米）"
 
 msgctxt "help:gnuhealth.du,urladdr:"
 msgid "Locates the DU on the Open Street Map by default"
-msgstr "默认在 Open Street 地图上定位到居住地址"
+msgstr "默认在 Open Street 地图上定位到现住地址"
 
 msgctxt "help:gnuhealth.ethnicity,code:"
 msgid "Please use CAPITAL LETTERS and no spaces"
@@ -4614,7 +4614,7 @@ msgid ""
 "case of a Domiciliary Unit, just link it to the name of the         contact "
 "in the address form."
 msgstr ""
-"这个地址用于临时联络，如果患者正在度假，可以填写酒店地址。如患者在居住地址，"
+"这个地址用于临时联络，如果患者正在度假，可以填写酒店地址。如患者在现住地址，"
 "可以直接关联常住地址。"
 
 msgctxt "help:gnuhealth.patient,current_insurance:"
@@ -4734,7 +4734,7 @@ msgstr "采取的行动"
 msgctxt "help:gnuhealth.patient.evaluation,appointment:"
 msgid ""
 "Enter or select the date / ID of the appointment related to this evaluation"
-msgstr "输入或选择与此评估相关的预约日期或预约编号"
+msgstr "输入或选择与此就诊评估相对应的预约日期或预约编号"
 
 msgctxt "help:gnuhealth.patient.evaluation,bmi:"
 msgid "Body mass index"
@@ -4760,11 +4760,11 @@ msgstr ""
 
 msgctxt "help:gnuhealth.patient.evaluation,code:"
 msgid "Unique code that         identifies the evaluation"
-msgstr "评估编号，不能重复。"
+msgstr "就诊评估编号，不能重复。"
 
 msgctxt "help:gnuhealth.patient.evaluation,computed_age:"
 msgid "Computed patient age at the moment of the evaluation"
-msgstr "评估时患者的年龄"
+msgstr "患者就诊评估时的年龄"
 
 msgctxt "help:gnuhealth.patient.evaluation,dehydration:"
 msgid ""
@@ -4799,11 +4799,11 @@ msgstr "舒张压（mmHg）"
 
 msgctxt "help:gnuhealth.patient.evaluation,discharge_reason:"
 msgid "Reason for patient discharge"
-msgstr "患者离开原因"
+msgstr "患者离院原因"
 
 msgctxt "help:gnuhealth.patient.evaluation,evaluation_length:"
 msgid "Duration of the evaluation"
-msgstr "评估持续时间"
+msgstr "就诊评估持续时间"
 
 msgctxt "help:gnuhealth.patient.evaluation,glycemia:"
 msgid ""
@@ -4832,7 +4832,7 @@ msgid ""
 "evaluation remains in progress state until it is signed, when it becomes "
 "read-only"
 msgstr ""
-"发起评估的健康专家，此专家可能不是完成评估的专家, 签订之前，评估会处于正在进"
+"发起就诊评估的健康专家，此专家可能不是完成评估的专家, 签订之前，评估会处于正在进"
 "行的状态，签订之后就无法更改了。"
 
 msgctxt "help:gnuhealth.patient.evaluation,height:"
@@ -5311,11 +5311,11 @@ msgstr "出生日期"
 
 msgctxt "help:party.party,du:"
 msgid "Domiciliary Unit"
-msgstr "居住地址"
+msgstr "现住地址"
 
 msgctxt "help:party.party,du_address:"
 msgid "Main Address, based on the associated DU"
-msgstr "主要地址，基于居住地址"
+msgstr "主要地址，基于现住地址"
 
 msgctxt "help:party.party,father:"
 msgid "Father from the Birth Certificate"
@@ -6093,7 +6093,7 @@ msgstr "动脉内"
 
 msgctxt "model:gnuhealth.du,name:"
 msgid "Domiciliary Unit"
-msgstr "居住地址"
+msgstr "现住地址"
 
 msgctxt "model:gnuhealth.ethnicity,name:"
 msgid "Ethnicity"
@@ -9473,7 +9473,7 @@ msgstr "药品用药途径"
 
 msgctxt "model:ir.action,name:gnuhealth_action_du"
 msgid "Domiciliary Units"
-msgstr "居住地址"
+msgstr "现住地址"
 
 msgctxt "model:ir.action,name:gnuhealth_action_ethnicity"
 msgid "Ethnicities"
@@ -9797,7 +9797,7 @@ msgstr "人口与家庭"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_edit_du"
 msgid "Domiciliary Units"
-msgstr "居住地址"
+msgstr "现住地址"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_edit_family"
 msgid "Families"
@@ -10144,7 +10144,7 @@ msgstr "鉴别诊断"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Discharge Reason"
-msgstr "患者离开原因"
+msgstr "患者离院原因"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "DoB:"
@@ -10160,7 +10160,7 @@ msgstr "种族:"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Evaluation Digital Signature"
-msgstr "评估数字签名"
+msgstr "就诊评估数字签名"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "GCS"
@@ -10360,7 +10360,7 @@ msgstr "严重程度"
 
 msgctxt "report:patient.conditions_history:"
 msgid "Status"
-msgstr "状态"
+msgstr "治疗转归"
 
 msgctxt "report:patient.conditions_history:"
 msgid "chronic"
@@ -10372,7 +10372,7 @@ msgstr "治愈"
 
 msgctxt "report:patient.conditions_history:"
 msgid "improving"
-msgstr "改善"
+msgstr "好转"
 
 msgctxt "report:patient.conditions_history:"
 msgid "info about this patient relevant conditions"
@@ -10392,7 +10392,7 @@ msgstr "严重"
 
 msgctxt "report:patient.conditions_history:"
 msgid "unchanged"
-msgstr "没有变化"
+msgstr "未愈"
 
 msgctxt "report:patient.conditions_history:"
 msgid "worsening"
@@ -11464,11 +11464,11 @@ msgstr "治愈"
 
 msgctxt "selection:gnuhealth.patient.disease,status:"
 msgid "improving"
-msgstr "改善"
+msgstr "好转"
 
 msgctxt "selection:gnuhealth.patient.disease,status:"
 msgid "unchanged"
-msgstr "没有变化"
+msgstr "未愈"
 
 msgctxt "selection:gnuhealth.patient.disease,status:"
 msgid "worsening"
@@ -11604,11 +11604,11 @@ msgstr "家庭治疗 / 自我护理"
 
 msgctxt "selection:gnuhealth.patient.evaluation,discharge_reason:"
 msgid "Left against medical advice"
-msgstr "不听医嘱离开"
+msgstr "非医嘱离院"
 
 msgctxt "selection:gnuhealth.patient.evaluation,discharge_reason:"
 msgid "Transferred to another institution"
-msgstr "转诊到其它医疗机构"
+msgstr "医嘱转院"
 
 msgctxt "selection:gnuhealth.patient.evaluation,evaluation_type:"
 msgid ""
@@ -11748,7 +11748,7 @@ msgstr "完成"
 
 msgctxt "selection:gnuhealth.patient.evaluation,state:"
 msgid "In progress"
-msgstr "进行中"
+msgstr "正在进行"
 
 msgctxt "selection:gnuhealth.patient.evaluation,state:"
 msgid "Signed"
@@ -12274,7 +12274,7 @@ msgstr "完成"
 
 msgctxt "selection:gnuhealth.vaccination,state:"
 msgid "In Progress"
-msgstr "进行中"
+msgstr "正在进行"
 
 msgctxt "selection:party.party,gender:"
 msgid ""
@@ -12570,7 +12570,7 @@ msgstr "怀孕"
 
 msgctxt "view:gnuhealth.patient.disease:"
 msgid "Related Evaluations"
-msgstr "相关评估"
+msgstr "相关就诊评估"
 
 msgctxt "view:gnuhealth.patient.disease:"
 msgid "Therapy"
@@ -12598,15 +12598,15 @@ msgstr "日期"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Discharge"
-msgstr "准许患者离开"
+msgstr "就诊评估结束或患者离院"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Discharge patient / End this evaluation ?"
-msgstr "准许患者离开 / 结束此次评估？"
+msgstr "患者离院 / 结束此次就诊评估？"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Discharge patient / end this evaluation"
-msgstr "准许患者离开/ 结束此次评估？"
+msgstr "患者离院/ 结束此次就诊评估？"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Extra Info"
@@ -12618,7 +12618,7 @@ msgstr "格拉斯哥昏迷评分表"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Glucose and Lipids Profile"
-msgstr "葡萄糖和脂肪概括"
+msgstr "血糖和血脂"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Header"
@@ -12940,11 +12940,11 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.du:"
 #~ msgid "Domicilary Unit"
-#~ msgstr "居住地址"
+#~ msgstr "现住地址"
 
 #~ msgctxt "view:gnuhealth.du:"
 #~ msgid "Domiciliary Units"
-#~ msgstr "居住地址"
+#~ msgstr "现住地址"
 
 #~ msgctxt "view:gnuhealth.ethnicity:"
 #~ msgid "Ethnicities"

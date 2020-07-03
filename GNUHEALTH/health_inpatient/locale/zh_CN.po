@@ -1438,7 +1438,7 @@ msgstr "周"
 
 msgctxt "selection:gnuhealth.inpatient.medication,frequency_unit:"
 msgid "when required"
-msgstr "需要时"
+msgstr "必要时"
 
 msgctxt "selection:gnuhealth.inpatient.registration,admission_type:"
 msgid ""
@@ -1450,7 +1450,7 @@ msgstr "非急需"
 
 msgctxt "selection:gnuhealth.inpatient.registration,admission_type:"
 msgid "Emergency"
-msgstr "紧急"
+msgstr "急诊"
 
 msgctxt "selection:gnuhealth.inpatient.registration,admission_type:"
 msgid "Maternity"
@@ -1478,11 +1478,11 @@ msgstr "回家/自我保健"
 
 msgctxt "selection:gnuhealth.inpatient.registration,discharge_reason:"
 msgid "Left against medical advice"
-msgstr "拒绝医疗建议"
+msgstr "非医嘱离院"
 
 msgctxt "selection:gnuhealth.inpatient.registration,discharge_reason:"
 msgid "Transferred to another institution"
-msgstr "转院"
+msgstr "医嘱转院"
 
 msgctxt "selection:gnuhealth.inpatient.registration,state:"
 msgid ""
@@ -1574,7 +1574,7 @@ msgstr "一般信息"
 
 msgctxt "view:gnuhealth.inpatient.medication:"
 msgid "Medication"
-msgstr "药物"
+msgstr "药品"
 
 msgctxt "view:gnuhealth.inpatient.medication:"
 msgid "Status"
@@ -1594,7 +1594,7 @@ msgstr "入院类型"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Admit the patient in the health institution and assign the bed"
-msgstr "给病人办理住院，安排床位 "
+msgstr "给患者办理住院并安排床位"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Cancel"
@@ -1606,7 +1606,7 @@ msgstr "取消住院登记"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Cancel the patient registration process ?"
-msgstr "取消患者住院登记"
+msgstr "取消此患者的住院登记？"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Care Plan"
@@ -1626,7 +1626,7 @@ msgstr "已确认"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Confirm Registration / Make the reservation"
-msgstr "确认登记 / 预订"
+msgstr "确认登记 / 预留"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Confirm that the bed has been cleaned and is now ready to use"
@@ -1650,7 +1650,7 @@ msgstr "出院计划"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Medication Plan"
-msgstr "用药计划"
+msgstr "医嘱用药"
 
 msgctxt "view:gnuhealth.inpatient.registration:"
 msgid "Notes"
