@@ -273,7 +273,3 @@ msgstr "生成验证? "
 msgctxt "view:gnuhealth.prescription.order:"
 msgid "Generate the prescription validation code"
 msgstr "生成处方验证代码"
-
-#~ msgctxt "selection:gnuhealth.prescription.order,state:"
-#~ msgid "Validated"
-#~ msgstr "已验证"

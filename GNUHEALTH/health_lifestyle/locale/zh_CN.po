@@ -1358,23 +1358,3 @@ msgstr "性行为"
 msgctxt "view:gnuhealth.patient:"
 msgid "Sleep"
 msgstr "睡眠"
-
-#~ msgctxt "field:gnuhealth.patient.cage,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名字"
-
-#~ msgctxt "field:gnuhealth.patient.recreational_drugs,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名字"
-
-#~ msgctxt "field:gnuhealth.vegetarian_types,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名字"
-
-#~ msgctxt "field:gnuhealth.drugs_recreational,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名字"
-
-#~ msgctxt "field:gnuhealth.diet.belief,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名字"

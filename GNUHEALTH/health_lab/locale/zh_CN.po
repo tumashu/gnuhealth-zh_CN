@@ -1278,23 +1278,3 @@ msgstr "取消"
 msgctxt "wizard_button:gnuhealth.patient.lab.test.request,start,request:"
 msgid "Request"
 msgstr "申请"
-
-#~ msgctxt "field:gnuhealth.lab.test.critearea,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名称"
-
-#~ msgctxt "field:gnuhealth.lab.test.units,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名称"
-
-#~ msgctxt "model:gnuhealth.lab,name:"
-#~ msgid "Lab Test"
-#~ msgstr "实验室检验"
-
-#~ msgctxt "field:gnuhealth.patient.lab.test,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名称"
-
-#~ msgctxt "field:gnuhealth.lab.test_type,rec_name:"
-#~ msgid "Name"
-#~ msgstr "名称"
