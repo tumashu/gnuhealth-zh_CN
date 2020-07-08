@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /zh_CN/GNUHEALTH/health_ophthalmology/locale/zh_CN.po\n"
-"X-Pootle-Revision: 50000\n"
+"X-Pootle-Revision: 43433\n"
 
 msgctxt "field:gnuhealth.ophthalmology.evaluation,computed_age:"
 msgid "Age"
