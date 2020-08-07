@@ -401,7 +401,7 @@
   (gnuhealth-replace-disease "B05.1+" "麻疹并发脑膜炎")
   (gnuhealth-replace-disease "B05.2+" "麻疹并发肺炎")
   (gnuhealth-replace-disease "B05.3+" "麻疹并发中耳炎")
-  (gnuhealth-replace-disease "B05.4" "麻疹伴有肠道并发症..")
+  (gnuhealth-replace-disease "B05.4" "麻疹伴有肠道并发症")
   (gnuhealth-replace-disease "B05.8" "麻疹伴有其他并发症")
   (gnuhealth-replace-disease "B05.9" "麻疹不伴有并发症")
   (gnuhealth-replace-disease "B06.0+" "风疹伴有神经科并发症")
