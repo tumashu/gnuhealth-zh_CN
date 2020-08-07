@@ -1511,7 +1511,7 @@
   (gnuhealth-replace-disease "D59.8" "其他后天性溶血性贫血")
   (gnuhealth-replace-disease "D59.9" "未特指的后天性溶血性贫血")
   (gnuhealth-replace-disease "D60.0" "慢性后天性纯红细胞再生障碍")
-  (gnuhealth-replace-disease "D60.1" "短暂后天·陛纯红细胞再生障碍")
+  (gnuhealth-replace-disease "D60.1" "短暂后天性纯红细胞再生障碍")
   (gnuhealth-replace-disease "D60.8" "其他后天性纯红细胞再生障碍")
   (gnuhealth-replace-disease "D60.9" "未特指的后天性纯红细胞再生障碍")
   (gnuhealth-replace-disease "D61.0" "体质性再生障碍性贫血")
