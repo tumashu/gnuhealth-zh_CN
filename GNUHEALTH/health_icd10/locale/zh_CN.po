@@ -3984,7 +3984,7 @@ msgstr "大涎腺交搭跨越恶性肿瘤的损害"
 
 msgctxt "model:gnuhealth.pathology,name:C089"
 msgid "Malignant neoplasm: Major salivary gland, unspecified"
-msgstr "未特指的大涎腺恶性肿瘤。"
+msgstr "未特指的大涎腺恶性肿瘤"
 
 msgctxt "model:gnuhealth.pathology,name:C09"
 msgid "Malignant neoplasm of tonsil"
@@ -19252,7 +19252,7 @@ msgstr "慢性萎缩性胃炎"
 
 msgctxt "model:gnuhealth.pathology,name:K295"
 msgid "Chronic gastritis, unspecified"
-msgstr "未特指的慢性胃炎。"
+msgstr "未特指的慢性胃炎"
 
 msgctxt "model:gnuhealth.pathology,name:K296"
 msgid "Other gastritis"
@@ -60560,7 +60560,7 @@ msgstr "生殖器官恶性肿瘤个人史"
 
 msgctxt "model:gnuhealth.pathology,name:Z855"
 msgid "Personal history of malignant neoplasm of urinary tract"
-msgstr "泌尿道恶性肿瘤个人史."
+msgstr "泌尿道恶性肿瘤个人史"
 
 msgctxt "model:gnuhealth.pathology,name:Z856"
 msgid "Personal history of leukaemia"
