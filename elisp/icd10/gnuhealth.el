@@ -1,4 +1,4 @@
-(defun gnuhealth-replace-disease (a b &rest c)
+(defun gnuhealth-replace-disease4 (a b &rest c)
   (goto-char (point-min))
   (when (and (re-search-forward
               (format ":%s\""
@@ -10,6 +10,8 @@
     (insert b)
     (insert "\""))
   (goto-char (point-min)))
+
+(defalias 'gnuhealth-replace-disease2 #'gnuhealth-replace-disease4)
 
 (defun gnuhealth-replace-section (a b &rest c)
   (goto-char (point-min))
@@ -32,7 +34,7 @@
 (defun gnuhealth-generate-batch ()
   "Format a tab split file to a elisp function"
   (interactive)
-  (let ((x (completing-read "翻译对象" '(chapter section disease))))
+  (let ((x (completing-read "翻译对象" '(chapter section disease2 disease4))))
     (goto-char (point-min))
     (while (re-search-forward "\n+" nil t)
       (replace-match "\n" nil t))

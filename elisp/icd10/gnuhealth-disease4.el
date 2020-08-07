@@ -1,5 +1,5 @@
 
-(defun gnuhealth_replace_all ()
+(defun gnuhealth_replace_all_disease4 ()
   (interactive)
   (gnuhealth-replace-disease "A00.0" "霍乱，由于01群霍乱弧菌，霍乱生物型所致")
   (gnuhealth-replace-disease "A00.1" "霍乱，由于01群霍乱弧菌，埃尔托生物型所致")

@@ -1,5 +1,5 @@
 
-(defun gnuhealth_replace_all ()
+(defun gnuhealth_replace_all_disease2 ()
   (interactive)
   (gnuhealth-replace-disease "A00" "霍乱")
   (gnuhealth-replace-disease "A01" "伤寒和副伤寒")
