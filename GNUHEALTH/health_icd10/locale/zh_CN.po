@@ -14873,7 +14873,7 @@ msgstr "分类于他处的疾病引起的眼和附器其他特指的疾患"
 msgctxt "model:gnuhealth.pathology,name:H589"
 msgid ""
 "Other specified disorders of eye and adnexa in diseases classified elsewhere"
-msgstr "其他指定眼和附器的疾病分类 "
+msgstr "其他指定眼和附器的疾病分类"
 
 msgctxt "model:gnuhealth.pathology,name:H59"
 msgid "Postprocedural disorders of eye and adnexa, not elsewhere classified"
@@ -46652,23 +46652,23 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W002"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W003"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W004"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W005"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W006"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W007"
 msgid "Farm"
@@ -46676,11 +46676,11 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W008"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W009"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W01"
 msgid "Fall on same level from slipping, tripping and stumbling"
@@ -46696,19 +46696,19 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W012"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W013"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W014"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W015"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W016"
 msgid "Industrial and construction area"
@@ -46720,7 +46720,7 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W018"
 msgid "Other specified place"
-msgstr "   其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W019"
 msgid "Unspecified place"
@@ -46740,35 +46740,35 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W022"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W023"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W024"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W025"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W026"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W027"
 msgid "Farm"
-msgstr "农田  "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W028"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W029"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W03"
 msgid ""
@@ -46777,43 +46777,43 @@ msgstr "被别人碰撞或推动引起的在同一平面上的其他跌倒"
 
 msgctxt "model:gnuhealth.pathology,name:W030"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W031"
 msgid "Residential institution"
-msgstr "院舍 "
+msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W032"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W033"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W034"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W035"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W036"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W037"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W038"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W039"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W04"
 msgid "Fall while being carried or supported by other persons"
@@ -46825,35 +46825,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W041"
 msgid "Residential institution"
-msgstr " 院舍 "
+msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W042"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W043"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W044"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W045"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W046"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W047"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W048"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W049"
 msgid "Unspecified place"
@@ -46865,7 +46865,7 @@ msgstr "涉及轮椅上的跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W050"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W051"
 msgid "Residential institution"
@@ -46873,27 +46873,27 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W052"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W053"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W054"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W055"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W056"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W057"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W058"
 msgid "Other specified place"
@@ -46901,7 +46901,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W059"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W06"
 msgid "Fall involving bed"
@@ -46909,7 +46909,7 @@ msgstr "涉及床上的跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W060"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W061"
 msgid "Residential institution"
@@ -46917,15 +46917,15 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W062"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W063"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W064"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W065"
 msgid "Trade and service area"
@@ -46933,11 +46933,11 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W066"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W067"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W068"
 msgid "Other specified place"
@@ -46945,7 +46945,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W069"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W07"
 msgid "Fall involving chair"
@@ -46953,39 +46953,39 @@ msgstr "涉及椅子上的跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W070"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W071"
 msgid "Residential institution"
-msgstr "院舍 "
+msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W072"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W073"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W074"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W075"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W076"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W077"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W078"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W079"
 msgid "Unspecified place"
@@ -46997,39 +46997,39 @@ msgstr "涉及其他家具上的跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W080"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W081"
 msgid "Residential institution"
-msgstr "院舍 "
+msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W082"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W083"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W084"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W085"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W086"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W087"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W088"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W089"
 msgid "Unspecified place"
@@ -47045,7 +47045,7 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W091"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W092"
 msgid "School, other institution and public administrative area"
@@ -47053,27 +47053,27 @@ msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W093"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W094"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W095"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W096"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W097"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W098"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W099"
 msgid "Unspecified place"
@@ -47089,35 +47089,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W101"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W102"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W103"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W104"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W105"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W106"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W107"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W108"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W109"
 msgid "Unspecified place"
@@ -47129,7 +47129,7 @@ msgstr "在梯子上跌倒和跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W110"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W111"
 msgid "Residential institution"
@@ -47137,31 +47137,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W112"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W113"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W114"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W115"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W116"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积"
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W117"
 msgid "Farm"
-msgstr "  农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W118"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W119"
 msgid "Unspecified place"
@@ -47173,7 +47173,7 @@ msgstr "在脚手架上跌倒和跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W120"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W121"
 msgid "Residential institution"
@@ -47181,27 +47181,27 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W122"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W123"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W124"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W125"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W126"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W127"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W128"
 msgid "Other specified place"
@@ -47209,7 +47209,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W129"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W13"
 msgid "Fall from, out of or through building or structure"
@@ -47217,39 +47217,39 @@ msgstr "从房屋或建筑结构上跌落或跌出"
 
 msgctxt "model:gnuhealth.pathology,name:W130"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W131"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W132"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W133"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W134"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W135"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W136"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W137"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W138"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W139"
 msgid "Unspecified place"
@@ -47261,39 +47261,39 @@ msgstr "从树上跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W140"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W141"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W142"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W143"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W144"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W145"
 msgid "Trade and service area"
-msgstr " 贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W146"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W147"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W148"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W149"
 msgid "Unspecified place"
@@ -47305,35 +47305,35 @@ msgstr "从悬崖上跌落"
 
 msgctxt "model:gnuhealth.pathology,name:W150"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W151"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W152"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W153"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W154"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W155"
 msgid "Trade and service area"
-msgstr " 贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W156"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W157"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W158"
 msgid "Other specified place"
@@ -47341,7 +47341,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W159"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W16"
 msgid ""
@@ -47542,7 +47542,7 @@ msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W204"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W205"
 msgid "Trade and service area"
@@ -47726,7 +47726,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W246"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W247"
 msgid "Farm"
@@ -47770,7 +47770,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W256"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W257"
 msgid "Farm"
@@ -47798,7 +47798,7 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W262"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W263"
 msgid "Sports and athletics area"
@@ -47814,7 +47814,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W266"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W267"
 msgid "Farm"
@@ -47858,7 +47858,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W276"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W277"
 msgid "Farm"
@@ -47902,7 +47902,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W286"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W287"
 msgid "Farm"
@@ -47938,7 +47938,7 @@ msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W294"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W295"
 msgid "Trade and service area"
@@ -47946,7 +47946,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W296"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W297"
 msgid "Farm"
@@ -47990,7 +47990,7 @@ msgstr "贸易和服务器"
 
 msgctxt "model:gnuhealth.pathology,name:W306"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W307"
 msgid "Farm"
@@ -48034,7 +48034,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W316"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W317"
 msgid "Farm"
@@ -48078,7 +48078,7 @@ msgstr "贸易和服务器"
 
 msgctxt "model:gnuhealth.pathology,name:W326"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W327"
 msgid "Farm"
@@ -48122,7 +48122,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W336"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W337"
 msgid "Farm"
@@ -48166,7 +48166,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W346"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W347"
 msgid "Farm"
@@ -48210,7 +48210,7 @@ msgstr "贸易和服务器"
 
 msgctxt "model:gnuhealth.pathology,name:W356"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W357"
 msgid "Farm"
@@ -48254,7 +48254,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W366"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W367"
 msgid "Farm"
@@ -48298,7 +48298,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W376"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W377"
 msgid "Farm"
@@ -48342,7 +48342,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W386"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W387"
 msgid "Farm"
@@ -48386,7 +48386,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W396"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W397"
 msgid "Farm"
@@ -48430,7 +48430,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W406"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W407"
 msgid "Farm"
@@ -48458,7 +48458,7 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W412"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W413"
 msgid "Sports and athletics area"
@@ -48474,7 +48474,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W416"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W417"
 msgid "Farm"
@@ -48518,7 +48518,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W426"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W427"
 msgid "Farm"
@@ -48562,7 +48562,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W436"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W437"
 msgid "Farm"
@@ -48606,7 +48606,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W446"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W447"
 msgid "Farm"
@@ -48634,7 +48634,7 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W452"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W453"
 msgid "Sports and athletics area"
@@ -48650,7 +48650,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W456"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W457"
 msgid "Farm"
@@ -48698,7 +48698,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W496"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W497"
 msgid "Farm"
@@ -48734,7 +48734,7 @@ msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W504"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W505"
 msgid "Trade and service area"
@@ -48742,7 +48742,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W506"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W507"
 msgid "Farm"
@@ -48754,7 +48754,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W509"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W51"
 msgid "Striking against or bumped into by another person"
@@ -48786,7 +48786,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W516"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W517"
 msgid "Farm"
@@ -48818,7 +48818,7 @@ msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W523"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W524"
 msgid "Street and highway"
@@ -48830,7 +48830,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W526"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W527"
 msgid "Farm"
@@ -48854,7 +48854,7 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W531"
 msgid "Residential institution"
-msgstr "院舍 "
+msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W532"
 msgid "School, other institution and public administrative area"
@@ -48874,7 +48874,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W536"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W537"
 msgid "Farm"
@@ -48918,7 +48918,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W546"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W547"
 msgid "Farm"
@@ -48942,31 +48942,31 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W551"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W552"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W553"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W554"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W555"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W556"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W557"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W558"
 msgid "Other specified place"
@@ -48974,7 +48974,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W559"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W56"
 msgid "Contact with marine animal"
@@ -48986,35 +48986,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W561"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W562"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W563"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W564"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W565"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W566"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W567"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W568"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W569"
 msgid "Unspecified place"
@@ -49026,39 +49026,39 @@ msgstr "被无毒昆虫和其他无毒节肢动物咬伤或螫伤"
 
 msgctxt "model:gnuhealth.pathology,name:W570"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W571"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W572"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W573"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W574"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W575"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W576"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W577"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W578"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W579"
 msgid "Unspecified place"
@@ -49074,35 +49074,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W581"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W582"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W583"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W584"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W585"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W586"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W587"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W588"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W589"
 msgid "Unspecified place"
@@ -49114,31 +49114,31 @@ msgstr "被其他爬行动物咬伤或压伤"
 
 msgctxt "model:gnuhealth.pathology,name:W590"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W591"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W592"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W593"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W594"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W595"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W596"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W597"
 msgid "Farm"
@@ -49146,7 +49146,7 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W598"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W599"
 msgid "Unspecified place"
@@ -49158,35 +49158,35 @@ msgstr "接触植物荆棘和刺以及锐利叶片的损伤"
 
 msgctxt "model:gnuhealth.pathology,name:W600"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W601"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W602"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W603"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W604"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W605"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W606"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W607"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W608"
 msgid "Other specified place"
@@ -49194,7 +49194,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W609"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W64"
 msgid "Exposure to other and unspecified animate mechanical forces"
@@ -49202,19 +49202,19 @@ msgstr "暴露于其他和未特指的有生命机械性力量下"
 
 msgctxt "model:gnuhealth.pathology,name:W640"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W641"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W642"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W643"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W644"
 msgid "Street and highway"
@@ -49222,19 +49222,19 @@ msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W645"
 msgid "Trade and service area"
-msgstr "  贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W646"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W647"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W648"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W649"
 msgid "Unspecified place"
@@ -49246,39 +49246,39 @@ msgstr "在浴盆内淹溺和沉没"
 
 msgctxt "model:gnuhealth.pathology,name:W650"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W651"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W652"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W653"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W654"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W655"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W656"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W657"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W658"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W659"
 msgid "Unspecified place"
@@ -49290,23 +49290,23 @@ msgstr "落入浴盆后淹溺和沉没"
 
 msgctxt "model:gnuhealth.pathology,name:W660"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W661"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W662"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W663"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W664"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W665"
 msgid "Trade and service area"
@@ -49314,15 +49314,15 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W666"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W667"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W668"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W669"
 msgid "Unspecified place"
@@ -49338,39 +49338,39 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W671"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W672"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W673"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W674"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W675"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W676"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W677"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W678"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W679"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W68"
 msgid "Drowning and submersion following fall into swimming-pool"
@@ -49378,39 +49378,39 @@ msgstr "落入游泳池后淹溺和沉没"
 
 msgctxt "model:gnuhealth.pathology,name:W680"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W681"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W682"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W683"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W684"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W685"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W686"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W687"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W688"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W689"
 msgid "Unspecified place"
@@ -49422,7 +49422,7 @@ msgstr "在自然水域中淹溺和沉没"
 
 msgctxt "model:gnuhealth.pathology,name:W690"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W691"
 msgid "Residential institution"
@@ -49430,31 +49430,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W692"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W693"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W694"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W695"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W696"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W697"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W698"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W699"
 msgid "Unspecified place"
@@ -49466,39 +49466,39 @@ msgstr "落入自然水域后淹溺和沉没"
 
 msgctxt "model:gnuhealth.pathology,name:W700"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W701"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W702"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W703"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W704"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W705"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W706"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W707"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W708"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W709"
 msgid "Unspecified place"
@@ -49510,19 +49510,19 @@ msgstr "其他特指的淹溺和沉没"
 
 msgctxt "model:gnuhealth.pathology,name:W730"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W731"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W732"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W733"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W734"
 msgid "Street and highway"
@@ -49530,19 +49530,19 @@ msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W735"
 msgid "Trade and service area"
-msgstr "  贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W736"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W737"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W738"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W739"
 msgid "Unspecified place"
@@ -49558,35 +49558,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W741"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W742"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W743"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W744"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W745"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W746"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W747"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W748"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W749"
 msgid "Unspecified place"
@@ -49598,23 +49598,23 @@ msgstr "在床上意外窒息和绞窄"
 
 msgctxt "model:gnuhealth.pathology,name:W750"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W751"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W752"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W753"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W754"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W755"
 msgid "Trade and service area"
@@ -49622,15 +49622,15 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W756"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W757"
 msgid "Farm"
-msgstr "  农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W758"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W759"
 msgid "Unspecified place"
@@ -49642,31 +49642,31 @@ msgstr "其他意外悬吊和绞窄"
 
 msgctxt "model:gnuhealth.pathology,name:W760"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W761"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W762"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W763"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W764"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W765"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W766"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W767"
 msgid "Farm"
@@ -49674,7 +49674,7 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W768"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W769"
 msgid "Unspecified place"
@@ -49694,7 +49694,7 @@ msgstr "院舍"
 
 msgctxt "model:gnuhealth.pathology,name:W772"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W773"
 msgid "Sports and athletics area"
@@ -49710,7 +49710,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W776"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W777"
 msgid "Farm"
@@ -49730,39 +49730,39 @@ msgstr "吸入胃内容物"
 
 msgctxt "model:gnuhealth.pathology,name:W780"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W781"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W782"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W783"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W784"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W785"
 msgid "Trade and service area"
-msgstr " 贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W786"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W787"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W788"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W789"
 msgid "Unspecified place"
@@ -49775,19 +49775,19 @@ msgstr "吸入或咽下食物引起的呼吸道梗阻"
 
 msgctxt "model:gnuhealth.pathology,name:W790"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W791"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W792"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W793"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W794"
 msgid "Street and highway"
@@ -49795,15 +49795,15 @@ msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W795"
 msgid "Trade and service area"
-msgstr "  贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W796"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W797"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W798"
 msgid "Other specified place"
@@ -49811,7 +49811,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W799"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W80"
 msgid ""
@@ -49821,39 +49821,39 @@ msgstr "吸入和咽下其他物体引起的呼吸道梗阻"
 
 msgctxt "model:gnuhealth.pathology,name:W800"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W801"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W802"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W803"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W804"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W805"
 msgid "Trade and service area"
-msgstr " 贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W806"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W807"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W808"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W809"
 msgid "Unspecified place"
@@ -49869,35 +49869,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W811"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W812"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W813"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W814"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W815"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W816"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W817"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W818"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W819"
 msgid "Unspecified place"
@@ -49909,11 +49909,11 @@ msgstr "其他特指的对呼吸的威胁"
 
 msgctxt "model:gnuhealth.pathology,name:W830"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W831"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W832"
 msgid "School, other institution and public administrative area"
@@ -49921,23 +49921,23 @@ msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W833"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W834"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W835"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W836"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W837"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W838"
 msgid "Other specified place"
@@ -49945,7 +49945,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W839"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W84"
 msgid "Unspecified threat to breathing"
@@ -49953,7 +49953,7 @@ msgstr "未特指的对呼吸的威胁"
 
 msgctxt "model:gnuhealth.pathology,name:W840"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W841"
 msgid "Residential institution"
@@ -49961,31 +49961,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W842"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W843"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W844"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W845"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W846"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W847"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W848"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W849"
 msgid "Unspecified place"
@@ -50001,35 +50001,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W851"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W852"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域"
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W853"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W854"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W855"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W856"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W857"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W858"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W859"
 msgid "Unspecified place"
@@ -50041,39 +50041,39 @@ msgstr "暴露于其他特指的电流下"
 
 msgctxt "model:gnuhealth.pathology,name:W860"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W861"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W862"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W863"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W864"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W865"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W866"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:W867"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W868"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W869"
 msgid "Unspecified place"
@@ -50109,7 +50109,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W876"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W877"
 msgid "Farm"
@@ -50153,7 +50153,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W886"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W887"
 msgid "Farm"
@@ -50197,7 +50197,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W896"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W897"
 msgid "Farm"
@@ -50217,7 +50217,7 @@ msgstr "暴露于其他非电离辐射下"
 
 msgctxt "model:gnuhealth.pathology,name:W900"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:W901"
 msgid "Residential institution"
@@ -50225,27 +50225,27 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:W902"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域"
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:W903"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:W904"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:W905"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W906"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W907"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:W908"
 msgid "Other specified place"
@@ -50253,7 +50253,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:W909"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:W91"
 msgid "Exposure to unspecified type of radiation"
@@ -50285,7 +50285,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W916"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W917"
 msgid "Farm"
@@ -50329,7 +50329,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W926"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W927"
 msgid "Farm"
@@ -50373,7 +50373,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W936"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W937"
 msgid "Farm"
@@ -50417,7 +50417,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W946"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W947"
 msgid "Farm"
@@ -50461,7 +50461,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:W996"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:W997"
 msgid "Farm"
@@ -50505,7 +50505,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X006"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X007"
 msgid "Farm"
@@ -50549,7 +50549,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X016"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X017"
 msgid "Farm"
@@ -50593,7 +50593,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X026"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X027"
 msgid "Farm"
@@ -50637,7 +50637,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X036"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X037"
 msgid "Farm"
@@ -50673,7 +50673,7 @@ msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X044"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X045"
 msgid "Trade and service area"
@@ -50681,7 +50681,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X046"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X047"
 msgid "Farm"
@@ -50705,35 +50705,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X051"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X052"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X053"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X054"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X055"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X056"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X057"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X058"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X059"
 msgid "Unspecified place"
@@ -50745,7 +50745,7 @@ msgstr "暴露于其他衣着用品和装饰品的起火或焚毁下"
 
 msgctxt "model:gnuhealth.pathology,name:X060"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X061"
 msgid "Residential institution"
@@ -50753,31 +50753,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X062"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X063"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X064"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X065"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X066"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X067"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X068"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X069"
 msgid "Unspecified place"
@@ -50793,31 +50793,31 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X081"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X082"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X083"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X084"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X085"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X086"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X087"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X088"
 msgid "Other specified place"
@@ -50825,7 +50825,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X089"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X09"
 msgid "Exposure to unspecified smoke, fire and flames"
@@ -50837,35 +50837,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X091"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X092"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X093"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X094"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X095"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X096"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X097"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X098"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X099"
 msgid "Unspecified place"
@@ -50877,7 +50877,7 @@ msgstr "接触热饮料、食物和动植物油"
 
 msgctxt "model:gnuhealth.pathology,name:X100"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X101"
 msgid "Residential institution"
@@ -50885,31 +50885,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X102"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X103"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X104"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X105"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X106"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X107"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X108"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X109"
 msgid "Unspecified place"
@@ -50921,7 +50921,7 @@ msgstr "接触热自来水"
 
 msgctxt "model:gnuhealth.pathology,name:X110"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X111"
 msgid "Residential institution"
@@ -50929,31 +50929,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X112"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X113"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X114"
 msgid "Street and highway"
-msgstr " 街道和高速路"
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X115"
 msgid "Trade and service area"
-msgstr "  贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X116"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X117"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X118"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X119"
 msgid "Unspecified place"
@@ -50965,31 +50965,31 @@ msgstr "接触其他热液体"
 
 msgctxt "model:gnuhealth.pathology,name:X120"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X121"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X122"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X123"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X124"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X125"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X126"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X127"
 msgid "Farm"
@@ -50997,7 +50997,7 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X128"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X129"
 msgid "Unspecified place"
@@ -51013,27 +51013,27 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X131"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X132"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X133"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X134"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X135"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X136"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X137"
 msgid "Farm"
@@ -51041,11 +51041,11 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X138"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X139"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X14"
 msgid "Contact with hot air and gases"
@@ -51053,7 +51053,7 @@ msgstr "接触热空气和气体"
 
 msgctxt "model:gnuhealth.pathology,name:X140"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X141"
 msgid "Residential institution"
@@ -51061,27 +51061,27 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X142"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X143"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X144"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X145"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X146"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X147"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X148"
 msgid "Other specified place"
@@ -51089,7 +51089,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X149"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X15"
 msgid "Contact with hot household appliances"
@@ -51097,39 +51097,39 @@ msgstr "接触热的家用器具"
 
 msgctxt "model:gnuhealth.pathology,name:X150"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X151"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X152"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X153"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X154"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X155"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X156"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X157"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X158"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X159"
 msgid "Unspecified place"
@@ -51141,7 +51141,7 @@ msgstr "接触热的取暖器具、散热器和管"
 
 msgctxt "model:gnuhealth.pathology,name:X160"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X161"
 msgid "Residential institution"
@@ -51149,35 +51149,35 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X162"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X163"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X164"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X165"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X166"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X167"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X168"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X169"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X17"
 msgid "Contact with hot engines, machinery and tools"
@@ -51185,39 +51185,39 @@ msgstr "接触热的发动机、机械和工具"
 
 msgctxt "model:gnuhealth.pathology,name:X170"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X171"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X172"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X173"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X174"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X175"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X176"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X177"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X178"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X179"
 msgid "Unspecified place"
@@ -51229,7 +51229,7 @@ msgstr "接触其他热的金属"
 
 msgctxt "model:gnuhealth.pathology,name:X180"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X181"
 msgid "Residential institution"
@@ -51237,31 +51237,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X182"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X183"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X184"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X185"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X186"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X187"
 msgid "Farm"
-msgstr "  农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X188"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X189"
 msgid "Unspecified place"
@@ -51273,11 +51273,11 @@ msgstr "接触其他和未特指的热和烫的物质"
 
 msgctxt "model:gnuhealth.pathology,name:X190"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X191"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X192"
 msgid "School, other institution and public administrative area"
@@ -51285,27 +51285,27 @@ msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X193"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X194"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X195"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X196"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X197"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X198"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X199"
 msgid "Unspecified place"
@@ -51317,7 +51317,7 @@ msgstr "接触毒蛇和蜥蜴"
 
 msgctxt "model:gnuhealth.pathology,name:X200"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X201"
 msgid "Residential institution"
@@ -51325,31 +51325,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X202"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X203"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X204"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X205"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X206"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X207"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X208"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X209"
 msgid "Unspecified place"
@@ -51361,7 +51361,7 @@ msgstr "接触毒蜘蛛"
 
 msgctxt "model:gnuhealth.pathology,name:X210"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X211"
 msgid "Residential institution"
@@ -51369,31 +51369,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X212"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X213"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X214"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X215"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X216"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X217"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X218"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X219"
 msgid "Unspecified place"
@@ -51405,7 +51405,7 @@ msgstr "接触蝎子"
 
 msgctxt "model:gnuhealth.pathology,name:X220"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X221"
 msgid "Residential institution"
@@ -51413,27 +51413,27 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X222"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X223"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X224"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X225"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X226"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X227"
 msgid "Farm"
-msgstr "  农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X228"
 msgid "Other specified place"
@@ -51441,7 +51441,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X229"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X23"
 msgid "Contact with hornets, wasps and bees"
@@ -51449,7 +51449,7 @@ msgstr "接触大黄蜂、黄蜂和蜜蜂"
 
 msgctxt "model:gnuhealth.pathology,name:X230"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X231"
 msgid "Residential institution"
@@ -51457,11 +51457,11 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X232"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X233"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X234"
 msgid "Street and highway"
@@ -51469,19 +51469,19 @@ msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X235"
 msgid "Trade and service area"
-msgstr "  贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X236"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X237"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X238"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X239"
 msgid "Unspecified place"
@@ -51493,39 +51493,39 @@ msgstr "接触蜈蚣和(热带)有毒的千足虫"
 
 msgctxt "model:gnuhealth.pathology,name:X240"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X241"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X242"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X243"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X244"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X245"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X246"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X247"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X248"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X249"
 msgid "Unspecified place"
@@ -51541,35 +51541,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X251"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X252"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X253"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X254"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X255"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X256"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X257"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X258"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X259"
 msgid "Unspecified place"
@@ -51581,7 +51581,7 @@ msgstr "接触有毒的海生动物和植物"
 
 msgctxt "model:gnuhealth.pathology,name:X260"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X261"
 msgid "Residential institution"
@@ -51589,27 +51589,27 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X262"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X263"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X264"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X265"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X266"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X267"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X268"
 msgid "Other specified place"
@@ -51617,7 +51617,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X269"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X27"
 msgid "Contact with other specified venomous animals"
@@ -51625,11 +51625,11 @@ msgstr "接触其他特指的有毒动物"
 
 msgctxt "model:gnuhealth.pathology,name:X270"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X271"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X272"
 msgid "School, other institution and public administrative area"
@@ -51637,27 +51637,27 @@ msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X273"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X274"
 msgid "Street and highway"
-msgstr " 街道和高速路"
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X275"
 msgid "Trade and service area"
-msgstr "  贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X276"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X277"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X278"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X279"
 msgid "Unspecified place"
@@ -51669,35 +51669,35 @@ msgstr "接触其他特指的有毒植物"
 
 msgctxt "model:gnuhealth.pathology,name:X280"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X281"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X282"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X283"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X284"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X285"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X286"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X287"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X288"
 msgid "Other specified place"
@@ -51705,7 +51705,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X289"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X29"
 msgid "Contact with unspecified venomous animal or plant"
@@ -51713,39 +51713,39 @@ msgstr "接触未特指的有毒动物或植物"
 
 msgctxt "model:gnuhealth.pathology,name:X290"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X291"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X292"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X293"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X294"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X295"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X296"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X297"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X298"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X299"
 msgid "Unspecified place"
@@ -51761,39 +51761,39 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X301"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X302"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X303"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X304"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X305"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X306"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X307"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X308"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X309"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X31"
 msgid "Exposure to excessive natural cold"
@@ -51801,39 +51801,39 @@ msgstr "暴露于过度自然冷下"
 
 msgctxt "model:gnuhealth.pathology,name:X310"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X311"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X312"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X313"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X314"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X315"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X316"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X317"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X318"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X319"
 msgid "Unspecified place"
@@ -51849,39 +51849,39 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X321"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X322"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X323"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X324"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X325"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X326"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X327"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X328"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X329"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X33"
 msgid "Victim of lightning"
@@ -51889,35 +51889,35 @@ msgstr "闪电的受害者"
 
 msgctxt "model:gnuhealth.pathology,name:X330"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X331"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X332"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X333"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X334"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X335"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X336"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X337"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X338"
 msgid "Other specified place"
@@ -51925,7 +51925,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X339"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X34"
 msgid "Victim of earthquake"
@@ -51941,27 +51941,27 @@ msgstr ""
 
 msgctxt "model:gnuhealth.pathology,name:X342"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X343"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X344"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X345"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X346"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X347"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X348"
 msgid "Victim of other specified effects of earthquake"
@@ -51981,31 +51981,31 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X351"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X352"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X353"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X354"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X355"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X356"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X357"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X358"
 msgid "Other specified place"
@@ -52013,7 +52013,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X359"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X36"
 msgid "Victim of avalanche, landslide and other earth movements"
@@ -52025,27 +52025,27 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X361"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X362"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X363"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X364"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X365"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X366"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X367"
 msgid "Farm"
@@ -52053,7 +52053,7 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X368"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X369"
 msgid "Unspecified place"
@@ -52065,35 +52065,35 @@ msgstr "灾难性暴风雨受害者"
 
 msgctxt "model:gnuhealth.pathology,name:X370"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X371"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X372"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X373"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X374"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X375"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X376"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X377"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X378"
 msgid "Other specified place"
@@ -52101,7 +52101,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X379"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X38"
 msgid "Victim of flood"
@@ -52109,7 +52109,7 @@ msgstr "洪水受害者"
 
 msgctxt "model:gnuhealth.pathology,name:X380"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X381"
 msgid "Residential institution"
@@ -52117,23 +52117,23 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X382"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X383"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X384"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X385"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X386"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X387"
 msgid "Farm"
@@ -52141,11 +52141,11 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X388"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X389"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X39"
 msgid "Exposure to other and unspecified forces of nature"
@@ -52153,39 +52153,39 @@ msgstr "暴露于其他和未特指的自然力量下"
 
 msgctxt "model:gnuhealth.pathology,name:X390"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X391"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X392"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X393"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X394"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X395"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X396"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X397"
 msgid "Farm"
-msgstr "  农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X398"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X399"
 msgid "Unspecified place"
@@ -52199,7 +52199,7 @@ msgstr "非阿片样镇痛药、解热药和抗风湿药的意外中毒及暴露
 
 msgctxt "model:gnuhealth.pathology,name:X400"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X401"
 msgid "Residential institution"
@@ -52207,31 +52207,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X402"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X403"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X404"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X405"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X406"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X407"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X408"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X409"
 msgid "Unspecified place"
@@ -52245,7 +52245,7 @@ msgstr "镇癫痫药、镇静催眠药、抗帕金森病药和对精神有影响
 
 msgctxt "model:gnuhealth.pathology,name:X410"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X411"
 msgid "Residential institution"
@@ -52253,23 +52253,23 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X412"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X413"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X414"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X415"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X416"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X417"
 msgid "Farm"
@@ -52277,7 +52277,7 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X418"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X419"
 msgid "Unspecified place"
@@ -52291,39 +52291,39 @@ msgstr "麻醉品和致幻药[致幻剂]意外中毒及暴露于该类药物,不
 
 msgctxt "model:gnuhealth.pathology,name:X420"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X421"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X422"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X423"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X424"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X425"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X426"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X427"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X428"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X429"
 msgid "Unspecified place"
@@ -52337,39 +52337,39 @@ msgstr "作用于自主神经系统的其他药物的意外中毒及暴露于该
 
 msgctxt "model:gnuhealth.pathology,name:X430"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X431"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X432"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X433"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X434"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X435"
 msgid "Trade and service area"
-msgstr " 贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X436"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X437"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X438"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X439"
 msgid "Unspecified place"
@@ -52383,39 +52383,39 @@ msgstr "其他和未特指的药物、药剂和生物制品的意外中毒及暴
 
 msgctxt "model:gnuhealth.pathology,name:X440"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X441"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X442"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X443"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X444"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X445"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X446"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X447"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X448"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X449"
 msgid "Unspecified place"
@@ -52431,35 +52431,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X451"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X452"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X453"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X454"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X455"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X456"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X457"
 msgid "Farm"
-msgstr "  农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X458"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X459"
 msgid "Unspecified place"
@@ -52473,7 +52473,7 @@ msgstr "有机溶剂和卤素烃及其蒸气的意外中毒及暴露于该类物
 
 msgctxt "model:gnuhealth.pathology,name:X460"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X461"
 msgid "Residential institution"
@@ -52481,27 +52481,27 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X462"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X463"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X464"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X465"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X466"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X467"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X468"
 msgid "Other specified place"
@@ -52509,7 +52509,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X469"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X47"
 msgid "Accidental poisoning by and exposure to other gases and vapours"
@@ -52577,23 +52577,23 @@ msgstr "杀虫剂的意外中毒及暴露于杀虫剂"
 
 msgctxt "model:gnuhealth.pathology,name:X480"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X481"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X482"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X483"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X484"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X485"
 msgid "Trade and service area"
@@ -52601,15 +52601,15 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X486"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X487"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X488"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X489"
 msgid "Unspecified place"
@@ -52623,7 +52623,7 @@ msgstr "其他和未特指的化学制品和有害物质的意外中毒及暴露
 
 msgctxt "model:gnuhealth.pathology,name:X490"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X491"
 msgid "Residential institution"
@@ -52631,31 +52631,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X492"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X493"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X494"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X495"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X496"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X497"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X498"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X499"
 msgid "Unspecified place"
@@ -52667,39 +52667,39 @@ msgstr "操劳过度和剧烈或重复运动"
 
 msgctxt "model:gnuhealth.pathology,name:X500"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X501"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X502"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X503"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X504"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X505"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X506"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X507"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X508"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X509"
 msgid "Unspecified place"
@@ -52711,39 +52711,39 @@ msgstr "旅行和运动"
 
 msgctxt "model:gnuhealth.pathology,name:X510"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X511"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X512"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X513"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X514"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X515"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X516"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X517"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X518"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X519"
 msgid "Unspecified place"
@@ -52755,39 +52755,39 @@ msgstr "长期滞留在失重环境下"
 
 msgctxt "model:gnuhealth.pathology,name:X520"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X521"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X522"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X523"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X524"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X525"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X526"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X527"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X528"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X529"
 msgid "Unspecified place"
@@ -52799,39 +52799,39 @@ msgstr "食物缺乏"
 
 msgctxt "model:gnuhealth.pathology,name:X530"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X531"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X532"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X533"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X534"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X535"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X536"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X537"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X538"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X539"
 msgid "Unspecified place"
@@ -52843,39 +52843,39 @@ msgstr "水缺乏"
 
 msgctxt "model:gnuhealth.pathology,name:X540"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X541"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X542"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X543"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X544"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X545"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X546"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X547"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X548"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X549"
 msgid "Unspecified place"
@@ -52891,31 +52891,31 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X571"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X572"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X573"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X574"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X575"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X576"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X577"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X578"
 msgid "Other specified place"
@@ -52923,7 +52923,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X579"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X58"
 msgid "Exposure to other specified factors"
@@ -52931,35 +52931,35 @@ msgstr "暴露于其他特指的因素下"
 
 msgctxt "model:gnuhealth.pathology,name:X580"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X581"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X582"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X583"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X584"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X585"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X586"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X587"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X588"
 msgid "Other specified place"
@@ -52967,7 +52967,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X589"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X59"
 msgid "Exposure to unspecified factor"
@@ -52983,31 +52983,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X592"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X593"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X594"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X595"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X596"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X597"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X598"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X599"
 msgid "Exposure to unspecified factor causing other and unspecified injury"
@@ -53021,7 +53021,7 @@ msgstr "非阿片样镇痛药、解热药和抗风湿药的故意自毒及暴露
 
 msgctxt "model:gnuhealth.pathology,name:X600"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X601"
 msgid "Residential institution"
@@ -53029,31 +53029,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X602"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X603"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X604"
 msgid "Street and highway"
-msgstr " 街道和高速路"
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X605"
 msgid "Trade and service area"
-msgstr "  贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X606"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X607"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X608"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X609"
 msgid "Unspecified place"
@@ -53067,39 +53067,39 @@ msgstr "镇癫痫药、镇静催眠药、抗帕金森病药和对精神有影响
 
 msgctxt "model:gnuhealth.pathology,name:X610"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X611"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X612"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X613"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X614"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X615"
 msgid "Trade and service area"
-msgstr " 贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X616"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X617"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X618"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X619"
 msgid "Unspecified place"
@@ -53113,39 +53113,39 @@ msgstr "麻醉品和致幻药[致幻剂]故意自毒及暴露于该类药物,不
 
 msgctxt "model:gnuhealth.pathology,name:X620"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X621"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X622"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X623"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X624"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X625"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X626"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X627"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X628"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X629"
 msgid "Unspecified place"
@@ -53163,35 +53163,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X631"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X632"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X633"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X634"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X635"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X636"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X637"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X638"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X639"
 msgid "Unspecified place"
@@ -53205,39 +53205,39 @@ msgstr "其他和未特指的药物、药剂和生物制品的故意自毒及暴
 
 msgctxt "model:gnuhealth.pathology,name:X640"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X641"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X642"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X643"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X644"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X645"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X646"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X647"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X648"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X649"
 msgid "Unspecified place"
@@ -53249,39 +53249,39 @@ msgstr "酒精的故意自毒及暴露于酒精"
 
 msgctxt "model:gnuhealth.pathology,name:X650"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X651"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X652"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X653"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X654"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X655"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X656"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X657"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X658"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X659"
 msgid "Unspecified place"
@@ -53299,35 +53299,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X661"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X662"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X663"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X664"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X665"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X666"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X667"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X668"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X669"
 msgid "Unspecified place"
@@ -53401,35 +53401,35 @@ msgstr "杀虫剂的故意自毒及暴露于杀虫剂"
 
 msgctxt "model:gnuhealth.pathology,name:X680"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X681"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X682"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X683"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X684"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X685"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X686"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X687"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X688"
 msgid "Other specified place"
@@ -53437,7 +53437,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X689"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X69"
 msgid ""
@@ -53447,39 +53447,39 @@ msgstr "其他和未特指的化学制品和有害物质的故意自毒及暴露
 
 msgctxt "model:gnuhealth.pathology,name:X690"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X691"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X692"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X693"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X694"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X695"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X696"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X697"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X698"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X699"
 msgid "Unspecified place"
@@ -53495,35 +53495,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X701"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X702"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X703"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X704"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X705"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X706"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X707"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X708"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X709"
 msgid "Unspecified place"
@@ -53535,39 +53535,39 @@ msgstr "用淹溺和沉没方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X710"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X711"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X712"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X713"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X714"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X715"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X716"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X717"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X718"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X719"
 msgid "Unspecified place"
@@ -53579,39 +53579,39 @@ msgstr "用手枪发射方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X720"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X721"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X722"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X723"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X724"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X725"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X726"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X727"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X728"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X729"
 msgid "Unspecified place"
@@ -53627,31 +53627,31 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X731"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X732"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X733"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X734"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X735"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X736"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X737"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X738"
 msgid "Other specified place"
@@ -53659,7 +53659,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X739"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X74"
 msgid "Intentional self-harm by other and unspecified firearm discharge"
@@ -53667,39 +53667,39 @@ msgstr "用其他和未特指的火器发射方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X740"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X741"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X742"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X743"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X744"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X745"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X746"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X747"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X748"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X749"
 msgid "Unspecified place"
@@ -53711,7 +53711,7 @@ msgstr "用爆炸物方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X750"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X751"
 msgid "Residential institution"
@@ -53719,31 +53719,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X752"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X753"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X754"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X755"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X756"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X757"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X758"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X759"
 msgid "Unspecified place"
@@ -53755,35 +53755,35 @@ msgstr "用烟、火和火焰方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X760"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X761"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X762"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X763"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X764"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X765"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X766"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X767"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X768"
 msgid "Other specified place"
@@ -53791,7 +53791,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X769"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X77"
 msgid "Intentional self-harm by steam, hot vapours and hot objects"
@@ -53799,39 +53799,39 @@ msgstr "用蒸气、热气和热物体方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X770"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X771"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X772"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X773"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X774"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X775"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X776"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X777"
 msgid "Farm"
-msgstr "  农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X778"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X779"
 msgid "Unspecified place"
@@ -53843,7 +53843,7 @@ msgstr "用尖锐物体方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X780"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X781"
 msgid "Residential institution"
@@ -53851,31 +53851,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X782"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X783"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X784"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X785"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X786"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X787"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X788"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X789"
 msgid "Unspecified place"
@@ -53887,35 +53887,35 @@ msgstr "用钝器方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X790"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X791"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X792"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X793"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X794"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X795"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X796"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X797"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X798"
 msgid "Other specified place"
@@ -53923,7 +53923,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X799"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X80"
 msgid "Intentional self-harm by jumping from a high place"
@@ -53931,15 +53931,15 @@ msgstr "用从高处跳下方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X800"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X801"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X802"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X803"
 msgid "Sports and athletics area"
@@ -53947,19 +53947,19 @@ msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X804"
 msgid "Street and highway"
-msgstr "   街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X805"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X806"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X807"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X808"
 msgid "Other specified place"
@@ -53967,7 +53967,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X809"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X81"
 msgid "Intentional self-harm by jumping or lying before moving object"
@@ -53979,35 +53979,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X811"
 msgid "Residential institution"
-msgstr " 居住地"
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X812"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X813"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X814"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X815"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X816"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X817"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X818"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X819"
 msgid "Unspecified place"
@@ -54019,43 +54019,43 @@ msgstr "用机动车辆碰撞方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X820"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X821"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X822"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X823"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X824"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X825"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X826"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X827"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X828"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X829"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X83"
 msgid "Intentional self-harm by other specified means"
@@ -54063,31 +54063,31 @@ msgstr "用其他特指的方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X830"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X831"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X832"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X833"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X834"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X835"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X836"
 msgid "Industrial and construction area"
-msgstr "工业和建筑区  "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X837"
 msgid "Farm"
@@ -54095,7 +54095,7 @@ msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X838"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X839"
 msgid "Unspecified place"
@@ -54107,39 +54107,39 @@ msgstr "用未特指的方式故意自害"
 
 msgctxt "model:gnuhealth.pathology,name:X840"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X841"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X842"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X843"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X844"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X845"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X846"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑区 "
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X847"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X848"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X849"
 msgid "Unspecified place"
@@ -54175,7 +54175,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X856"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:X857"
 msgid "Farm"
@@ -54195,39 +54195,39 @@ msgstr "用腐蚀性物质进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X860"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X861"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X862"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X863"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区"
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X864"
 msgid "Street and highway"
-msgstr "   街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X865"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X866"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X867"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X868"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X869"
 msgid "Unspecified place"
@@ -54239,35 +54239,35 @@ msgstr "用杀虫剂进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X870"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X871"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X872"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X873"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X874"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X875"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X876"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X877"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X878"
 msgid "Other specified place"
@@ -54275,7 +54275,7 @@ msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X879"
 msgid "Unspecified place"
-msgstr " 未指定的地方"
+msgstr "未指定的地方"
 
 msgctxt "model:gnuhealth.pathology,name:X88"
 msgid "Assault by gases and vapours"
@@ -54333,35 +54333,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X891"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X892"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X893"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X894"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X895"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X896"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X897"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X898"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X899"
 msgid "Unspecified place"
@@ -54373,39 +54373,39 @@ msgstr "用未特指的化学制品或有害物质进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X900"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X901"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X902"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X903"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X904"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X905"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X906"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X907"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X908"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X909"
 msgid "Unspecified place"
@@ -54417,39 +54417,39 @@ msgstr "用悬吊、绞勒和窒息进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X910"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X911"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X912"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X913"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X914"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X915"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X916"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X917"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X918"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X919"
 msgid "Unspecified place"
@@ -54461,7 +54461,7 @@ msgstr "用淹溺和沉没进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X920"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X921"
 msgid "Residential institution"
@@ -54469,31 +54469,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X922"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域"
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X923"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X924"
 msgid "Street and highway"
-msgstr "街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X925"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X926"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X927"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X928"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X929"
 msgid "Unspecified place"
@@ -54509,35 +54509,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X931"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X932"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X933"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X934"
 msgid "Street and highway"
-msgstr "  街道和高速路"
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X935"
 msgid "Trade and service area"
-msgstr "  贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X936"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X937"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X938"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X939"
 msgid "Unspecified place"
@@ -54553,23 +54553,23 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X941"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X942"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X943"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X944"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X945"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X946"
 msgid "Industrial and construction area"
@@ -54577,11 +54577,11 @@ msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X947"
 msgid "Farm"
-msgstr "  农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X948"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X949"
 msgid "Unspecified place"
@@ -54593,39 +54593,39 @@ msgstr "用其他和未特指的火器发射进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X950"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X951"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X952"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X953"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区   "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X954"
 msgid "Street and highway"
-msgstr "街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X955"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X956"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X957"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X958"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X959"
 msgid "Unspecified place"
@@ -54641,35 +54641,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X961"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X962"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X963"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区"
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X964"
 msgid "Street and highway"
-msgstr "   街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X965"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X966"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X967"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X968"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X969"
 msgid "Unspecified place"
@@ -54681,39 +54681,39 @@ msgstr "用烟、火和火焰进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X970"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X971"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X972"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X973"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X974"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X975"
 msgid "Trade and service area"
-msgstr " 贸易和服务区"
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X976"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积"
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X977"
 msgid "Farm"
-msgstr "  农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X978"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X979"
 msgid "Unspecified place"
@@ -54725,11 +54725,11 @@ msgstr "用蒸气、热气和热物体进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:X980"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X981"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X982"
 msgid "School, other institution and public administrative area"
@@ -54737,27 +54737,27 @@ msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X983"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X984"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X985"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X986"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X987"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X988"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X989"
 msgid "Unspecified place"
@@ -54773,35 +54773,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:X991"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:X992"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:X993"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:X994"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:X995"
 msgid "Trade and service area"
-msgstr "贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:X996"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:X997"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:X998"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:X999"
 msgid "Unspecified place"
@@ -54813,39 +54813,39 @@ msgstr "用钝器进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:Y000"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y001"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y002"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y003"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y004"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y005"
 msgid "Trade and service area"
-msgstr "贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y006"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y007"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y008"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y009"
 msgid "Unspecified place"
@@ -54861,35 +54861,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y011"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y012"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y013"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y014"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y015"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y016"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y017"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y018"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y019"
 msgid "Unspecified place"
@@ -54901,39 +54901,39 @@ msgstr "用将受害者推向或放置在移动物体前进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:Y020"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y021"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y022"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y023"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区"
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y024"
 msgid "Street and highway"
-msgstr "   街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y025"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y026"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y027"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y028"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y029"
 msgid "Unspecified place"
@@ -54945,7 +54945,7 @@ msgstr "用机动车辆碰撞进行加害,未特指场所"
 
 msgctxt "model:gnuhealth.pathology,name:Y030"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y031"
 msgid "Residential institution"
@@ -54953,7 +54953,7 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y032"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y033"
 msgid "Sports and athletics area"
@@ -54961,19 +54961,19 @@ msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y034"
 msgid "Street and highway"
-msgstr "   街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y035"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y036"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y037"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y038"
 msgid "Other specified place"
@@ -54989,7 +54989,7 @@ msgstr "用暴力进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:Y040"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y041"
 msgid "Residential institution"
@@ -54997,15 +54997,15 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y042"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y043"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y044"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y045"
 msgid "Trade and service area"
@@ -55013,15 +55013,15 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y046"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y047"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y048"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y049"
 msgid "Unspecified place"
@@ -55033,23 +55033,23 @@ msgstr "暴力的性加害"
 
 msgctxt "model:gnuhealth.pathology,name:Y050"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y051"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y052"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y053"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y054"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y055"
 msgid "Trade and service area"
@@ -55057,15 +55057,15 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y056"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y057"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y058"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y059"
 msgid "Unspecified place"
@@ -55129,39 +55129,39 @@ msgstr "用其他特指的手段进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:Y080"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y081"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y082"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y083"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y084"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y085"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y086"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y087"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y088"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y089"
 msgid "Unspecified place"
@@ -55173,7 +55173,7 @@ msgstr "用未特指的手段进行加害"
 
 msgctxt "model:gnuhealth.pathology,name:Y090"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y091"
 msgid "Residential institution"
@@ -55181,31 +55181,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y092"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y093"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y094"
 msgid "Street and highway"
-msgstr "  街道和高速路"
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y095"
 msgid "Trade and service area"
-msgstr "  贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y096"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y097"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y098"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y099"
 msgid "Unspecified place"
@@ -55219,35 +55219,35 @@ msgstr "非阿片样镇痛药、解热药和抗风湿药的中毒及暴露于该
 
 msgctxt "model:gnuhealth.pathology,name:Y100"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y101"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y102"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y103"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y104"
 msgid "Street and highway"
-msgstr " 街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y105"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y106"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y107"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y108"
 msgid "Other specified place"
@@ -55266,11 +55266,11 @@ msgstr "镇癫痫药、镇静催眠药、抗帕金森病药和对精神有影响
 
 msgctxt "model:gnuhealth.pathology,name:Y110"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y111"
 msgid "Residential institution"
-msgstr "居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y112"
 msgid "School, other institution and public administrative area"
@@ -55278,11 +55278,11 @@ msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y113"
 msgid "Sports and athletics area"
-msgstr "  体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y114"
 msgid "Street and highway"
-msgstr "  街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y115"
 msgid "Trade and service area"
@@ -55290,11 +55290,11 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y116"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y117"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y118"
 msgid "Other specified place"
@@ -55312,7 +55312,7 @@ msgstr "麻醉品和致幻药[致幻剂]的中毒及暴露于该类药物,不可
 
 msgctxt "model:gnuhealth.pathology,name:Y120"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y121"
 msgid "Residential institution"
@@ -55320,15 +55320,15 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y122"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y123"
 msgid "Sports and athletics area"
-msgstr "体育和竞技区  "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y124"
 msgid "Street and highway"
-msgstr " 街道和高速路  "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y125"
 msgid "Trade and service area"
@@ -55336,15 +55336,15 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y126"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y127"
 msgid "Farm"
-msgstr " 农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y128"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y129"
 msgid "Unspecified place"
@@ -55358,7 +55358,7 @@ msgstr "作用于自主神经系统的其他药物的中毒及暴露于该类药
 
 msgctxt "model:gnuhealth.pathology,name:Y130"
 msgid "Home"
-msgstr "家 "
+msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y131"
 msgid "Residential institution"
@@ -55366,31 +55366,31 @@ msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y132"
 msgid "School, other institution and public administrative area"
-msgstr " 学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y133"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y134"
 msgid "Street and highway"
-msgstr "  街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y135"
 msgid "Trade and service area"
-msgstr " 贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y136"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y137"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y138"
 msgid "Other specified place"
-msgstr " 其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y139"
 msgid "Unspecified place"
@@ -55408,35 +55408,35 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y141"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y142"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域 "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y143"
 msgid "Sports and athletics area"
-msgstr " 体育和竞技区 "
+msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y144"
 msgid "Street and highway"
-msgstr "  街道和高速路"
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y145"
 msgid "Trade and service area"
-msgstr "  贸易和服务区  "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y146"
 msgid "Industrial and construction area"
-msgstr "工业和建筑面积  "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y147"
 msgid "Farm"
-msgstr "农田 "
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y148"
 msgid "Other specified place"
-msgstr "其他指定地方 "
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y149"
 msgid "Unspecified place"
@@ -55452,11 +55452,11 @@ msgstr "家"
 
 msgctxt "model:gnuhealth.pathology,name:Y151"
 msgid "Residential institution"
-msgstr " 居住地 "
+msgstr "居住地"
 
 msgctxt "model:gnuhealth.pathology,name:Y152"
 msgid "School, other institution and public administrative area"
-msgstr "学校，其他机构和公共管理区域  "
+msgstr "学校，其他机构和公共管理区域"
 
 msgctxt "model:gnuhealth.pathology,name:Y153"
 msgid "Sports and athletics area"
@@ -55464,23 +55464,23 @@ msgstr "体育和竞技区"
 
 msgctxt "model:gnuhealth.pathology,name:Y154"
 msgid "Street and highway"
-msgstr "   街道和高速路 "
+msgstr "街道和高速路"
 
 msgctxt "model:gnuhealth.pathology,name:Y155"
 msgid "Trade and service area"
-msgstr " 贸易和服务区 "
+msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y156"
 msgid "Industrial and construction area"
-msgstr " 工业和建筑面积 "
+msgstr "工业和建筑面积"
 
 msgctxt "model:gnuhealth.pathology,name:Y157"
 msgid "Farm"
-msgstr " 农田"
+msgstr "农田"
 
 msgctxt "model:gnuhealth.pathology,name:Y158"
 msgid "Other specified place"
-msgstr " 其他指定地方"
+msgstr "其他指定地方"
 
 msgctxt "model:gnuhealth.pathology,name:Y159"
 msgid "Unspecified place"
@@ -55518,7 +55518,7 @@ msgstr "贸易和服务区"
 
 msgctxt "model:gnuhealth.pathology,name:Y166"
 msgid "Industrial and construction area"
-msgstr "  工业和建筑区"
+msgstr "工业和建筑区"
 
 msgctxt "model:gnuhealth.pathology,name:Y167"
 msgid "Farm"
