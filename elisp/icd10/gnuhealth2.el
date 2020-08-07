@@ -1,5 +1,4 @@
-
-(defun gnuhealth_replace_all ()
+(defun gnuhealth_replace_all_section ()
   (interactive)
   (gnuhealth-replace-group "A00-B99" "某些传染病和寄生虫病")
   (gnuhealth-replace-group "A00-A09" "肠道传染病")

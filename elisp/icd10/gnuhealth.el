@@ -11,7 +11,7 @@
     (insert "\""))
   (goto-char (point-min)))
 
-(defun gnuhealth-replace-group (a b &rest c)
+(defun gnuhealth-replace-section (a b &rest c)
   (goto-char (point-min))
   (when (and (re-search-forward (format "\"(%s)" a) nil t)
              (re-search-forward "msgstr \"" nil t))
@@ -20,10 +20,19 @@
     (insert "\""))
   (goto-char (point-min)))
 
+(defun gnuhealth-replace-chapter (a b &rest c)
+  (goto-char (point-min))
+  (when (and (re-search-forward (format ":icdcat%s\"" a) nil t)
+             (re-search-forward "msgstr \"" nil t))
+    (delete-region (point) (line-end-position))
+    (insert (format "第%s章 %s" a b))
+    (insert "\""))
+  (goto-char (point-min)))
+
 (defun gnuhealth-generate-batch ()
   "Format a tab split file to a elisp function"
   (interactive)
-  (let ((x (completing-read "翻译对象" '(disease group))))
+  (let ((x (completing-read "翻译对象" '(chapter section disease))))
     (goto-char (point-min))
     (while (re-search-forward "\n+" nil t)
       (replace-match "\n" nil t))
@@ -39,9 +48,10 @@
     (while (re-search-forward "\n+" nil t)
       (replace-match "\")\n" nil t))
     (goto-char (point-min))
-    (insert "
-(defun gnuhealth_replace_all ()
+    (insert (format
+             "
+(defun gnuhealth_replace_all_%s ()
   (interactive)
-")
+" x))
     (goto-char (point-max))
     (insert ")")))

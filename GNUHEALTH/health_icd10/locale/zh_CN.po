@@ -61128,7 +61128,7 @@ msgstr "依赖未特指的可启动机器和装置"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat1"
 msgid "I Certain infectious and parasitic diseases"
-msgstr "某些传染病和寄生虫病"
+msgstr "第1章 某些传染病和寄生虫病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat1-1"
 msgid "(A00-A09) Intestinal infectious diseases"
@@ -61217,7 +61217,7 @@ msgstr "(A80-A89) 中枢神经系统的病毒性感染"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat10"
 msgid "X Diseases of the respiratory system"
-msgstr "呼吸系统疾病"
+msgstr "第10章 呼吸系统疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat10-1"
 msgid "(J00-J06) Acute respiratory infections"
@@ -61263,7 +61263,7 @@ msgstr "(J90-J94) 胸膜的其他疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat11"
 msgid "XI Diseases of the digestive system"
-msgstr "消化系统疾病"
+msgstr "第11章 消化系统疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat11-1"
 msgid "(K00-K14) Diseases of oral cavity, salivary glands and jaws"
@@ -61307,7 +61307,7 @@ msgstr "(K80-K87) 胆囊、胆道和胰腺疾患"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat12"
 msgid "XII Diseases of the skin and subcutaneous tissue"
-msgstr "皮肤和皮下组织疾病"
+msgstr "第12章 皮肤和皮下组织疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat12-1"
 msgid "(L00-L08) Infections of the skin and subcutaneous tissue"
@@ -61344,7 +61344,7 @@ msgstr "(L80-L99) 皮肤和皮下组织的其他疾患"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat13"
 msgid "XIII Diseases of the musculoskeletal system and connective tissue"
-msgstr "肌肉骨骼系统和结缔组织疾病"
+msgstr "第13章 肌肉骨骼系统和结缔组织疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat13-1"
 msgid "(M00-M03) Infectious arthropathies"
@@ -61409,7 +61409,7 @@ msgstr "(M60-M63) 肌肉疾患"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat14"
 msgid "XIV Diseases of the genitourinary system"
-msgstr "泌尿生殖系统疾病"
+msgstr "第14章 泌尿生殖系统疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat14-1"
 msgid "(N00-N08) Glomerular diseases"
@@ -61457,7 +61457,7 @@ msgstr "(N70-N77) 女性盆腔器官炎性疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat15"
 msgid "XV Pregnancy, childbirth and the puerperium"
-msgstr "妊娠，分娩和产褥期"
+msgstr "第15章 妊娠、分娩和产褥期"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat15-1"
 msgid "(O00-O08) Pregnancy with abortive outcome"
@@ -61497,7 +61497,7 @@ msgstr "其他产科条件"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat16"
 msgid "XVI Certain conditions originating in the perinatal period"
-msgstr "一定条件下起源于围生期的"
+msgstr "第16章 起源于围生期的某些情况"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat16-1"
 msgid ""
@@ -61551,7 +61551,7 @@ msgstr "(P80-P83) 累及胎儿和新生儿体被和体温调节的情况"
 msgctxt "model:gnuhealth.pathology.category,name:icdcat17"
 msgid ""
 "XVII Congenital malformations, deformations and chromosomal abnormalities"
-msgstr "先天性畸形，变形和染色体异常"
+msgstr "第17章 先天性畸形、变形和染色体异常"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat17-1"
 msgid "(Q00-Q07) Congenital malformations of the nervous system"
@@ -61603,7 +61603,7 @@ msgctxt "model:gnuhealth.pathology.category,name:icdcat18"
 msgid ""
 "XVIII Symptoms, signs and abnormal clinical and laboratory findings, not "
 "elsewhere classified"
-msgstr "未经定义的症状，体征和临床与实验室异常"
+msgstr "第18章 症状、体征和临床与实验室异常所见，不可归类在他处者"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat18-1"
 msgid ""
@@ -61669,7 +61669,7 @@ msgstr "(R70-R79) 血液检查的异常所见。无诊断者"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat19"
 msgid "XIX Injury, poisoning and certain other consequences of external causes"
-msgstr "损伤、中毒和某些其他外部原因的结果"
+msgstr "第19章 损伤、中毒和外因的某些其他后果"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat19-1"
 msgid "(S00-S09) Injuries to the head"
@@ -61770,7 +61770,7 @@ msgstr "(S80-S89) 膝和小腿损伤"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat2"
 msgid "II Neoplasms"
-msgstr "肿瘤"
+msgstr "第2章 肿瘤"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat2-1"
 msgid "(C00-C14) Malignant neoplasms of lip, oral cavity and pharynx"
@@ -61851,7 +61851,7 @@ msgstr "(C60-C63) 男性生殖器官恶性肿瘤"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat20"
 msgid "XX External causes of morbidity and mortality"
-msgstr "疾病和死亡的外因"
+msgstr "第20章 疾病和死亡的外因"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat20-1"
 msgid "(V01-V09) Pedestrian injured in transport accident"
@@ -62011,7 +62011,7 @@ msgstr "(V80-V89) 其他陆地运输事故"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat21"
 msgid "XXI Factors influencing health status and contact with health services"
-msgstr "影响健康状况和接触的健康服务的因素"
+msgstr "第21章 影响健康状态和与保健机构接触的因素"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat21-1"
 msgid ""
@@ -62055,7 +62055,7 @@ msgstr "(Z80-Z99) 存在与家庭和个人经历以及某些影响健康状况�
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat22"
 msgid "XXII Codes for special purposes"
-msgstr "遗传性密码的特殊用途"
+msgstr "第22章 用于特殊目的的编码"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat22-1"
 msgid "(U00-U49) Provisional assignment of new diseases of uncertain aetiology"
@@ -62065,7 +62065,7 @@ msgctxt "model:gnuhealth.pathology.category,name:icdcat3"
 msgid ""
 "III Diseases of the blood and blood-forming organs and certain disorders "
 "involving the immune mechanism"
-msgstr "血液病及造血器官及涉及免疫机制的某些疾病"
+msgstr "第3章 血液及造血器官疾病和涉及免疫机制的某些疾患"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat3-1"
 msgid "(D50-D53) Nutritional anaemias"
@@ -62094,7 +62094,7 @@ msgstr "(D80-D89) 涉及免疫机制的某些疾患"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat4"
 msgid "IV Endocrine, nutritional and metabolic diseases"
-msgstr "内分泌，营养和代谢疾病"
+msgstr "第4章 内分泌、营养和代谢疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat4-1"
 msgid "(E00-E07) Disorders of thyroid gland"
@@ -62132,7 +62132,7 @@ msgstr "(E70-E90) 代谢紊乱"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat5"
 msgid "V Mental and behavioural disorders"
-msgstr "精神和行为障碍"
+msgstr "第5章 精神和行为障碍"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat5-1"
 msgid "(F00-F09) Organic, including symptomatic, mental disorders"
@@ -62185,7 +62185,7 @@ msgstr "(F80-F89) 心理发育障碍"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat6"
 msgid "VI Diseases of the nervous system"
-msgstr "神经系统疾病"
+msgstr "第6章 神经系统疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat6-1"
 msgid "(G00-G09) Inflammatory diseases of the central nervous system"
@@ -62236,7 +62236,7 @@ msgstr "(G70-G73) 肌神经接点和肌肉疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat7"
 msgid "VII Diseases of the eye and adnexa"
-msgstr "眼和附器疾病"
+msgstr "第7章 眼和附器疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat7-1"
 msgid "(H00-H06) Disorders of eyelid"
@@ -62286,7 +62286,7 @@ msgstr "(H49-H52) 眼球外肌、双眼运动、调节和屈光疾患"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat8"
 msgid "VIII Diseases of the ear and mastoid process"
-msgstr "耳和乳突疾病"
+msgstr "第8章 耳和乳突疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat8-1"
 msgid "(H60-H62) Diseases of external ear"
@@ -62306,7 +62306,7 @@ msgstr "(H90-H95) 耳的其他疾患"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat9"
 msgid "IX Diseases of the circulatory system"
-msgstr "循环系统疾病IX"
+msgstr "第9章 循环系统疾病"
 
 msgctxt "model:gnuhealth.pathology.category,name:icdcat9-1"
 msgid "(I00-I02) Acute rheumatic fever"
