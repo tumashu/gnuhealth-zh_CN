@@ -2044,7 +2044,7 @@ msgstr "麻疹并发中耳炎"
 
 msgctxt "model:gnuhealth.pathology,name:B054"
 msgid "Measles with intestinal complications"
-msgstr "麻疹伴有肠道并发症.."
+msgstr "麻疹伴有肠道并发症"
 
 msgctxt "model:gnuhealth.pathology,name:B058"
 msgid "Measles with other complications"
