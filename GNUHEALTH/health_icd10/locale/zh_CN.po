@@ -8217,7 +8217,7 @@ msgstr "未特指的结节病"
 msgctxt "model:gnuhealth.pathology,name:D89"
 msgid ""
 "Other disorders involving the immune mechanism, not elsewhere classified"
-msgstr "涉及免疫机制的其他疾患，"
+msgstr "涉及免疫机制的其他疾患，不可归类在他处者"
 
 msgctxt "model:gnuhealth.pathology,name:D890"
 msgid "Polyclonal hypergammaglobulinaemia"
