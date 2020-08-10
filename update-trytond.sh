@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
-/usr/bin/cp -rf GNUHEALTH/* ~/gnuhealth/tryton/server/modules
-# /usr/bin/cp -rf TRYTON/*    ~/gnuhealth/tryton/server/trytond-5.0.25/trytond/modules/
+source $HOME/.gnuhealthrc
+/usr/bin/cp -rf GNUHEALTH/* ${GNUHEALTH_DIR}/tryton/server/modules
+/usr/bin/cp -rf TRYTON/*    ${GNUHEALTH_DIR}/tryton/server/trytond-$TRYTON_VERSION/trytond/modules/
 
 ~/gnuhealth/tryton/server/trytond-5.0.25/bin/trytond-admin --all -d gnuhealth
