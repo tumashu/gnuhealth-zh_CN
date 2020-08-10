@@ -259,7 +259,7 @@ msgstr "登革热 PRNT 收费"
 
 msgctxt "selection:gnuhealth.dengue_du_survey,du_status:"
 msgid ""
-msgstr "无"
+msgstr ""
 
 msgctxt "selection:gnuhealth.dengue_du_survey,du_status:"
 msgid "Improved"
