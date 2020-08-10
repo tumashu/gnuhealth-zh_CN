@@ -9837,7 +9837,7 @@ msgstr "处方"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_reporting_menu"
 msgid "Reporting"
-msgstr "报告"
+msgstr "统计报表或报告"
 
 msgctxt "model:ir.ui.menu,name:menu_appointments_report_view_tree"
 msgid "Appointments with Dx Report"
