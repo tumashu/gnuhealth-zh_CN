@@ -9781,7 +9781,7 @@ msgstr "医学专科"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_demographics_menu"
 msgid "Demographics"
-msgstr "人口与家庭"
+msgstr "人口统计学相关"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_edit_du"
 msgid "Domiciliary Units"
@@ -11994,7 +11994,7 @@ msgstr "个人自述"
 
 msgctxt "selection:gnuhealth.pol,page_type:"
 msgid "Demographical"
-msgstr "人口与家庭"
+msgstr "人口统计学相关"
 
 msgctxt "selection:gnuhealth.pol,page_type:"
 msgid "Medical"
