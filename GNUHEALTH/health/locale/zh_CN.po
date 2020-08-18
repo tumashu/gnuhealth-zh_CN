@@ -979,7 +979,7 @@ msgstr "经度"
 
 msgctxt "field:gnuhealth.du,materials:"
 msgid "Material"
-msgstr "材质"
+msgstr "房屋材料"
 
 msgctxt "field:gnuhealth.du,members:"
 msgid "Members"
@@ -1003,7 +1003,7 @@ msgstr "记录名称"
 
 msgctxt "field:gnuhealth.du,roof_type:"
 msgid "Roof"
-msgstr "屋顶"
+msgstr "屋顶材料"
 
 msgctxt "field:gnuhealth.du,sewers:"
 msgid "Sanitary Sewers"
