@@ -9781,7 +9781,7 @@ msgstr "医学专科"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_demographics_menu"
 msgid "Demographics"
-msgstr "人口统计学相关"
+msgstr "人口统计学"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_edit_du"
 msgid "Domiciliary Units"
