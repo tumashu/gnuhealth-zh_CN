@@ -967,7 +967,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.du,internet:"
 msgid "Internet"
-msgstr "通互联网"
+msgstr "有互联网"
 
 msgctxt "field:gnuhealth.du,latitude:"
 msgid "Latitude"
