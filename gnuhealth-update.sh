@@ -18,4 +18,4 @@ do
 done  
 
 echo "## Run trytond-admin --all -d gnuhealth"
-${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --all -d gnuhealth
+${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --all --language zh_CN -d gnuhealth
