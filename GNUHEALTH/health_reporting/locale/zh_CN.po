@@ -128,7 +128,7 @@ msgstr "写入用户"
 
 msgctxt "field:gnuhealth.summary.report.open.start,demographics:"
 msgid "Demographics"
-msgstr "人口统计信息"
+msgstr "人口统计数据"
 
 msgctxt "field:gnuhealth.summary.report.open.start,end_date:"
 msgid "End"
@@ -224,11 +224,11 @@ msgstr "总结报告开始"
 
 msgctxt "model:gnuhealth.top_diseases,name:"
 msgid "Top Diseases"
-msgstr "高发疾病"
+msgstr "疾病排行榜"
 
 msgctxt "model:gnuhealth.top_diseases.open.start,name:"
 msgid "Open Top Diseases"
-msgstr "打开高发疾病"
+msgstr "打开疾病排行榜"
 
 msgctxt "model:ir.action,name:act_evaluations_doctor"
 msgid "Evaluations per Doctor"
@@ -248,11 +248,11 @@ msgstr "评估（按专业分组）"
 
 msgctxt "model:ir.action,name:act_top_diseases_form"
 msgid "Top Diseases"
-msgstr "高发疾病"
+msgstr "疾病排行榜"
 
 msgctxt "model:ir.action,name:act_top_diseases_open"
 msgid "Top Diseases"
-msgstr "高发疾病"
+msgstr "疾病排行榜"
 
 msgctxt "model:ir.action,name:act_wizard_summary_report"
 msgid "Summary Report"
@@ -272,7 +272,7 @@ msgstr "总结报告"
 
 msgctxt "model:ir.ui.menu,name:menu_top_diseases_open"
 msgid "Top Diseases"
-msgstr "高发疾病"
+msgstr "疾病排行榜"
 
 msgctxt "report:gnuhealth.summary.report:"
 msgid "-"
