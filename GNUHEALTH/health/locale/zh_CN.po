@@ -8853,35 +8853,35 @@ msgstr "疾病诊断分组"
 
 msgctxt "model:gnuhealth.pathology.group,name:ALLERGIC"
 msgid "ALLERGIC"
-msgstr "过敏"
+msgstr "过敏性疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:AUTOIMMUNE"
 msgid "AUTOIMMUNE"
-msgstr "自身免疫"
+msgstr "自身免疫性疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:CONNECTIVE"
 msgid "CONNECTIVE TISSUE and MUSCULOSKELETAL"
-msgstr "结缔组织和肌肉骨骼"
+msgstr "结缔组织和肌肉骨骼相关疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:GASTRO"
 msgid "GASTROINTESTINAL"
-msgstr "肠胃"
+msgstr "消化系统疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:GENITOURINARY"
 msgid "GENITOURINARY"
-msgstr "泌尿生殖"
+msgstr "泌尿生殖系统疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:HEART"
 msgid "HEART"
-msgstr "心脏"
+msgstr "心脏病"
 
 msgctxt "model:gnuhealth.pathology.group,name:INFECTIOUS"
 msgid "INFECTIOUS"
-msgstr "传染性"
+msgstr "传染病"
 
 msgctxt "model:gnuhealth.pathology.group,name:METABOLIC"
 msgid "METABOLIC"
-msgstr "新陈代谢"
+msgstr "代谢性疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:NEOPLASIC"
 msgid "NEOPLASIC"
@@ -8889,43 +8889,43 @@ msgstr "肿瘤"
 
 msgctxt "model:gnuhealth.pathology.group,name:NEUROLOGIC"
 msgid "NEUROLOGIC"
-msgstr "神经功能"
+msgstr "神经系统疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:NOTIFIABLE"
 msgid "NOTIFIABLE"
-msgstr "须申报"
+msgstr "必须上报的疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:NUTRITION"
 msgid "NUTRITION"
-msgstr "营养"
+msgstr "营养性疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:OBSGYN"
 msgid "GYNECOLOGY and OBSTETRICS"
-msgstr "妇产科"
+msgstr "妇科和产科相关疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:PEDIATRIC"
 msgid "PEDIATRIC"
-msgstr "儿科"
+msgstr "儿科相关疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:PSYCHIATRIC"
 msgid "PSYCHIATRIC"
-msgstr "精神科"
+msgstr "精神疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:RESP"
 msgid "RESPIRATORY"
-msgstr "呼吸"
+msgstr "呼吸系统疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:SOCIAL"
 msgid "SOCIAL AND FAMILY"
-msgstr "社会和家庭"
+msgstr "与社会家庭相关的疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:VASCULAR"
 msgid "VASCULAR"
-msgstr "血管"
+msgstr "心脑血管疾病"
 
 msgctxt "model:gnuhealth.pathology.group,name:VIOLENCE"
 msgid "VIOLENCE"
-msgstr "暴力"
+msgstr "暴力引发的疾病"
 
 msgctxt "model:gnuhealth.patient,name:"
 msgid "Patient related information"
