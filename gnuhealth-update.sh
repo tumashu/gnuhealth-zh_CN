@@ -17,5 +17,5 @@ do
     /usr/bin/cp -rf ${TRYTON_DIR}/${i}/*  ./;
 done  
 
-echo "## Run trytond-admin --all -d gnuhealth"
+echo "## Run trytond-admin --all --language zh_CN -d gnuhealth"
 ${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --all --language zh_CN -d gnuhealth
