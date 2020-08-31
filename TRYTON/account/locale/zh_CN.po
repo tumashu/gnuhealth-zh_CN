@@ -87,7 +87,7 @@ msgstr "上级"
 
 msgctxt "field:account.account,party_required:"
 msgid "Party Required"
-msgstr "要求的参与对象"
+msgstr "要求的参与者"
 
 msgctxt "field:account.account,reconcile:"
 msgid "Reconcile"
@@ -211,7 +211,7 @@ msgstr "上级"
 
 msgctxt "field:account.account.template,party_required:"
 msgid "Party Required"
-msgstr "需要的参与对象"
+msgstr "需要的参与者"
 
 msgctxt "field:account.account.template,reconcile:"
 msgid "Reconcile"
@@ -359,7 +359,7 @@ msgstr "货币有效数字"
 
 msgctxt "field:account.aged_balance,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:account.aged_balance,term0:"
 msgid "Now"
@@ -746,11 +746,11 @@ msgstr "起源"
 
 msgctxt "field:account.general_ledger.line,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:account.general_ledger.line,party_required:"
 msgid "Party Required"
-msgstr "要求的参与对象"
+msgstr "要求的参与者"
 
 msgctxt "field:account.general_ledger.line,state:"
 msgid "State"
@@ -774,7 +774,7 @@ msgstr "从日期"
 
 msgctxt "field:account.general_ledger.line.context,party_cumulate:"
 msgid "Cumulate per Party"
-msgstr "按参与对象累计"
+msgstr "按参与者累计"
 
 msgctxt "field:account.general_ledger.line.context,posted:"
 msgid "Posted Move"
@@ -1030,11 +1030,11 @@ msgstr ""
 
 msgctxt "field:account.move.line,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:account.move.line,party_required:"
 msgid "Party Required"
-msgstr "要求的参与对象"
+msgstr "要求的参与者"
 
 msgctxt "field:account.move.line,period:"
 msgid "Period"
@@ -1098,11 +1098,11 @@ msgstr "操作"
 
 msgctxt "field:account.move.line.template,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:account.move.line.template,party_required:"
 msgid "Party Required"
-msgstr "要求的参与对象"
+msgstr "要求的参与者"
 
 msgctxt "field:account.move.line.template,taxes:"
 msgid "Taxes"
@@ -1322,11 +1322,11 @@ msgstr "列表"
 
 msgctxt "field:account.reconcile.show,parties:"
 msgid "Parties"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:account.reconcile.show,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:account.reconcile.show,write_off:"
 msgid "Write Off"
@@ -1886,7 +1886,7 @@ msgstr "客户税规则"
 
 msgctxt "field:party.party.account,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:party.party.account,supplier_tax_rule:"
 msgid "Supplier Tax Rule"

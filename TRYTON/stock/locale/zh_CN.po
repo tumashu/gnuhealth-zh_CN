@@ -32,7 +32,7 @@ msgstr "客户仓库位置"
 
 msgctxt "field:party.party.location,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:party.party.location,supplier_location:"
 msgid "Supplier Location"

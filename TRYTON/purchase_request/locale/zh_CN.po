@@ -43,7 +43,7 @@ msgstr "起源"
 
 msgctxt "field:purchase.request,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:purchase.request,product:"
 msgid "Product"

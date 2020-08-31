@@ -35,7 +35,7 @@ msgstr "客户代码"
 
 msgctxt "field:party.party.customer_code,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:product.product,product_suppliers:"
 msgid "Suppliers"
@@ -339,11 +339,11 @@ msgstr "采购编号"
 
 msgctxt "field:purchase.purchase,party:"
 msgid "Party"
-msgstr "参与对象"
+msgstr "参与者"
 
 msgctxt "field:purchase.purchase,party_lang:"
 msgid "Party Language"
-msgstr "参与对象的语言"
+msgstr "参与者的语言"
 
 msgctxt "field:purchase.purchase,payment_term:"
 msgid "Payment Term"
@@ -477,7 +477,7 @@ msgstr "发票"
 
 msgctxt "model:ir.action,name:act_open_supplier"
 msgid "Parties associated to Purchases"
-msgstr "与采购相关的各个参与对象."
+msgstr "与采购相关的各个参与者."
 
 msgctxt "model:ir.action,name:act_product_supplier_form"
 msgid "Product Suppliers"
@@ -569,7 +569,7 @@ msgid ""
 "You cannot erase party \"%(party)s\" while they have pending purchases with "
 "company \"%(company)s\"."
 msgstr ""
-"你不能删除参与对象 \"%(party)s\" ， 因为它与公司 \"%(company)s\" 有未完成的采"
+"你不能删除参与者 \"%(party)s\" ， 因为它与公司 \"%(company)s\" 有未完成的采"
 "购."
 
 msgctxt "model:ir.message,text:msg_purchase_delete_cancel"
@@ -617,7 +617,7 @@ msgid ""
 "To process purchase \"%(purchase)s\" you must set a supplier location on "
 "party \"%(party)s\"."
 msgstr ""
-"要处理采购 \"%(purchase)s\" ， 你必须设置参与对象\"%(party)s\"对应的供应商位"
+"要处理采购 \"%(purchase)s\" ， 你必须设置参与者\"%(party)s\"对应的供应商位"
 "置 ."
 
 msgctxt "model:ir.message,text:msg_warehouse_required_for_quotation"
@@ -700,7 +700,7 @@ msgstr "报告中"
 
 msgctxt "model:ir.ui.menu,name:menu_supplier"
 msgid "Parties associated to Purchases"
-msgstr "与采购相关的各个参与对象."
+msgstr "与采购相关的各个参与者."
 
 msgctxt "model:party.party.customer_code,name:"
 msgid "Party Customer Code"
