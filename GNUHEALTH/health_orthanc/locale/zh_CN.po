@@ -28,7 +28,7 @@ msgstr "一个服务器对应一个 UUID, 不能重复"
 
 msgctxt "field:gnuhealth.imaging.test.result,studies:"
 msgid "Studies"
-msgstr "检查"
+msgstr "Orthanc 检查"
 
 msgctxt "field:gnuhealth.orthanc.add.init,domain:"
 msgid "URL"
@@ -108,7 +108,7 @@ msgstr "上次同步后"
 
 msgctxt "field:gnuhealth.orthanc.config,studies:"
 msgid "Studies"
-msgstr "检查"
+msgstr "Orthanc 检查"
 
 msgctxt "field:gnuhealth.orthanc.config,sync_time:"
 msgid "Sync Time"
@@ -172,7 +172,7 @@ msgstr "服务器"
 
 msgctxt "field:gnuhealth.orthanc.patient,studies:"
 msgid "Studies"
-msgstr "检查"
+msgstr "Orthanc 检查"
 
 msgctxt "field:gnuhealth.orthanc.patient,uuid:"
 msgid "PatientUUID"
@@ -364,7 +364,7 @@ msgstr "服务器列表"
 
 msgctxt "model:ir.action,name:act_orthanc_study_view"
 msgid "Studies"
-msgstr "检查"
+msgstr "Orthanc 检查"
 
 msgctxt "model:ir.action,name:act_relate_orthanc_studies"
 msgid "Orthanc Studies"
@@ -396,7 +396,7 @@ msgstr "患者"
 
 msgctxt "model:ir.ui.menu,name:orthanc_menu_study_view"
 msgid "Studies"
-msgstr "检查"
+msgstr "Orthanc 检查"
 
 msgctxt "model:ir.ui.menu,name:orthanc_server_menu"
 msgid "Servers"
@@ -404,7 +404,7 @@ msgstr "服务器列表"
 
 msgctxt "view:gnuhealth.imaging.test.result:"
 msgid "Studies"
-msgstr "检查"
+msgstr "Orthanc 检查"
 
 msgctxt "view:gnuhealth.orthanc.add.init:"
 msgid "Server information"
@@ -456,7 +456,7 @@ msgstr "Orthanc 患者"
 
 msgctxt "view:gnuhealth.orthanc.patient:"
 msgid "Studies"
-msgstr "检查"
+msgstr "Orthanc 检查"
 
 msgctxt "wizard_button:gnuhealth.orthanc.wizard.full_sync,result,end:"
 msgid "Close"
