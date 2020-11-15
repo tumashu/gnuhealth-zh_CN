@@ -148,7 +148,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.orthanc.patient,ident:"
 msgid "PatientID"
-msgstr "患者ID"
+msgstr "Orthanc 患者ID"
 
 msgctxt "field:gnuhealth.orthanc.patient,link:"
 msgid "URL"
@@ -156,7 +156,7 @@ msgstr "URL"
 
 msgctxt "field:gnuhealth.orthanc.patient,name:"
 msgid "PatientName"
-msgstr "患者姓名"
+msgstr "Orthanc 患者姓名"
 
 msgctxt "field:gnuhealth.orthanc.patient,patient:"
 msgid "Patient"
@@ -176,7 +176,7 @@ msgstr "Orthanc 检查"
 
 msgctxt "field:gnuhealth.orthanc.patient,uuid:"
 msgid "PatientUUID"
-msgstr "患者UUID"
+msgstr "患者 UUID"
 
 msgctxt "field:gnuhealth.orthanc.patient,write_date:"
 msgid "Write Date"
@@ -324,7 +324,7 @@ msgstr "到 Orthanc 浏览器的链接"
 
 msgctxt "help:gnuhealth.orthanc.patient,patient:"
 msgid "Local linked patient"
-msgstr "本地关联的患者"
+msgstr "当前系统中记录的与 Orthanc 患者对应的患者"
 
 msgctxt "help:gnuhealth.orthanc.study,institution:"
 msgid "Imaging center where study was undertaken"
@@ -444,11 +444,11 @@ msgstr "常规"
 
 msgctxt "view:gnuhealth.orthanc.patient:"
 msgid "Local patient"
-msgstr "本地患者"
+msgstr "患者"
 
 msgctxt "view:gnuhealth.orthanc.patient:"
 msgid "Orthanc PatientID"
-msgstr "Orthan 患者 ID"
+msgstr "Orthanc 患者ID"
 
 msgctxt "view:gnuhealth.orthanc.patient:"
 msgid "Orthanc patient"
