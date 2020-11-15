@@ -92,7 +92,7 @@ msgstr "密码"
 
 msgctxt "field:gnuhealth.orthanc.config,patients:"
 msgid "Patients"
-msgstr "患者"
+msgstr "Orthanc 患者"
 
 msgctxt "field:gnuhealth.orthanc.config,rec_name:"
 msgid "Record Name"
@@ -356,7 +356,7 @@ msgstr "Orthanc 检查"
 
 msgctxt "model:ir.action,name:act_orthanc_patient_view"
 msgid "Patients"
-msgstr "患者"
+msgstr "Orthanc 患者"
 
 msgctxt "model:ir.action,name:act_orthanc_server_view"
 msgid "Servers"
@@ -392,7 +392,7 @@ msgstr "Orthanc"
 
 msgctxt "model:ir.ui.menu,name:orthanc_menu_patient_view"
 msgid "Patients"
-msgstr "患者"
+msgstr "Orthanc 患者"
 
 msgctxt "model:ir.ui.menu,name:orthanc_menu_study_view"
 msgid "Studies"
