@@ -28,7 +28,7 @@ msgstr "一个服务器对应一个 UUID, 不能重复"
 
 msgctxt "field:gnuhealth.imaging.test.result,studies:"
 msgid "Studies"
-msgstr "Studies"
+msgstr "检查"
 
 msgctxt "field:gnuhealth.orthanc.add.init,domain:"
 msgid "URL"
@@ -108,7 +108,7 @@ msgstr "上次同步后"
 
 msgctxt "field:gnuhealth.orthanc.config,studies:"
 msgid "Studies"
-msgstr "Studies"
+msgstr "检查"
 
 msgctxt "field:gnuhealth.orthanc.config,sync_time:"
 msgid "Sync Time"
@@ -172,7 +172,7 @@ msgstr "服务器"
 
 msgctxt "field:gnuhealth.orthanc.patient,studies:"
 msgid "Studies"
-msgstr "Studies"
+msgstr "检查"
 
 msgctxt "field:gnuhealth.orthanc.patient,uuid:"
 msgid "PatientUUID"
@@ -328,7 +328,7 @@ msgstr "本地关联的患者"
 
 msgctxt "help:gnuhealth.orthanc.study,institution:"
 msgid "Imaging center where study was undertaken"
-msgstr "负责 study 的影像中心"
+msgstr "负责检查的影像中心"
 
 msgctxt "help:gnuhealth.orthanc.study,link:"
 msgid "Link to study in Orthanc Explorer"
@@ -352,7 +352,7 @@ msgstr "Orthanc 患者信息"
 
 msgctxt "model:gnuhealth.orthanc.study,name:"
 msgid "Orthanc study"
-msgstr "Orthanc study"
+msgstr "Orthanc 检查"
 
 msgctxt "model:ir.action,name:act_orthanc_patient_view"
 msgid "Patients"
@@ -364,11 +364,11 @@ msgstr "服务器列表"
 
 msgctxt "model:ir.action,name:act_orthanc_study_view"
 msgid "Studies"
-msgstr "Studies"
+msgstr "检查"
 
 msgctxt "model:ir.action,name:act_relate_orthanc_studies"
 msgid "Orthanc Studies"
-msgstr "Studies"
+msgstr "Orthanc 检查"
 
 msgctxt "model:ir.action,name:orthanc_add_server_init"
 msgid "Add Orthanc Server"
@@ -396,7 +396,7 @@ msgstr "患者"
 
 msgctxt "model:ir.ui.menu,name:orthanc_menu_study_view"
 msgid "Studies"
-msgstr "Studies"
+msgstr "检查"
 
 msgctxt "model:ir.ui.menu,name:orthanc_server_menu"
 msgid "Servers"
@@ -404,7 +404,7 @@ msgstr "服务器列表"
 
 msgctxt "view:gnuhealth.imaging.test.result:"
 msgid "Studies"
-msgstr "Studies"
+msgstr "检查"
 
 msgctxt "view:gnuhealth.orthanc.add.init:"
 msgid "Server information"
@@ -448,7 +448,7 @@ msgstr "本地患者"
 
 msgctxt "view:gnuhealth.orthanc.patient:"
 msgid "Orthanc PatientID"
-msgstr "Orthan 患者ID"
+msgstr "Orthan 患者 ID"
 
 msgctxt "view:gnuhealth.orthanc.patient:"
 msgid "Orthanc patient"
@@ -456,7 +456,7 @@ msgstr "Orthanc 患者"
 
 msgctxt "view:gnuhealth.orthanc.patient:"
 msgid "Studies"
-msgstr "Studies"
+msgstr "检查"
 
 msgctxt "wizard_button:gnuhealth.orthanc.wizard.full_sync,result,end:"
 msgid "Close"

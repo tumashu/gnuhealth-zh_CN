@@ -11,11 +11,11 @@ TRYTON_DIR=$(pwd)/TRYTON
 
 cd ${TRYTON_DIR}
 for i in $(ls)         
-do  
+do
     echo "## copy $i translation file."
     cd ${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/trytond/modules/$i/
     /usr/bin/cp -rf ${TRYTON_DIR}/${i}/*  ./;
-done  
+done
 
 echo "## Run trytond-admin --all --language zh_CN -d gnuhealth"
 ${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --all --language zh_CN -d gnuhealth
