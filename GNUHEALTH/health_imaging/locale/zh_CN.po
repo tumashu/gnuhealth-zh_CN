@@ -144,7 +144,7 @@ msgstr "ID"
 
 msgctxt "field:gnuhealth.imaging.test.result,images:"
 msgid "Images"
-msgstr "影像检查"
+msgstr "影像图片"
 
 msgctxt "field:gnuhealth.imaging.test.result,number:"
 msgid "Number"
@@ -425,11 +425,11 @@ msgstr "已申请"
 
 msgctxt "view:gnuhealth.imaging.test.request:"
 msgid "Generate Results"
-msgstr "影像: 生成并填写检查结果"
+msgstr "生成检查结果"
 
 msgctxt "view:gnuhealth.imaging.test.request:"
 msgid "Request"
-msgstr "申请编号"
+msgstr "申请"
 
 msgctxt "view:gnuhealth.imaging.test.result:"
 msgid "Comment"
@@ -437,7 +437,7 @@ msgstr "说明"
 
 msgctxt "view:gnuhealth.imaging.test.result:"
 msgid "Images"
-msgstr "影像检查"
+msgstr "影像图片"
 
 msgctxt "wizard_button:gnuhealth.patient.imaging.test.request,start,end:"
 msgid "Cancel"
