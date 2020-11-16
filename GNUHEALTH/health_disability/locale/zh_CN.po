@@ -500,7 +500,7 @@ msgstr "假肢"
 
 msgctxt "field:gnuhealth.patient,uxo:"
 msgid "UXO"
-msgstr "UXO"
+msgstr "未爆军用品致残"
 
 msgctxt "field:gnuhealth.patient.amputation,amputation_date:"
 msgid "Date"
@@ -581,7 +581,7 @@ msgstr "截肢日期"
 
 msgctxt "field:gnuhealth.patient.disability_assessment,assessment:"
 msgid "Code"
-msgstr ""
+msgstr "代码"
 
 msgctxt "field:gnuhealth.patient.disability_assessment,assessment_date:"
 msgid "Date"
@@ -653,7 +653,7 @@ msgstr "语言能力"
 
 msgctxt "field:gnuhealth.patient.disability_assessment,uxo:"
 msgid "UXO"
-msgstr "UXO"
+msgstr "未爆军用品致残"
 
 msgctxt "field:gnuhealth.patient.disability_assessment,visual_function:"
 msgid "Visual"
@@ -764,7 +764,7 @@ msgstr ""
 
 msgctxt "help:gnuhealth.patient,uxo:"
 msgid "UXO casualty"
-msgstr "未爆军用品导致的伤害"
+msgstr "未爆军用品导致的伤残"
 
 msgctxt "help:gnuhealth.patient.amputation,healthprof:"
 msgid "Authorized health professional"
