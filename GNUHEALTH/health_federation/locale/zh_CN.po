@@ -378,7 +378,7 @@ msgstr "参数"
 
 msgctxt "view:gnuhealth.federation.queue:"
 msgid "Send"
-msgstr "发送"
+msgstr "发送按钮"
 
 msgctxt "view:gnuhealth.federation.queue:"
 msgid "Send the record to the Federation"
