@@ -3208,7 +3208,7 @@ msgstr "写入用户"
 msgctxt ""
 "field:gnuhealth.person_alternative_identification,alternative_id_type:"
 msgid "ID type"
-msgstr "标号类型"
+msgstr "ID类型"
 
 msgctxt "field:gnuhealth.person_alternative_identification,code:"
 msgid "Code"
