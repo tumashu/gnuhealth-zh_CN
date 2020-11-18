@@ -2627,7 +2627,7 @@ msgstr "备注"
 
 msgctxt "field:gnuhealth.patient.disease,status:"
 msgid "Status"
-msgstr "没有变化"
+msgstr "状态"
 
 msgctxt "field:gnuhealth.patient.disease,treatment_description:"
 msgid "Treatment Description"
