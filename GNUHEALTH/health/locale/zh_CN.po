@@ -3968,11 +3968,11 @@ msgstr "年龄"
 
 msgctxt "field:party.party,alternative_identification:"
 msgid "Alternative IDs"
-msgstr "备选ID"
+msgstr "其它ID"
 
 msgctxt "field:party.party,alternative_ids:"
 msgid "Alternative IDs"
-msgstr "备选ID"
+msgstr "其它ID"
 
 msgctxt "field:party.party,birth_certificate:"
 msgid "Birth Certificate"
@@ -8949,7 +8949,7 @@ msgstr "患者用药"
 
 msgctxt "model:gnuhealth.person_alternative_identification,name:"
 msgid "Alternative person ID"
-msgstr "个人备选ID"
+msgstr "个人其它ID"
 
 msgctxt "model:gnuhealth.person_name,name:"
 msgid "Person Name"
@@ -13112,11 +13112,11 @@ msgstr "取消"
 
 #~ msgctxt "view:gnuhealth.person_alternative_identification:"
 #~ msgid "Alternative ID"
-#~ msgstr "备选ID"
+#~ msgstr "其它ID"
 
 #~ msgctxt "view:gnuhealth.person_alternative_identification:"
 #~ msgid "Person alternative IDs"
-#~ msgstr "个人备选ID"
+#~ msgstr "个人其它ID"
 
 #~ msgctxt "view:gnuhealth.prescription.line:"
 #~ msgid "Prescription Line"
