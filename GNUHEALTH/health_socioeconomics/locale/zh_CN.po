@@ -240,7 +240,7 @@ msgstr "患者评估时的年龄"
 
 msgctxt "help:gnuhealth.ses.assessment,du:"
 msgid "Domiciliary Unit"
-msgstr "常住住址"
+msgstr "现住住址"
 
 msgctxt "help:gnuhealth.ses.assessment,education:"
 msgid "Education Level"
