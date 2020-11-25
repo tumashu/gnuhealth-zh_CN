@@ -919,7 +919,7 @@ msgstr ""
 
 msgctxt "selection:gnuhealth.pediatrics.growth.charts.who,indicator:"
 msgid "Body mass index for age (BMI for age)"
-msgstr "身体质量指数/年龄 (BMI/年龄)"
+msgstr "体质指数/年龄 (BMI/年龄)"
 
 msgctxt "selection:gnuhealth.pediatrics.growth.charts.who,indicator:"
 msgid "Length/height for age"
@@ -948,7 +948,7 @@ msgstr "男"
 msgctxt ""
 "selection:gnuhealth.pediatrics.growth.charts.who.report.open.start,indicator:"
 msgid "Body mass index for age (BMI for age)"
-msgstr "身体质量指数/年龄 (BMI/年龄)"
+msgstr "体质指数/年龄 (BMI/年龄)"
 
 msgctxt ""
 "selection:gnuhealth.pediatrics.growth.charts.who.report.open.start,indicator:"

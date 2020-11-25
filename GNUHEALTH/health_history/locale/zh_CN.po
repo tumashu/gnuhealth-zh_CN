@@ -108,7 +108,7 @@ msgstr "(自动生成)"
 
 msgctxt "report:patient.evaluation:"
 msgid "BMI"
-msgstr "BMI"
+msgstr "体质指数(BMI)"
 
 msgctxt "report:patient.evaluation:"
 msgid "Blood Pressure"

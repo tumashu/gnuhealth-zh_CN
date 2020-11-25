@@ -2751,7 +2751,7 @@ msgstr "预约"
 
 msgctxt "field:gnuhealth.patient.evaluation,bmi:"
 msgid "BMI"
-msgstr "BMI 指数"
+msgstr "体质指数(BMI)"
 
 msgctxt "field:gnuhealth.patient.evaluation,bpm:"
 msgid "Heart Rate"
@@ -10096,7 +10096,7 @@ msgstr "过敏及其他相关信息"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "BMI"
-msgstr "BMI 指数"
+msgstr "体质指数(BMI)"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "BP : (Sys / dias)"
