@@ -37,7 +37,7 @@ msgstr "创建用户"
 
 msgctxt "field:gnuhealth.contact_tracing,du:"
 msgid "Dom.Unit"
-msgstr "现住地址"
+msgstr "现住址"
 
 msgctxt "field:gnuhealth.contact_tracing,exposure_risk:"
 msgid "Exposure"
@@ -89,7 +89,7 @@ msgstr "机场，会议，演唱会，..."
 
 msgctxt "help:gnuhealth.contact_tracing,du:"
 msgid "Domiciliary Unit"
-msgstr "现住地址"
+msgstr "现住址"
 
 msgctxt "help:gnuhealth.contact_tracing,exposure_time:"
 msgid "Exposure time in minutes"
