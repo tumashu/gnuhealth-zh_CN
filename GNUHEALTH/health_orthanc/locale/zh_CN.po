@@ -412,7 +412,7 @@ msgstr "服务器信息"
 
 msgctxt "view:gnuhealth.orthanc.add.init:"
 msgid "User credentials"
-msgstr "用户凭据"
+msgstr "用户凭证"
 
 msgctxt "view:gnuhealth.orthanc.config:"
 msgid "General"
