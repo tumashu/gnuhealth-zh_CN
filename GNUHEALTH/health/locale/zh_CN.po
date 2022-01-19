@@ -12342,7 +12342,7 @@ msgstr "前缀+名 姓+后缀"
 
 msgctxt "view:gnuhealth.appointment:"
 msgid "Checked in"
-msgstr "候诊按钮"
+msgstr "双击设为候诊状态"
 
 msgctxt "view:gnuhealth.appointment:"
 msgid "Date"
@@ -12354,7 +12354,7 @@ msgstr "相关信息"
 
 msgctxt "view:gnuhealth.appointment:"
 msgid "No show"
-msgstr "爽约按钮"
+msgstr "双击设为爽约状态"
 
 msgctxt "view:gnuhealth.appointment:"
 msgid "The patient did not show up"
