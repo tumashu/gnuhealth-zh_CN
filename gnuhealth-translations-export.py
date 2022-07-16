@@ -33,30 +33,32 @@ import os
 from proteus import config, Model, Wizard
 
 ## User need edit the below variables before run this script.
-hostname  =  'localhost'
-port      =  '8000'
-user      =  'admin'
-password  =  'gnuhealth'
-dbname    =  'gnuhealth1'
-
-directory =  '/home/feng/projects/gnuhealth-zh_CN/GNUHEALTH/'
-language  =  'zh_CN'
+hostname        =  'localhost'
+port            =  '8000'
+user            =  'admin'
+password        =  'gnuhealth'
+dbname          =  'gnuhealth1'
+language        =  'zh_CN'
+export_root_dir =  '~/projects/gnuhealth-zh_CN/GNUHEALTH'
+## ---------------------------------------------------------
 
 def main():
     connect_health_server()
     export_all_translations()
 
 def connect_health_server():
+    print("Connecting to GNU Health Server ...")
     health_server = 'http://'+user+':'+password+'@'+hostname+':'+port+'/'+dbname+'/'
-    print ("Connecting to GNU Health Server ...")
     conf = config.set_xmlrpc(health_server)
-    print ("Connected !")
+    print("GNU Health Server is connected!")
  
 def export_all_translations():
+    print("Starting export {0} translations of gnuhealth modules ...".format(language))
     for module in get_all_health_module_names():
-        print("## Export {0} language of module {1}".format(language, module))
         po_file = get_po_file_path(module)
+        print("## Exporting to '{0}'".format(po_file))
         export_translation(language, module, po_file)
+    print("Finish to export!")
 
 def get_all_health_module_names():
     Module = Model.get('ir.module')
@@ -65,7 +67,8 @@ def get_all_health_module_names():
     return [module.name for module in modules]
     
 def get_po_file_path(module_name):
-    return directory + module_name + "/locale/zh_CN.po"
+    path = export_root_dir + "/" + module_name + "/locale/zh_CN.po"
+    return os.path.expanduser(path)
 
 def export_translation(lang, module, po_file):
     Lang = Model.get('ir.lang')
@@ -76,7 +79,7 @@ def export_translation(lang, module, po_file):
     translation_export.execute('export')
     data = translation_export.form.file
     if data is None:
-        print("   Note: Module {0} have no translation for languate {1}.".format(module, lang))
+        print("   WARN: Module {0} have no translation for languate {1}.\n".format(module, lang))
     else:
         os.makedirs(os.path.dirname(po_file), exist_ok=True)
         with open(po_file, 'wb') as binary_file:
