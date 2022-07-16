@@ -1,4 +1,4 @@
-#  gnuhealth_csv_lab_interface.py
+#  gnuhealth_translations-export.py
 #  
 #  Copyright 2017 Luis Falcon <falcon@gnuhealth.org>
 #  Copyright 2011-2022 GNU Solidario <health@gnusolidario.org>
@@ -19,13 +19,20 @@
 #  MA 02110-1301, USA.
 #  
 #  
+# How to use this tool?
+# 1. Install gnuhealth from hg repo.
+# 2. Active all health modules.
+# 3. Active language which will export.
+# 4. Clean up translation and sync translation.
+# 5. Edit config variables in this script.
+# 6. Run this script.
 
-# Check the README file for documentation on how to use this program
 import sys
 import os
 
 from proteus import config, Model, Wizard
 
+## User need edit the below variables before run this script.
 hostname  =  'localhost'
 port      =  '8000'
 user      =  'admin'
