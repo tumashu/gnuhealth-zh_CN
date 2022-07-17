@@ -569,9 +569,10 @@ msgctxt "report:newborn.card:"
 msgid "Name"
 msgstr "姓名"
 
+#, fuzzy
 msgctxt "report:newborn.card:"
 msgid "PU"
-msgstr ""
+msgstr "PU"
 
 msgctxt "report:newborn.card:"
 msgid "and"

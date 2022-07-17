@@ -26,10 +26,9 @@ msgctxt "field:gnuhealth.imaging.test.request,comment:"
 msgid "Additional Information"
 msgstr "说明"
 
-#, fuzzy
 msgctxt "field:gnuhealth.imaging.test.request,context:"
 msgid "Context"
-msgstr "内容"
+msgstr "相关信息"
 
 msgctxt "field:gnuhealth.imaging.test.request,date:"
 msgid "Date"
@@ -79,7 +78,6 @@ msgctxt "field:gnuhealth.imaging.test.result,number:"
 msgid "Number"
 msgstr "检查结果编号"
 
-#, fuzzy
 msgctxt "field:gnuhealth.imaging.test.result,order:"
 msgid "Order"
 msgstr "申请编号"
@@ -108,10 +106,9 @@ msgctxt "field:gnuhealth.imaging.test.type,name:"
 msgid "Name"
 msgstr "名称"
 
-#, fuzzy
 msgctxt "field:gnuhealth.patient.imaging.test.request.start,context:"
 msgid "Context"
-msgstr "内容"
+msgstr "相关信息"
 
 msgctxt "field:gnuhealth.patient.imaging.test.request.start,date:"
 msgid "Date"
@@ -143,36 +140,36 @@ msgstr "影像检查"
 
 msgctxt "field:gnuhealth.sequences,imaging_req_seq:"
 msgid "Imaging Request Sequence"
-msgstr ""
+msgstr "影像申请序列"
 
 msgctxt "field:gnuhealth.sequences,imaging_test_sequence:"
 msgid "Imaging Sequence"
-msgstr ""
+msgstr "影像序列"
 
 msgctxt "field:gnuhealth.sequences.imaging_req_seq,imaging_req_seq:"
 msgid "Imaging Request Sequence"
-msgstr ""
+msgstr "影像申请序列"
 
 msgctxt ""
 "field:gnuhealth.sequences.imaging_test_sequence,imaging_test_sequence:"
 msgid "Imaging Sequence"
-msgstr ""
+msgstr "影像序列"
 
 msgctxt "help:gnuhealth.imaging.test.request,context:"
 msgid ""
 "Health context for this order. It can be a suspected or existing health "
 "condition, a regular health checkup, ..."
-msgstr ""
+msgstr "此申请涉及患者的健康状况。它可以是疑似或现有的健康状况，定期健康检查。。。"
 
 msgctxt "help:gnuhealth.imaging.test.result,order:"
 msgid "The order ID containing this particular imaging study"
-msgstr ""
+msgstr "包含这个特定影像检查的订单编号"
 
 msgctxt "help:gnuhealth.patient.imaging.test.request.start,context:"
 msgid ""
 "Health context for this order. It can be a suspected or existing health "
 "condition, a regular health checkup, ..."
-msgstr ""
+msgstr "此申请涉及患者的健康情况。它可以是疑似或现有的健康状况，定期健康检查。。。"
 
 msgctxt "help:gnuhealth.patient.imaging.test.request.start,doctor:"
 msgid "Health professionalwho requests the lab tests."
@@ -204,11 +201,11 @@ msgstr "申请影像检查"
 
 msgctxt "model:gnuhealth.sequences.imaging_req_seq,name:"
 msgid "Imaging Request Sequence setup"
-msgstr ""
+msgstr "影像申请序列设置"
 
 msgctxt "model:gnuhealth.sequences.imaging_test_sequence,name:"
 msgid "Imaging Test Sequence setup"
-msgstr ""
+msgstr "影像检查序列设置"
 
 msgctxt "model:ir.action,name:act_imaging_test_request_view"
 msgid "Dx Imaging Requests"

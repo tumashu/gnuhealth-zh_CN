@@ -134,9 +134,10 @@ msgctxt "report:newborn.qrcard:"
 msgid "Name"
 msgstr "名称"
 
+#, fuzzy
 msgctxt "report:newborn.qrcard:"
 msgid "PU"
-msgstr ""
+msgstr "PU"
 
 msgctxt "report:newborn.qrcard:"
 msgid "and"

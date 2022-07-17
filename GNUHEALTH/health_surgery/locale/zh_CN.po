@@ -427,9 +427,10 @@ msgctxt "model:gnuhealth.rcri,name:"
 msgid "Revised Cardiac Risk Index"
 msgstr "改良心脏风险指数"
 
+#, fuzzy
 msgctxt "model:gnuhealth.sequences.surgery_code_sequence,name:"
 msgid "Health Service Request Sequence setup"
-msgstr ""
+msgstr "健康服务申请序列设置"
 
 msgctxt "model:gnuhealth.surgery,name:"
 msgid "Surgery"

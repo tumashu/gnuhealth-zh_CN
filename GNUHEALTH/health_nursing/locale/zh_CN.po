@@ -434,9 +434,10 @@ msgctxt "model:gnuhealth.sequences.ambulatory_care_sequence,name:"
 msgid "Ambulatory Care Sequences setup"
 msgstr ""
 
+#, fuzzy
 msgctxt "model:gnuhealth.sequences.patient_rounding_sequence,name:"
 msgid "Patient Evaluation Sequence setup"
-msgstr ""
+msgstr "患者评估序列设置"
 
 msgctxt "model:ir.action,name:action_gnuhealth_patient_ambulatory_care_view"
 msgid "Ambulatory Care"
@@ -587,9 +588,10 @@ msgctxt "report:patient.rounding.report:"
 msgid "P"
 msgstr "患者"
 
+#, fuzzy
 msgctxt "report:patient.rounding.report:"
 msgid "PU"
-msgstr ""
+msgstr "PU"
 
 msgctxt "report:patient.rounding.report:"
 msgid "Pain"

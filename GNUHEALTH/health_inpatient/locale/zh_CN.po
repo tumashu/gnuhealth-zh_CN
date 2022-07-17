@@ -871,9 +871,10 @@ msgctxt "model:gnuhealth.inpatient.registration,name:"
 msgid "Patient admission History"
 msgstr "患者入院历史"
 
+#, fuzzy
 msgctxt "model:gnuhealth.sequences.inpatient_meal_order_sequence,name:"
 msgid "Patient Evaluation Sequence setup"
-msgstr ""
+msgstr "患者评估序列设置"
 
 msgctxt "model:gnuhealth.sequences.inpatient_registration_sequence,name:"
 msgid "Ambulatory Care Sequences setup"

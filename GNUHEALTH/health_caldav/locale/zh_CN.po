@@ -2,10 +2,9 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-#, fuzzy
 msgctxt "field:calendar.calendar,description:"
 msgid "Description"
-msgstr "Orthanc 检查描述"
+msgstr "描述"
 
 #, fuzzy
 msgctxt "field:calendar.calendar,name:"

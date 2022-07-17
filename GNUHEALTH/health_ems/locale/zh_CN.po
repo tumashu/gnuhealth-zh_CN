@@ -304,9 +304,10 @@ msgctxt "model:gnuhealth.ambulance_hp,name:"
 msgid "Ambulance Health Professionals"
 msgstr "跟随救护车的医务人员"
 
+#, fuzzy
 msgctxt "model:gnuhealth.sequences.support_request_code_sequence,name:"
 msgid "Health Service Request Sequence setup"
-msgstr ""
+msgstr "健康服务申请序列设置"
 
 msgctxt "model:gnuhealth.support_request,name:"
 msgid "Support Request Registration"
