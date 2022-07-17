@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #  gnuhealth_translations-export.py
 #  
 #  Copyright 2017 Luis Falcon <falcon@gnuhealth.org>
@@ -22,10 +23,9 @@
 # How to use this tool?
 # 1. Install gnuhealth from hg repo.
 # 2. Active all health modules.
-# 3. Active language which will export.
-# 4. Clean up translation and sync translation.
-# 5. Edit config variables in this script.
-# 6. Run this script.
+# 3. Update all health modules.
+#    Run cdexe; ./trytond-admin --all --language <language> -d <dbname>
+# 4. Edit script's variables and run it.
 
 import sys
 import os
@@ -44,6 +44,9 @@ export_root_dir =  '~/projects/gnuhealth-zh_CN/GNUHEALTH'
 
 def main():
     connect_health_server()
+    extract_en_translations()
+    cleanup_translations()
+    update_translations_from_en()
     export_all_translations()
 
 def connect_health_server():
@@ -51,6 +54,23 @@ def connect_health_server():
     health_server = 'http://'+user+':'+password+'@'+hostname+':'+port+'/'+dbname+'/'
     conf = config.set_xmlrpc(health_server)
     print("GNU Health Server is connected!")
+
+def extract_en_translations():
+    print("Extracting en translations from models, views, reports ...")
+    translation_set = Wizard('ir.translation.set')
+    translation_set.execute('set_')
+
+def cleanup_translations():
+    print("Cleaning up translations ...")
+    translation_clean = Wizard('ir.translation.clean')
+    translation_clean.execute('clean')
+
+def update_translations_from_en():
+    print("Syncing {0} translations with en translations.".format(language))
+    Lang = Model.get('ir.lang')
+    translation_update = Wizard('ir.translation.update')
+    translation_update.form.language, = Lang.find([('code', '=', language)])
+    translation_update.execute('update')
  
 def export_all_translations():
     print("Starting export {0} translations of gnuhealth modules ...".format(language))
