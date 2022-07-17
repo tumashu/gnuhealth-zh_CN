@@ -724,7 +724,7 @@ msgstr "SD - 肩关节切除"
 
 msgctxt "selection:gnuhealth.patient.amputation,amputation_level:"
 msgid "Symes"
-msgstr "Symes"
+msgstr "赛姆截肢"
 
 msgctxt "selection:gnuhealth.patient.amputation,amputation_level:"
 msgid "TF - Transfemoral"

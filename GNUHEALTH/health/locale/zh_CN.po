@@ -1563,9 +1563,10 @@ msgctxt "field:gnuhealth.patient.evaluation,head_circumference:"
 msgid "Head"
 msgstr "头围"
 
+#, fuzzy
 msgctxt "field:gnuhealth.patient.evaluation,healthprof:"
-msgid "Health Prof"
-msgstr "医务人员"
+msgid "Initiated by"
+msgstr "发起人"
 
 msgctxt "field:gnuhealth.patient.evaluation,height:"
 msgid "Height"
@@ -1691,9 +1692,10 @@ msgctxt "field:gnuhealth.patient.evaluation,secondary_conditions:"
 msgid "Other Conditions"
 msgstr "其它诊断"
 
+#, fuzzy
 msgctxt "field:gnuhealth.patient.evaluation,signed_by:"
-msgid "Health Prof"
-msgstr "医务人员"
+msgid "Signed by"
+msgstr "签署人"
 
 msgctxt "field:gnuhealth.patient.evaluation,signs_and_symptoms:"
 msgid "Signs and Symptoms"
@@ -3147,7 +3149,7 @@ msgstr "主诉"
 
 msgctxt "help:gnuhealth.patient.evaluation,cholesterol_total:"
 msgid "Last cholesterol reading (mg/dL)"
-msgstr "最近一次的胆固醇检测读数，可以是一个大概数字，用 mg/dl 或者 mol/L 表示。"
+msgstr "最近一次胆固醇检测读数（mg/dl）"
 
 msgctxt "help:gnuhealth.patient.evaluation,code:"
 msgid "Unique code that         identifies the evaluation"
@@ -3196,15 +3198,15 @@ msgstr "评估持续时间"
 
 msgctxt "help:gnuhealth.patient.evaluation,glycemia:"
 msgid "Blood glucose level (mg/dL)"
-msgstr "最近一次测量的血糖水平，可以用近似值，以 mg/dL 或 mmol/L 表示。"
+msgstr "最近一次测量的血糖水平（mg/dL）"
 
 msgctxt "help:gnuhealth.patient.evaluation,hba1c:"
 msgid "Last Glycated Hemoglobin HbA1c level(mmol/mol)"
-msgstr "最近一次测量的糖化血红蛋白水平，可以用近似值，以 mmol/mol 表示。"
+msgstr "最近一次测量的糖化血红蛋白水平（mmol/mol）"
 
 msgctxt "help:gnuhealth.patient.evaluation,hdl:"
 msgid "Last HDL Cholesterol reading (mg/dL)"
-msgstr "最近一次高密度脂蛋白胆固醇检测读数，可以用近似值，以 mg/dL 或者 mmol/L 表示。"
+msgstr "最近一次高密度脂蛋白胆固醇检测读数（mg/dL）"
 
 msgctxt "help:gnuhealth.patient.evaluation,head_circumference:"
 msgid "Head circumference in centimeters"
@@ -3242,7 +3244,7 @@ msgstr "如果病人对臭名昭著的公共事件无法回应，就选中此项
 
 msgctxt "help:gnuhealth.patient.evaluation,ldl:"
 msgid "Last LDL Cholesterol reading (mg/dL)"
-msgstr "最近一次低密度脂蛋白胆固醇检测读数，可以使用估计值，用 mg/dL 或 mmol/L 表示。"
+msgstr "最近一次低密度脂蛋白胆固醇检测读数（mg/dL）"
 
 msgctxt "help:gnuhealth.patient.evaluation,loc:"
 msgid ""

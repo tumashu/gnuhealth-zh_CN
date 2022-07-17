@@ -266,7 +266,6 @@ msgctxt "selection:gnuhealth.iss,injury_method:"
 msgid "Other"
 msgstr "其它"
 
-#, fuzzy
 msgctxt "selection:gnuhealth.iss,injury_method:"
 msgid "Push/bodily force"
 msgstr "推/身体力"
