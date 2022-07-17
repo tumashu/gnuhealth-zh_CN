@@ -33,13 +33,12 @@ import os
 from proteus import config, Model, Wizard
 
 ## User need edit the below variables before run this script.
-hostname        =  'localhost'
-port            =  '8000'
-user            =  'admin'
-password        =  'gnuhealth'
-dbname          =  'gnuhealth1'
-language        =  'zh_CN'
-export_root_dir =  '~/projects/gnuhealth-zh_CN/GNUHEALTH'
+hostname  =  'localhost'
+port      =  '8000'
+user      =  'admin'
+password  =  'gnuhealth'
+dbname    =  'gnuhealth1'
+language  =  'zh_CN'
 ## ---------------------------------------------------------
 
 def main():
@@ -87,8 +86,9 @@ def get_all_health_module_names():
     return [module.name for module in modules]
     
 def get_po_file_path(module_name):
-    path = export_root_dir + "/" + module_name + "/locale/zh_CN.po"
-    return os.path.expanduser(path)
+    script_dir = os.path.abspath(os.path.dirname(__file__))
+    path = script_dir + "/GNUHEALTH/" + module_name + "/locale/zh_CN.po"
+    return path
 
 def export_translation(lang, module, po_file):
     Lang = Model.get('ir.lang')
