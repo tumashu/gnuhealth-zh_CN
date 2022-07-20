@@ -22,10 +22,9 @@
 #  
 # How to use this tool?
 # 1. Install gnuhealth from hg repo.
-# 2. Active all health modules.
-# 3. Update all health modules.
+# 2. Active and update health modules which translations will be exported.
 #    Run cdexe; ./trytond-admin --all --language <language> -d <dbname>
-# 4. Edit script's variables and run it.
+# 3. Edit script's variables and run it.
 
 import sys
 import os
