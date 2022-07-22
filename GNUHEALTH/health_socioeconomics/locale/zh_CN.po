@@ -48,7 +48,7 @@ msgstr "学校退学"
 
 msgctxt "field:gnuhealth.patient,ses:"
 msgid "SES"
-msgstr ""
+msgstr "社会经济状况"
 
 msgctxt "field:gnuhealth.patient,ses_assessments:"
 msgid "Assessments"
@@ -148,7 +148,7 @@ msgstr "患者"
 
 msgctxt "field:gnuhealth.ses.assessment,ses:"
 msgid "Socioeconomics"
-msgstr "社会经济学"
+msgstr "社会经济状况"
 
 msgctxt "field:gnuhealth.ses.assessment,signed_by:"
 msgid "Signed by"
@@ -190,7 +190,7 @@ msgstr "检查患者是否来自核心家庭-父母/兄弟姐妹正在服刑或�
 
 msgctxt "help:gnuhealth.patient,ses:"
 msgid "Current Socioeconomic Status"
-msgstr ""
+msgstr "当前社会经济状况"
 
 msgctxt "help:gnuhealth.patient,ses_assessments:"
 msgid "Socioeconomics and Family assessments history"
@@ -267,7 +267,7 @@ msgstr "住房和卫生生活条件"
 
 msgctxt "help:gnuhealth.ses.assessment,ses:"
 msgid "SES - Socioeconomic Status"
-msgstr "SES - 社会经济地位"
+msgstr "SES - 社会经济状况"
 
 msgctxt "help:gnuhealth.ses.assessment,signed_by:"
 msgid "Health Professional that finished the patient evaluation"
@@ -279,7 +279,7 @@ msgstr "教育水平"
 
 msgctxt "model:gnuhealth.ses.assessment,name:"
 msgid "Socioeconomics and Family Functionality Assessment"
-msgstr "社会经济学和家庭功能评估"
+msgstr "社会经济和家庭功能评估"
 
 msgctxt "model:ir.action,name:act_ses_assessment"
 msgid "Socioeconomic and Family Assessment"
@@ -337,27 +337,22 @@ msgctxt "selection:gnuhealth.patient,housing:"
 msgid "Small, crowded but with good sanitary conditions"
 msgstr "小而拥挤，但卫生条件良好"
 
-#, fuzzy
 msgctxt "selection:gnuhealth.patient,ses:"
 msgid "Higher"
 msgstr "较高"
 
-#, fuzzy
 msgctxt "selection:gnuhealth.patient,ses:"
 msgid "Lower"
 msgstr "较低"
 
-#, fuzzy
 msgctxt "selection:gnuhealth.patient,ses:"
 msgid "Lower-middle"
 msgstr "下中等"
 
-#, fuzzy
 msgctxt "selection:gnuhealth.patient,ses:"
 msgid "Middle"
 msgstr "中等"
 
-#, fuzzy
 msgctxt "selection:gnuhealth.patient,ses:"
 msgid "Middle-upper"
 msgstr "上中等"
@@ -552,7 +547,7 @@ msgstr "其他家庭和环境决定因素"
 
 msgctxt "view:gnuhealth.patient:"
 msgid "Socioeconomics"
-msgstr "社会经济学"
+msgstr "社会经济状况"
 
 msgctxt "view:gnuhealth.ses.assessment:"
 msgid "Done"
@@ -580,4 +575,4 @@ msgstr "说明"
 
 msgctxt "view:gnuhealth.ses.assessment:"
 msgid "Socioeconomics"
-msgstr "社会经济学"
+msgstr "社会经济状况"

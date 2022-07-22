@@ -76,7 +76,7 @@ msgstr "影像图片"
 
 msgctxt "field:gnuhealth.imaging.test.result,number:"
 msgid "Number"
-msgstr "检查结果编号"
+msgstr "结果编号"
 
 msgctxt "field:gnuhealth.imaging.test.result,order:"
 msgid "Order"

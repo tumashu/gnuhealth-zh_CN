@@ -583,9 +583,10 @@ msgctxt "report:newborn.card:"
 msgid "cm"
 msgstr "cm"
 
+#, fuzzy
 msgctxt "report:newborn.card:"
 msgid "gr"
-msgstr ""
+msgstr "gr"
 
 msgctxt "selection:gnuhealth.neonatal.apgar,apgar_activity:"
 msgid "None"

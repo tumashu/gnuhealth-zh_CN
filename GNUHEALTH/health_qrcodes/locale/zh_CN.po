@@ -134,7 +134,6 @@ msgctxt "report:newborn.qrcard:"
 msgid "Name"
 msgstr "名称"
 
-#, fuzzy
 msgctxt "report:newborn.qrcard:"
 msgid "PU"
 msgstr "PU"
@@ -149,7 +148,7 @@ msgstr "厘米"
 
 msgctxt "report:newborn.qrcard:"
 msgid "gr"
-msgstr ""
+msgstr "gr"
 
 msgctxt "report:patient.qrcard:"
 msgid ":"

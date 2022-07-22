@@ -24,7 +24,7 @@ msgstr "诊断"
 
 msgctxt "field:gnuhealth.lab,name:"
 msgid "ID"
-msgstr "检验结果编号"
+msgstr "结果编号"
 
 msgctxt "field:gnuhealth.lab,pathologist:"
 msgid "Pathologist"
@@ -164,7 +164,7 @@ msgstr "日期"
 
 msgctxt "field:gnuhealth.patient.lab.test,doctor_id:"
 msgid "Health prof."
-msgstr "医务人员."
+msgstr "医务人员"
 
 msgctxt "field:gnuhealth.patient.lab.test,name:"
 msgid "Test Type"

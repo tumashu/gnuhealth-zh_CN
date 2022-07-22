@@ -70,7 +70,6 @@ msgctxt "field:gnuhealth.sequences,support_request_code_sequence:"
 msgid "Support Request sequence"
 msgstr "救援申请序列"
 
-#, fuzzy
 msgctxt ""
 "field:gnuhealth.sequences.support_request_code_sequence,support_request_code_sequence:"
 msgid "Support Request sequence"
@@ -304,7 +303,6 @@ msgctxt "model:gnuhealth.ambulance_hp,name:"
 msgid "Ambulance Health Professionals"
 msgstr "跟随救护车的医务人员"
 
-#, fuzzy
 msgctxt "model:gnuhealth.sequences.support_request_code_sequence,name:"
 msgid "Health Service Request Sequence setup"
 msgstr "健康服务申请序列设置"

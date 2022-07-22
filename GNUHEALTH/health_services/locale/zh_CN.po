@@ -48,7 +48,7 @@ msgstr "状态"
 
 msgctxt "field:gnuhealth.health_service.line,action_required:"
 msgid "Action required"
-msgstr "需要相应操作"
+msgstr "需要采取措施"
 
 msgctxt "field:gnuhealth.health_service.line,appointment:"
 msgid "Appointment"

@@ -960,7 +960,7 @@ msgstr "产科史"
 
 msgctxt "model:ir.message,text:msg_patient_already_pregnant"
 msgid "Our records indicate that the patient is already pregnant"
-msgstr ""
+msgstr "系统记录表明此患者已怀孕"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_obstetrics"
 msgid "Obstetrics"

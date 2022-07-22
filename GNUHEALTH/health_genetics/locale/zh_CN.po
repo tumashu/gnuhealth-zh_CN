@@ -20,7 +20,7 @@ msgstr "位置"
 
 msgctxt "field:gnuhealth.disease.gene,long_name:"
 msgid "Official Long Name"
-msgstr "官方名称"
+msgstr "正式长名称"
 
 msgctxt "field:gnuhealth.disease.gene,name:"
 msgid "Gene Name"
@@ -130,7 +130,6 @@ msgctxt "field:gnuhealth.protein.disease,acronym:"
 msgid "Acronym"
 msgstr "首字母缩略词"
 
-#, fuzzy
 msgctxt "field:gnuhealth.protein.disease,active:"
 msgid "Active"
 msgstr "启用"
@@ -22095,7 +22094,7 @@ msgstr ""
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_genetics"
 msgid "Genetics"
-msgstr "遗传学"
+msgstr "遗传基因"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_protein_diseases"
 msgid "Protein related diseases"
@@ -22103,7 +22102,7 @@ msgstr ""
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_genetics"
 msgid "Genetics"
-msgstr "遗传学"
+msgstr "遗传基因"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_patient_genetics"
 msgid "Person genetic information"
@@ -22111,7 +22110,7 @@ msgstr "个人遗传信息"
 
 msgctxt "model:res.group,name:group_health_genetics_admin"
 msgid "Health Genetics Administration"
-msgstr "Health 遗传学管理"
+msgstr "Health 遗传基因管理"
 
 msgctxt "selection:gnuhealth.patient.family.diseases,relative:"
 msgid "Aunt"
@@ -22183,7 +22182,7 @@ msgstr ""
 
 msgctxt "view:gnuhealth.patient:"
 msgid "Genetics"
-msgstr "遗传学"
+msgstr "遗传基因"
 
 msgctxt "view:gnuhealth.protein.disease:"
 msgid "Disease"
