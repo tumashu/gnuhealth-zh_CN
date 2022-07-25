@@ -35,8 +35,8 @@ from proteus import config, Model, Wizard
 hostname  =  'localhost'
 port      =  '8000'
 user      =  'admin'
-password  =  'gnuhealth'
-dbname    =  'gnuhealth1'
+password  =  'gnusolidario'
+dbname    =  'ghdemo40'
 language  =  'zh_CN'
 ## ---------------------------------------------------------
 
