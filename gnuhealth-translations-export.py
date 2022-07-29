@@ -81,7 +81,7 @@ def export_all_translations():
 def get_all_health_module_names():
     Module = Model.get('ir.module')
     modules = Module.find([('name', 'like', "health%"),
-                           ('state', 'in', ['activated', 'to upgrade', 'to remove'])])
+                           ('state', 'in', ['activated'])])
     return [module.name for module in modules]
     
 def get_po_file_path(module_name):
