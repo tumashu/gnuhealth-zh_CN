@@ -1559,9 +1559,10 @@ msgctxt "field:gnuhealth.patient.evaluation,head_circumference:"
 msgid "Head"
 msgstr "头围"
 
+#, fuzzy
 msgctxt "field:gnuhealth.patient.evaluation,healthprof:"
 msgid "Initiated by"
-msgstr "医务人员"
+msgstr "发起人"
 
 msgctxt "field:gnuhealth.patient.evaluation,height:"
 msgid "Height"
@@ -1687,9 +1688,10 @@ msgctxt "field:gnuhealth.patient.evaluation,secondary_conditions:"
 msgid "Other Conditions"
 msgstr "其它诊断"
 
+#, fuzzy
 msgctxt "field:gnuhealth.patient.evaluation,signed_by:"
 msgid "Signed by"
-msgstr "医务人员"
+msgstr "签署人"
 
 msgctxt "field:gnuhealth.patient.evaluation,signs_and_symptoms:"
 msgid "Signs and Symptoms"
