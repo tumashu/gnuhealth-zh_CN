@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "field:gnuhealth.appointment,appointment_date:"
 msgid "Date and Time"
-msgstr "日期时间"
+msgstr "预约时间"
 
 msgctxt "field:gnuhealth.appointment,appointment_type:"
 msgid "Type"
@@ -68,7 +68,7 @@ msgstr "日期"
 
 msgctxt "field:gnuhealth.appointment.report,appointment_date_time:"
 msgid "Date and Time"
-msgstr "日期时间"
+msgstr "预约时间"
 
 msgctxt "field:gnuhealth.appointment.report,diagnosis:"
 msgid "Main Codition"
@@ -92,7 +92,7 @@ msgstr "患者"
 
 msgctxt "field:gnuhealth.appointment.report,ref:"
 msgid "PUID"
-msgstr "PUID"
+msgstr "身份证号"
 
 msgctxt "field:gnuhealth.appointment.report.open.start,date_end:"
 msgid "Date End"
@@ -541,7 +541,7 @@ msgstr "医务人员"
 
 msgctxt "field:gnuhealth.healthprofessional,puid:"
 msgid "PUID"
-msgstr "PUID"
+msgstr "身份证号"
 
 msgctxt "field:gnuhealth.healthprofessional,specialties:"
 msgid "Specialties"
@@ -1273,7 +1273,7 @@ msgstr "家庭医生"
 
 msgctxt "field:gnuhealth.patient,puid:"
 msgid "PUID"
-msgstr "PUID"
+msgstr "身份证号"
 
 msgctxt "field:gnuhealth.patient,rh:"
 msgid "Rh"
@@ -2344,7 +2344,7 @@ msgstr "联系"
 
 msgctxt "field:party.contact_mechanism,emergency:"
 msgid "Emergency"
-msgstr "急诊"
+msgstr "紧急"
 
 msgctxt "field:party.contact_mechanism,remarks:"
 msgid "Remarks"
@@ -2360,11 +2360,11 @@ msgstr "年龄"
 
 msgctxt "field:party.party,alternative_identification:"
 msgid "Alternative IDs"
-msgstr "其它ID"
+msgstr "备选ID"
 
 msgctxt "field:party.party,alternative_ids:"
 msgid "Alternative IDs"
-msgstr "其它ID"
+msgstr "备选ID"
 
 msgctxt "field:party.party,birth_certificate:"
 msgid "Birth Certificate"
@@ -2484,7 +2484,7 @@ msgstr "图片"
 
 msgctxt "field:party.party,ref:"
 msgid "PUID"
-msgstr "PUID"
+msgstr "身份证号"
 
 msgctxt "field:party.party,residence:"
 msgid "Residence"
@@ -2492,7 +2492,7 @@ msgstr "定居"
 
 msgctxt "field:party.party,unidentified:"
 msgid "Unidentified"
-msgstr "未确认"
+msgstr "未实名制"
 
 msgctxt "field:product.product,is_bed:"
 msgid "Bed"
@@ -2552,7 +2552,7 @@ msgstr "直接死因"
 
 msgctxt "help:gnuhealth.death_certificate,dod:"
 msgid "Date and time of Death"
-msgstr "死亡日期时间"
+msgstr "死亡日期和时间"
 
 msgctxt "help:gnuhealth.death_certificate,du:"
 msgid "Domiciliary Unit"
@@ -2660,7 +2660,7 @@ msgstr "卫生专业人员的名字，来自 partner 列表"
 
 msgctxt "help:gnuhealth.healthprofessional,puid:"
 msgid "Person Unique Identifier"
-msgstr "个人唯一标识，PUID"
+msgstr "个人唯一标识"
 
 msgctxt "help:gnuhealth.help,description:"
 msgid "Short description"
@@ -3048,7 +3048,7 @@ msgstr "当前患者的全科医生/家庭医生"
 
 msgctxt "help:gnuhealth.patient,puid:"
 msgid "Person Unique Identifier"
-msgstr "个人唯一标识，PUID"
+msgstr "个人唯一标识"
 
 msgctxt "help:gnuhealth.patient.disease,age:"
 msgid "Patient age at the moment of the diagnosis. Can be estimative"
@@ -3658,7 +3658,7 @@ msgctxt "help:party.party,alternative_identification:"
 msgid ""
 "Other types of identification, not the official PUID . Examples : Passport, "
 "foreign ID,.."
-msgstr "其他类型的身份证明，不是官方的 PUID. 比如： 护照，外国身份证 ..."
+msgstr "其他类型的身份证明，不是本地正式的身份证号。比如： 护照，外国身份证 ..."
 
 msgctxt "help:party.party,citizenship:"
 msgid "Country of Citizenship"
@@ -3745,7 +3745,7 @@ msgstr "出生证明上的母亲记录"
 
 msgctxt "help:party.party,ref:"
 msgid "Person Unique Identifier"
-msgstr "个人唯一标识，PUID"
+msgstr "个人唯一标识，身份证号"
 
 msgctxt "help:party.party,residence:"
 msgid "Country of Residence"
@@ -3753,7 +3753,7 @@ msgstr "国籍"
 
 msgctxt "help:party.party,unidentified:"
 msgid "Patient is currently unidentified"
-msgstr "无法验证患者身份"
+msgstr "患者当前未实名制"
 
 msgctxt "help:product.product,is_bed:"
 msgid "Check if the product is a bed on the gnuhealth.center"
@@ -7329,7 +7329,7 @@ msgstr "患者用药"
 
 msgctxt "model:gnuhealth.person_alternative_identification,name:"
 msgid "Alternative person ID"
-msgstr "个人其它ID"
+msgstr "备选个人身份ID"
 
 msgctxt "model:gnuhealth.person_name,name:"
 msgid "Person Name"
@@ -7589,7 +7589,7 @@ msgstr "创伤外科"
 
 msgctxt "model:gnuhealth.specialty,name:57"
 msgid "Urgent Care Medicine"
-msgstr "紧急护理医学"
+msgstr "急救护理医学"
 
 msgctxt "model:gnuhealth.specialty,name:58"
 msgid "Urology"
@@ -8398,7 +8398,7 @@ msgstr "说明/备注："
 
 msgctxt "report:appointment.receipt:"
 msgid "PUID"
-msgstr "PUID"
+msgstr "身份证号"
 
 msgctxt "report:appointment.receipt:"
 msgid "Patient"
@@ -8461,7 +8461,7 @@ msgstr "男"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "PUID"
-msgstr "PUID"
+msgstr "身份证号"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "Patient"
@@ -8643,7 +8643,7 @@ msgstr "患者"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "PUID"
-msgstr "PUID"
+msgstr "身份证号"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Patient :"
@@ -9253,7 +9253,7 @@ msgstr "注意事项"
 
 msgctxt "report:prescription.order:"
 msgid "PUID :"
-msgstr "PUID："
+msgstr "身份证号："
 
 msgctxt "report:prescription.order:"
 msgid "Patient :"
@@ -9373,7 +9373,7 @@ msgstr "已爽约"
 
 msgctxt "selection:gnuhealth.appointment,urgency:"
 msgid "Medical Emergency"
-msgstr "急诊"
+msgstr "医疗急救"
 
 msgctxt "selection:gnuhealth.appointment,urgency:"
 msgid "Normal"
@@ -10189,7 +10189,7 @@ msgstr "已签署"
 
 msgctxt "selection:gnuhealth.patient.evaluation,urgency:"
 msgid "Medical Emergency"
-msgstr "急诊"
+msgstr "医疗急救"
 
 msgctxt "selection:gnuhealth.patient.evaluation,urgency:"
 msgid "Normal"

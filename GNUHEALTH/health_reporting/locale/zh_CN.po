@@ -243,10 +243,6 @@ msgid "Birth"
 msgstr "出生日期"
 
 msgctxt "report:gnuhealth.epidemics.report:"
-msgid "Cases by age group"
-msgstr "按年龄组划分的病例"
-
-msgctxt "report:gnuhealth.epidemics.report:"
 msgid "Confirmed cases"
 msgstr "确诊病例"
 
@@ -287,20 +283,12 @@ msgid "In t"
 msgstr ""
 
 msgctxt "report:gnuhealth.epidemics.report:"
-msgid "LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1"
-msgstr ""
-
-msgctxt "report:gnuhealth.epidemics.report:"
 msgid "Living Population"
 msgstr "人口数量"
 
 msgctxt "report:gnuhealth.epidemics.report:"
 msgid "Male"
 msgstr "男性"
-
-msgctxt "report:gnuhealth.epidemics.report:"
-msgid "NaN"
-msgstr "空值"
 
 msgctxt "report:gnuhealth.epidemics.report:"
 msgid "No Age"
@@ -373,10 +361,6 @@ msgstr "10-14"
 msgctxt "report:gnuhealth.summary.report:"
 msgid "100"
 msgstr "100"
-
-msgctxt "report:gnuhealth.summary.report:"
-msgid "100-104"
-msgstr "100-104"
 
 msgctxt "report:gnuhealth.summary.report:"
 msgid "104"
@@ -471,10 +455,6 @@ msgid "95-"
 msgstr "95-"
 
 msgctxt "report:gnuhealth.summary.report:"
-msgid "95-99"
-msgstr "95-99"
-
-msgctxt "report:gnuhealth.summary.report:"
 msgid "99"
 msgstr "99"
 
@@ -485,10 +465,6 @@ msgstr "< 5"
 msgctxt "report:gnuhealth.summary.report:"
 msgid "> 6"
 msgstr "> 6"
-
-msgctxt "report:gnuhealth.summary.report:"
-msgid "Age Group"
-msgstr "年龄组"
 
 msgctxt "report:gnuhealth.summary.report:"
 msgid "Age range"
@@ -531,10 +507,6 @@ msgid "In t"
 msgstr ""
 
 msgctxt "report:gnuhealth.summary.report:"
-msgid "LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1"
-msgstr ""
-
-msgctxt "report:gnuhealth.summary.report:"
 msgid "Living Population"
 msgstr "人口数量"
 
@@ -545,10 +517,6 @@ msgstr "男"
 msgctxt "report:gnuhealth.summary.report:"
 msgid "Male stacked"
 msgstr ""
-
-msgctxt "report:gnuhealth.summary.report:"
-msgid "NaN"
-msgstr "空值"
 
 msgctxt "report:gnuhealth.summary.report:"
 msgid "No Age"

@@ -351,38 +351,10 @@ msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
 msgid "9"
 msgstr ""
 
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "<p15>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "<p3>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "<p50>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "<p85>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "<p97>"
-msgstr ""
-
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
 msgid "Age"
 msgstr "年龄"
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "Age (completed months and years)"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "BMI (kg/m2)"
-msgstr ""
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
@@ -390,17 +362,8 @@ msgid "Date"
 msgstr "Orthanc 检查日期"
 
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
 msgid "Month"
 msgstr "月"
-
-#, fuzzy
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "NaN"
-msgstr "空值"
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
@@ -416,10 +379,6 @@ msgstr "Orthanc 患者"
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
 msgid "Patient ID"
 msgstr "患者代码"
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.bmifa.report:"
-msgid "Series1"
-msgstr ""
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
@@ -704,34 +663,10 @@ msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
 msgid "9"
 msgstr ""
 
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "<p15>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "<p3>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "<p50>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "<p85>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "<p97>"
-msgstr ""
-
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
 msgid "Age"
 msgstr "年龄"
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "Age (completed months and years)"
-msgstr ""
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
@@ -739,21 +674,8 @@ msgid "Date"
 msgstr "Orthanc 检查日期"
 
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "Length/Height (cm)"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
 msgid "Month"
 msgstr "月"
-
-#, fuzzy
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "NaN"
-msgstr "空值"
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
@@ -769,10 +691,6 @@ msgstr "Orthanc 患者"
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
 msgid "Patient ID"
 msgstr "患者代码"
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.lhfa.report:"
-msgid "Series1"
-msgstr ""
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
@@ -1057,34 +975,10 @@ msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
 msgid "9"
 msgstr ""
 
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "<p15>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "<p3>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "<p50>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "<p85>"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "<p97>"
-msgstr ""
-
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
 msgid "Age"
 msgstr "年龄"
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "Age (completed months and years)"
-msgstr ""
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
@@ -1092,17 +986,8 @@ msgid "Date"
 msgstr "Orthanc 检查日期"
 
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
 msgid "Month"
 msgstr "月"
-
-#, fuzzy
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "NaN"
-msgstr "空值"
 
 #, fuzzy
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
@@ -1118,14 +1003,6 @@ msgstr "Orthanc 患者"
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
 msgid "Patient ID"
 msgstr "患者代码"
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "Series1"
-msgstr ""
-
-msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
-msgid "Weight (kg)"
-msgstr ""
 
 msgctxt "report:gnuhealth.pediatrics.growth.charts.who.wfa.report:"
 msgid "gráfico"

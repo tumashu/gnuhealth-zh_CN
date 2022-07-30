@@ -44,7 +44,7 @@ msgstr "有效期"
 
 msgctxt "field:webdav.share,key:"
 msgid "Key"
-msgstr "关键字"
+msgstr "密钥"
 
 msgctxt "field:webdav.share,note:"
 msgid "Note"

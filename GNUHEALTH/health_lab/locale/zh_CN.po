@@ -56,7 +56,7 @@ msgstr "检验类型"
 
 msgctxt "field:gnuhealth.lab.test.critearea,excluded:"
 msgid "Excluded"
-msgstr "无检验报告"
+msgstr "忽略此项"
 
 msgctxt "field:gnuhealth.lab.test.critearea,gnuhealth_lab_id:"
 msgid "Test Cases"
@@ -260,7 +260,7 @@ msgstr "实验室检验类型"
 
 msgctxt "help:gnuhealth.lab.test.critearea,excluded:"
 msgid "Select this option when this analyte is excluded from the test"
-msgstr "如果此项不需要在检验报告中出现时，就选中此项"
+msgstr "选中后忽略此项"
 
 msgctxt "help:gnuhealth.lab.test.critearea,result_text:"
 msgid ""
