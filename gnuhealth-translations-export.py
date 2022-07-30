@@ -19,26 +19,13 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 #  
-#  
-# How to use this tool?
-# 1. Install gnuhealth from hg repo.
-# 2. Active and update health modules which translations will be exported.
-#    Run cdexe; ./trytond-admin --all --language <language> -d <dbname>
-# 3. Edit script's variables and run it.
 
 import sys
 import os
 
 from proteus import config, Model, Wizard
 
-## User need edit the below variables before run this script.
-hostname  =  'localhost'
-port      =  '8000'
-user      =  'admin'
-password  =  'gnuhealth'
-dbname    =  'gnuhealth'
 language  =  'zh_CN'
-## ---------------------------------------------------------
 
 def main():
     connect_health_server()
@@ -49,10 +36,8 @@ def main():
     export_all_translations()
 
 def connect_health_server():
-    print("Connecting to GNU Health Server ...")
-    health_server = 'http://'+user+':'+password+'@'+hostname+':'+port+'/'+dbname+'/'
-    conf = config.set_xmlrpc(health_server)
-    print("GNU Health Server is connected!")
+    print("Connecting to GNU Health 'translations' database ...")
+    config.set_trytond(database='postgresql:///translations', user='admin')
 
 def extract_en_translations():
     print("Extracting en translations from models, views, reports ...")
