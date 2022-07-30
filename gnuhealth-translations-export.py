@@ -31,8 +31,8 @@ def main():
     connect_health_server()
     extract_en_translations()
     cleanup_translations()
-    delete_en_translations()
     update_translations_from_en()
+    delete_useless_translations()
     export_all_translations()
 
 def connect_health_server():
@@ -49,19 +49,6 @@ def cleanup_translations():
     translation_clean = Wizard('ir.translation.clean')
     translation_clean.execute('clean')
 
-def delete_en_translations():
-    infos = [('health_caldav', 'calendar.event,vevent'),
-             ('health_caldav', 'calendar.event.alarm,valarm')]
-    Translation = Model.get('ir.translation')
-    for model, field in infos:
-        translations = Translation.find([
-            ('lang', '=', 'en'),
-            ('module', '=', model),
-            ('name', '=', field)])
-        for translation in translations:
-            print("Deleting {} translation of '{}' ...".format(language, translation.name))
-            translation.delete()
- 
 def update_translations_from_en():
     print("Syncing {0} translations with en translations.".format(language))
     Lang = Model.get('ir.lang')
@@ -69,6 +56,20 @@ def update_translations_from_en():
     translation_update.form.language, = Lang.find([('code', '=', language)])
     translation_update.execute('update')
 
+def delete_useless_translations():
+    for lang in ['en', language]:
+        infos = [('health_caldav', 'calendar.event,vevent'),
+                 ('health_caldav', 'calendar.event.alarm,valarm')]
+        Translation = Model.get('ir.translation')
+        for model, field in infos:
+            translations = Translation.find([
+                ('lang', '=', lang),
+                ('module', '=', model),
+                ('name', '=', field)])
+            for translation in translations:
+                print("Deleting {} translation of '{}' ...".format(lang, translation.name))
+                translation.delete()
+ 
 def export_all_translations():
     print("Starting export {0} translations of gnuhealth modules ...".format(language))
     for module in get_all_health_module_names():

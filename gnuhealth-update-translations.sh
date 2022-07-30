@@ -4,7 +4,11 @@ source $HOME/.gnuhealthrc
 TRYTON_SERVER_DIR=${GNUHEALTH_DIR}/tryton/server
 TRYTOND_ADMIN_CMD="${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --email admin -d translations --all"
 
-echo "GNU Health 中文翻译文件导出工具"
+echo ""
+echo "+-------------------------------------+"
+echo "|   GNU Health 中文翻译文件导出工具   |"
+echo "+-------------------------------------+"
+echo ""
 
 echo "## 正在创建 translation 数据库文件 ..."
 dropdb --if-exists translations >/dev/null
