@@ -40,16 +40,21 @@ def update_translations_from_en(language):
 def delete_useless_translations(language):
     for lang in ['en', language]:
         ## vevent and valarm no need to translate.
-        infos = [('health_caldav', 'calendar.event,vevent'),
-                 ('health_caldav', 'calendar.event.alarm,valarm')]
+        useless_translations = [
+            # Module            Field                          Source
+            ('health_caldav',  'calendar.event,vevent',       'vevent'),
+            ('health_caldav',  'calendar.event.alarm,valarm', 'valarm'),
+            ('health_%',       '%',                           '%LibreOffice%Linux%LibreOffice_project%'),
+            ('health',         'patient.medication',          'iVBORw0KGgoAAAANSU%')]
         Translation = Model.get('ir.translation')
-        for model, field in infos:
+        for module, field, source in useless_translations:
             translations = Translation.find([
                 ('lang', '=', lang),
-                ('module', '=', model),
-                ('name', '=', field)])
+                ('module', 'ilike', module),
+                ('name', 'ilike', field),
+                ('src', 'ilike', source)])
             for translation in translations:
-                print("Deleting {} translation of '{}' ...".format(lang, translation.name))
+                print("Deleting {} translation of '{}' in '{}' ...".format(lang, source, translation.name))
                 translation.delete()
  
 def export_all_translations(language):
