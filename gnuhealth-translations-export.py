@@ -44,7 +44,7 @@ def delete_useless_translations(language):
             # Module            Field                          Source
             ('health_caldav',  'calendar.event,vevent',       'vevent'),
             ('health_caldav',  'calendar.event.alarm,valarm', 'valarm'),
-            ('health_%',       '%',                           '%LibreOffice%Linux%LibreOffice_project%'),
+            ('health_%',       '%',                           'LibreOffice/%'),
             ('health',         'patient.medication',          'iVBORw0KGgoAAAANSU%')]
         Translation = Model.get('ir.translation')
         for module, field, source in useless_translations:
