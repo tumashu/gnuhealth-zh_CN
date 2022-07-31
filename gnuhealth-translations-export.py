@@ -1,43 +1,24 @@
 #!/usr/bin/env python3
-#  gnuhealth_translations-export.py
-#  
-#  Copyright 2017 Luis Falcon <falcon@gnuhealth.org>
-#  Copyright 2011-2022 GNU Solidario <health@gnusolidario.org>
-#  
-#  This program is free software; you can redistribute it and/or modify
-#  it under the terms of the GNU General Public License as published by
-#  the Free Software Foundation; either version 2 of the License, or
-#  (at your option) any later version.
-#  
-#  This program is distributed in the hope that it will be useful,
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#  GNU General Public License for more details.
-#  
-#  You should have received a copy of the GNU General Public License
-#  along with this program; if not, write to the Free Software
-#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
-#  MA 02110-1301, USA.
-#  
 
 import sys
 import os
-
+from optparse import OptionParser
 from proteus import config, Model, Wizard
 
-language  =  'zh_CN'
-
-def main():
-    connect_health_server()
+def main(options):
+    database = options.db
+    user = options.user
+    language = options.lang
+    connect_health_server(database, user)
     extract_en_translations()
     cleanup_translations()
-    update_translations_from_en()
-    delete_useless_translations()
-    export_all_translations()
+    update_translations_from_en(language)
+    delete_useless_translations(language)
+    export_all_translations(language)
 
-def connect_health_server():
-    print("Connecting to GNU Health 'translations' database ...")
-    config.set_trytond(database='postgresql:///translations', user='admin')
+def connect_health_server(database, user):
+    print("Connecting to database '{}' with '{}' ...".format(database, user))
+    config.set_trytond(database=database, user=user)
 
 def extract_en_translations():
     print("Extracting en translations from models, views, reports ...")
@@ -49,15 +30,16 @@ def cleanup_translations():
     translation_clean = Wizard('ir.translation.clean')
     translation_clean.execute('clean')
 
-def update_translations_from_en():
+def update_translations_from_en(language):
     print("Syncing {0} translations with en translations.".format(language))
     Lang = Model.get('ir.lang')
     translation_update = Wizard('ir.translation.update')
     translation_update.form.language, = Lang.find([('code', '=', language)])
     translation_update.execute('update')
 
-def delete_useless_translations():
+def delete_useless_translations(language):
     for lang in ['en', language]:
+        ## vevent and valarm no need to translate.
         infos = [('health_caldav', 'calendar.event,vevent'),
                  ('health_caldav', 'calendar.event.alarm,valarm')]
         Translation = Model.get('ir.translation')
@@ -70,7 +52,7 @@ def delete_useless_translations():
                 print("Deleting {} translation of '{}' ...".format(lang, translation.name))
                 translation.delete()
  
-def export_all_translations():
+def export_all_translations(language):
     print("Starting export {0} translations of gnuhealth modules ...".format(language))
     for module in get_all_health_module_names():
         po_file = get_po_file_path(module)
@@ -105,4 +87,18 @@ def export_translation(lang, module, po_file):
             binary_file.write(translation_export.form.file)
     translation_export.execute('end')
 
-main()
+if __name__ == '__main__':
+    parser = OptionParser("%prog [options]")
+    parser.add_option('-d', '--database', dest='db')
+    parser.add_option('-u', '--user', dest='user')
+    parser.add_option('-l', '--language', dest='lang')
+    parser.set_defaults(user='admin', db='', lang='')
+
+    options, module_path = parser.parse_args()
+    if not options.db:
+        parser.error('You must define a database')
+    if not options.lang:
+        parser.error('You must set a language, for example: zh_CN')
+
+    main(options)
+
