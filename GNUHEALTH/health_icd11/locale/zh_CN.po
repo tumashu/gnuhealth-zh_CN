@@ -84957,9 +84957,10 @@ msgctxt "model:gnuhealth.pathology,name:XA6CY1"
 msgid "Lower trunk"
 msgstr ""
 
+#, fuzzy
 msgctxt "model:gnuhealth.pathology,name:XA6CZ2"
 msgid "Teeth"
-msgstr ""
+msgstr "牙齿"
 
 msgctxt "model:gnuhealth.pathology,name:XA6D43"
 msgid "Dorsal interosseous lymphatic vessel"
@@ -105535,10 +105536,9 @@ msgctxt "model:gnuhealth.pathology,name:XK3Z"
 msgid "Ipsilateral"
 msgstr ""
 
-#, fuzzy
 msgctxt "model:gnuhealth.pathology,name:XK49"
 msgid "Internal"
-msgstr "Internal"
+msgstr "内部"
 
 msgctxt "model:gnuhealth.pathology,name:XK4H"
 msgid "Inferior"
@@ -105568,9 +105568,10 @@ msgctxt "model:gnuhealth.pathology,name:XK63"
 msgid "Generalised distribution"
 msgstr ""
 
+#, fuzzy
 msgctxt "model:gnuhealth.pathology,name:XK6C"
 msgid "Distal"
-msgstr ""
+msgstr "远中面"
 
 msgctxt "model:gnuhealth.pathology,name:XK6J"
 msgid "Proximal"
