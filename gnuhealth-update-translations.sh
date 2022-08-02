@@ -24,7 +24,7 @@ export TRYTONPASSFILE="${password_file}"
 echo "## 正在运行 trytond-admin 命令升级数据库（1.初始化设置） ..."
 ${TRYTOND_ADMIN_CMD}
 
-modules_ignored="('health_icd10pcs')"
+modules_ignored="('health_icd10pcs','health_chinese')"
 echo "## 正在使用 psql 激活所有模块，除了 $modules_ignored ..."
 psql -q -c "UPDATE ir_module SET state = 'to activate' WHERE name NOT IN $modules_ignored" ${TRYTON_DATABASE}
 
