@@ -42,7 +42,7 @@ def delete_useless_translations(language):
         ## vevent and valarm no need to translate.
         useless_translations = [
             # Module            Field                          Source
-            ('health_chinese', '%',                           '%')
+            ('health_chinese', '%',                           '%'),
             ('health_caldav',  'calendar.event,vevent',       'vevent'),
             ('health_caldav',  'calendar.event.alarm,valarm', 'valarm'),
             ('health_%',       '%',                           'LibreOffice/%'),
