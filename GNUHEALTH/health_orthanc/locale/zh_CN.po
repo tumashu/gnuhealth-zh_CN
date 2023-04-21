@@ -119,8 +119,8 @@ msgid "ID"
 msgstr "Orthanc 检查 ID"
 
 msgctxt "field:gnuhealth.orthanc.study,imaging_test:"
-msgid "Test"
-msgstr "GNU Health 检查结果"
+msgid "Study"
+msgstr ""
 
 msgctxt "field:gnuhealth.orthanc.study,institution:"
 msgid "Institution"
@@ -273,6 +273,11 @@ msgstr "添加 Orthanc 服务器"
 msgctxt "model:ir.cron,name:"
 msgid "Sync Orthanc servers"
 msgstr "同步 Orthanc 服务器"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:server_sync_button"
+msgid "Sync"
+msgstr "同步"
 
 msgctxt "model:ir.ui.menu,name:orthanc_add_server_menu"
 msgid "Add Orthanc Server"

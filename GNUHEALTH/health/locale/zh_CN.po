@@ -2631,9 +2631,10 @@ msgctxt "help:gnuhealth.drug.route,code:"
 msgid "Please use CAPITAL LETTERS and no spaces"
 msgstr "请使用大写字母，不要带空格"
 
+#, fuzzy
 msgctxt "help:gnuhealth.du,address_city:"
-msgid "City / Municipality"
-msgstr "城市/直辖市"
+msgid "City"
+msgstr "城市"
 
 msgctxt "help:gnuhealth.du,address_country:"
 msgid "Country"
@@ -8043,6 +8044,16 @@ msgctxt "model:ir.action,name:report_appointment_receipt"
 msgid "Appointment Receipt"
 msgstr "预约凭证"
 
+#, fuzzy
+msgctxt "model:ir.action,name:report_birth_certificate"
+msgid "Birth Certificate"
+msgstr "出生证明"
+
+#, fuzzy
+msgctxt "model:ir.action,name:report_death_certificate"
+msgid "Death Certificate"
+msgstr "死亡证明"
+
 msgctxt "model:ir.action,name:report_immunization_status"
 msgid "Immunization Status Report"
 msgstr "免疫情况报告"
@@ -8172,6 +8183,42 @@ msgstr "SM-CORE-0007: 当前用户没有关联到某个医务人员"
 msgctxt "model:ir.message,text:msg_wrong_date_of_birth"
 msgid "SM-CORE-0001: Wrong date of birth for a living person"
 msgstr "SM-CORE-0001: 对活人来说，这个出生日期不对"
+
+msgctxt "model:ir.model.button,string:appoinntment_checked_in"
+msgid "Check In"
+msgstr ""
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:appoinntment_no_show"
+msgid "No show"
+msgstr "已爽约"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:birthcert_sign_button"
+msgid "Sign"
+msgstr "已签署"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:deathcert_sign_button"
+msgid "Sign"
+msgstr "已签署"
+
+msgctxt "model:ir.model.button,string:hospital_bed_fix"
+msgid "Fix bed"
+msgstr ""
+
+msgctxt "model:ir.model.button,string:patient_evaluation_end"
+msgid "End evaluation"
+msgstr ""
+
+msgctxt "model:ir.model.button,string:prescription_create"
+msgid "Create Prescription"
+msgstr ""
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:vaccination_sign"
+msgid "Sign"
+msgstr "已签署"
 
 msgctxt "model:ir.sequence,name:seq_gnuhealth_appointment"
 msgid "Appointment"
@@ -8517,6 +8564,217 @@ msgctxt "report:appointment.receipt:"
 msgid "You must present this receipt and your"
 msgstr "就诊时必须出示此预约凭证和本人"
 
+#, fuzzy
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid ","
+msgstr ","
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "BIRTH CERTIFICATE"
+msgstr ""
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Certificate number:"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Date of Birth"
+msgstr "出生日期"
+
+#, fuzzy
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Date:"
+msgstr "日期:"
+
+#, fuzzy
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Father"
+msgstr "父亲"
+
+#, fuzzy
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "I"
+msgstr "I"
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Issued on"
+msgstr ""
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Medical officer"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Mother"
+msgstr "母亲"
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Place of Birth"
+msgstr ""
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Printed"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Sex"
+msgstr "性别"
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "This certifies that"
+msgstr ""
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "Was born to"
+msgstr ""
+
+msgctxt "report:gnuhealth.birth_certificate:"
+msgid "nstitution"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid ","
+msgstr ","
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid ":"
+msgstr "："
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Age"
+msgstr "年龄"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Autopsy:"
+msgstr ""
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Certificate number:"
+msgstr ""
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Certificate of Death"
+msgstr ""
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Certification Date"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Citizenship"
+msgstr "国籍"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Conditions chronologically ordered leading to the cause of death"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Country"
+msgstr "国家"
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "D"
+msgstr "D"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Date / Time of Death"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Date:"
+msgstr "日期:"
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Domiciliary Unit"
+msgstr "现住住址"
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Father"
+msgstr "父亲"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Immediate Cause"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Institution"
+msgstr "Orthanc 检查机构"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Location details"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Marital Status"
+msgstr "婚姻状态"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Medical officer"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Mother"
+msgstr "母亲"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Name of decedent:"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Occupation"
+msgstr "职业"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Place of Death"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Print"
+msgstr "打印处方"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Residence Country"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Sex"
+msgstr "性别"
+
+#, fuzzy
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Subdivision"
+msgstr "行政区划"
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Type of Death"
+msgstr ""
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "Usual Address"
+msgstr ""
+
+msgctxt "report:gnuhealth.death_certificate:"
+msgid "ate of birth"
+msgstr ""
+
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "(Complete Listing)"
 msgstr "（完整列表）"
@@ -8549,8 +8807,8 @@ msgid "FOR SCHEDULE"
 msgstr "时间表"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
-msgid "Female"
-msgstr "女"
+msgid "G"
+msgstr ""
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "IMMUNIZATION STATUS"
@@ -8559,10 +8817,6 @@ msgstr "免疫状况"
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "Important notice"
 msgstr "重要说明"
-
-msgctxt "report:gnuhealth.immunization_status_report:"
-msgid "Male"
-msgstr "男"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "PUID"
@@ -8597,6 +8851,10 @@ msgstr "状态"
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "Vaccine"
 msgstr "疫苗"
+
+msgctxt "report:gnuhealth.immunization_status_report:"
+msgid "ender:"
+msgstr ""
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid ","
@@ -8932,10 +9190,6 @@ msgid "Diagnosed"
 msgstr "已诊断"
 
 msgctxt "report:patient.conditions_history:"
-msgid "Female"
-msgstr "女"
-
-msgctxt "report:patient.conditions_history:"
 msgid "HEALTH CONDITIONS"
 msgstr "健康状况"
 
@@ -8950,10 +9204,6 @@ msgstr "ID"
 msgctxt "report:patient.conditions_history:"
 msgid "Infectious"
 msgstr "感染"
-
-msgctxt "report:patient.conditions_history:"
-msgid "Male"
-msgstr "男"
 
 msgctxt "report:patient.conditions_history:"
 msgid "Name"
@@ -9048,20 +9298,12 @@ msgid "End"
 msgstr "结束"
 
 msgctxt "report:patient.medication:"
-msgid "Female"
-msgstr "女"
-
-msgctxt "report:patient.medication:"
 msgid "ID :"
 msgstr "ID :"
 
 msgctxt "report:patient.medication:"
 msgid "Indication"
 msgstr "适应症"
-
-msgctxt "report:patient.medication:"
-msgid "Male"
-msgstr "男"
 
 msgctxt "report:patient.medication:"
 msgid "Medicament"
@@ -9119,9 +9361,10 @@ msgctxt "report:patient.vaccination:"
 msgid "Dose"
 msgstr "剂量"
 
+#, fuzzy
 msgctxt "report:patient.vaccination:"
-msgid "Female"
-msgstr "女"
+msgid "Gender"
+msgstr "性别"
 
 msgctxt "report:patient.vaccination:"
 msgid "HISTORY"
@@ -9130,10 +9373,6 @@ msgstr "史"
 msgctxt "report:patient.vaccination:"
 msgid "ID"
 msgstr "ID"
-
-msgctxt "report:patient.vaccination:"
-msgid "Male"
-msgstr "男"
 
 msgctxt "report:patient.vaccination:"
 msgid "Next Dose"
@@ -9847,6 +10086,26 @@ msgctxt "selection:gnuhealth.patient,gender:"
 msgid "Male -> Female"
 msgstr "男 -> 女"
 
+#, fuzzy
+msgctxt "selection:gnuhealth.patient,gender:"
+msgid "Non disclosed"
+msgstr "未披露"
+
+#, fuzzy
+msgctxt "selection:gnuhealth.patient,gender:"
+msgid "Non-binary"
+msgstr "非二元性别"
+
+#, fuzzy
+msgctxt "selection:gnuhealth.patient,gender:"
+msgid "Other"
+msgstr "其它"
+
+#, fuzzy
+msgctxt "selection:gnuhealth.patient,gender:"
+msgid "Unknown"
+msgstr "未知"
+
 msgctxt "selection:gnuhealth.patient,hb:"
 msgid "A-THAL"
 msgstr "A-THAL"
@@ -10094,6 +10353,26 @@ msgstr "男"
 msgctxt "selection:gnuhealth.patient.evaluation,gender:"
 msgid "Male -> Female"
 msgstr "男 -> 女"
+
+#, fuzzy
+msgctxt "selection:gnuhealth.patient.evaluation,gender:"
+msgid "Non disclosed"
+msgstr "未披露"
+
+#, fuzzy
+msgctxt "selection:gnuhealth.patient.evaluation,gender:"
+msgid "Non-binary"
+msgstr "非二元性别"
+
+#, fuzzy
+msgctxt "selection:gnuhealth.patient.evaluation,gender:"
+msgid "Other"
+msgstr "其它"
+
+#, fuzzy
+msgctxt "selection:gnuhealth.patient.evaluation,gender:"
+msgid "Unknown"
+msgstr "未知"
 
 msgctxt "selection:gnuhealth.patient.evaluation,loc_eyes:"
 msgid "Does not Open Eyes"

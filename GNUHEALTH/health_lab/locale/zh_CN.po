@@ -1031,9 +1031,10 @@ msgctxt "report:patient.labtest.report:"
 msgid "Doctor"
 msgstr "医务人员"
 
+#, fuzzy
 msgctxt "report:patient.labtest.report:"
-msgid "Female"
-msgstr "女"
+msgid "Gender"
+msgstr "性别"
 
 msgctxt "report:patient.labtest.report:"
 msgid "ID"
@@ -1042,10 +1043,6 @@ msgstr "检查报告 ID"
 msgctxt "report:patient.labtest.report:"
 msgid "LABORATORY REPORT"
 msgstr "实验室检验报告"
-
-msgctxt "report:patient.labtest.report:"
-msgid "Male"
-msgstr "男"
 
 msgctxt "report:patient.labtest.report:"
 msgid "Name"
@@ -1074,10 +1071,6 @@ msgstr "备注"
 msgctxt "report:patient.labtest.report:"
 msgid "Results"
 msgstr "结果"
-
-msgctxt "report:patient.labtest.report:"
-msgid "Sex"
-msgstr "性别"
 
 msgctxt "report:patient.labtest.report:"
 msgid "Signature"

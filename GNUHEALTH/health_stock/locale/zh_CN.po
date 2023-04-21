@@ -225,6 +225,14 @@ msgctxt "model:ir.message,text:msg_stock_move_exists"
 msgid "Stock move already exists"
 msgstr "库存移动已存在"
 
+msgctxt "model:ir.model.button,string:ambcaresess_end_button"
+msgid "End Session"
+msgstr ""
+
+msgctxt "model:ir.model.button,string:rounding_end_button"
+msgid "End Rounding"
+msgstr ""
+
 msgctxt "view:gnuhealth.patient.ambulatory_care:"
 msgid "Done / Create Stock moves"
 msgstr "创建库存调拨"

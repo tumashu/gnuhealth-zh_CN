@@ -104,10 +104,9 @@ msgctxt "field:gnuhealth.preoperative_assessment,health_professional:"
 msgid "Health Prof"
 msgstr "医务人员"
 
-#, fuzzy
 msgctxt "field:gnuhealth.preoperative_assessment,imaging_test:"
 msgid "Imaging"
-msgstr "影像检查"
+msgstr ""
 
 msgctxt "field:gnuhealth.preoperative_assessment,lab_test:"
 msgid "Lab"
@@ -971,6 +970,31 @@ msgid ""
 "This surgery is at state Done and has been signed. You can no longer modify "
 "it."
 msgstr "当前手术已完成并签字，不可以再更改。"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:surgery_cancel_button"
+msgid "Cancel"
+msgstr "Cancel"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:surgery_confirm_button"
+msgid "Confirm"
+msgstr "已确认"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:surgery_done_button"
+msgid "Finnish"
+msgstr "完成"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:surgery_sign_button"
+msgid "Sign"
+msgstr "已签署"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:surgery_start_button"
+msgid "Start"
+msgstr "开始"
 
 msgctxt "model:ir.sequence,name:seq_gnuhealth_surgery_code"
 msgid "Surgery"

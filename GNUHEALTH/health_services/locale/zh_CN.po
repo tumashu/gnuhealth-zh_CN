@@ -217,6 +217,21 @@ msgctxt "model:ir.message,text:msg_service_already_invoiced"
 msgid "This service has been invoiced. You can no longer modify service lines"
 msgstr "此服务已开凭证，不允许再更改服务明细"
 
+#, fuzzy
+msgctxt "model:ir.model.button,string:service_draft_button"
+msgid "Set to Draft"
+msgstr "设为草案"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:serviceevaluation_update_button"
+msgid "Update Services"
+msgstr "依照处方更新服务"
+
+#, fuzzy
+msgctxt "model:ir.model.button,string:servicepresc_update_button"
+msgid "Update Services"
+msgstr "依照处方更新服务"
+
 msgctxt "model:ir.sequence,name:seq_gnuhealth_health_service"
 msgid "Health Service"
 msgstr "健康服务"
