@@ -118,9 +118,10 @@ msgctxt "field:gnuhealth.orthanc.study,ident:"
 msgid "ID"
 msgstr "Orthanc 检查 ID"
 
+#, fuzzy
 msgctxt "field:gnuhealth.orthanc.study,imaging_test:"
 msgid "Study"
-msgstr ""
+msgstr "检查项目"
 
 msgctxt "field:gnuhealth.orthanc.study,institution:"
 msgid "Institution"
