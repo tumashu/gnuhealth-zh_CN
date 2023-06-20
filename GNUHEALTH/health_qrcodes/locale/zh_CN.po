@@ -64,7 +64,7 @@ msgstr "备注说明"
 
 msgctxt "report:appointment.qrcodel:"
 msgid "PUID :"
-msgstr "PUID："
+msgstr "证件号码："
 
 msgctxt "report:appointment.qrcodel:"
 msgid "Patient"

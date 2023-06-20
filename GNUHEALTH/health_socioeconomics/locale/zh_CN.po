@@ -289,7 +289,6 @@ msgctxt "model:ir.action,name:act_ses_family_assessment"
 msgid "Socioeconomics and Family Assessment"
 msgstr "社会经济和家庭评估"
 
-#, fuzzy
 msgctxt "model:ir.model.button,string:sesassmt_end_button"
 msgid "Done"
 msgstr "已完成"

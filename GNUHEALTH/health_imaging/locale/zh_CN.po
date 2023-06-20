@@ -245,7 +245,7 @@ msgstr "医学影像检查"
 
 msgctxt "model:ir.action,name:patient_imaging_test_request"
 msgid "Medical Imaging - New order"
-msgstr "医学影像: 新申请"
+msgstr "医学影像: 申请检查项目"
 
 msgctxt "model:ir.action,name:wizard_generate_result"
 msgid "Medical Imaging - Generate Result"
@@ -321,7 +321,7 @@ msgstr "医学影像检查"
 
 msgctxt "model:ir.ui.menu,name:menu_patient_imaging_test_request"
 msgid "Medical Imaging - New order"
-msgstr "医学影像: 新申请"
+msgstr "医学影像: 申请检查项目"
 
 msgctxt "model:product.category,name:product_category_imagingservices"
 msgid "Imaging Services"
@@ -355,80 +355,77 @@ msgctxt "model:res.group,name:group_health_imaging_admin"
 msgid "Health Imaging Administration"
 msgstr "Health 影像管理"
 
+#, fuzzy
+msgctxt "report:patient.imaging_report_results:"
+msgid "("
+msgstr "("
+
+#, fuzzy
+msgctxt "report:patient.imaging_report_results:"
+msgid ")"
+msgstr ")"
+
 msgctxt "report:patient.imaging_report_results:"
 msgid ","
 msgstr ","
 
 msgctxt "report:patient.imaging_report_results:"
-msgid ":"
-msgstr "："
-
-msgctxt "report:patient.imaging_report_results:"
 msgid "Context:"
 msgstr "背景情况:"
 
+#, fuzzy
 msgctxt "report:patient.imaging_report_results:"
-msgid "D"
-msgstr "D"
+msgid "Date:"
+msgstr "日期:"
 
 msgctxt "report:patient.imaging_report_results:"
 msgid "DoB:"
 msgstr "出生日期："
 
 msgctxt "report:patient.imaging_report_results:"
-msgid "Evaluated"
-msgstr "评估"
+msgid "Evaluated by:"
+msgstr ""
 
 msgctxt "report:patient.imaging_report_results:"
-msgid "Gender"
-msgstr "性别"
+msgid "Gender:"
+msgstr ""
 
 msgctxt "report:patient.imaging_report_results:"
-msgid "Interpretation"
-msgstr "解释"
+msgid "Interpretation:"
+msgstr ""
 
 msgctxt "report:patient.imaging_report_results:"
-msgid "Order"
-msgstr "申请编号"
+msgid "Order:"
+msgstr ""
 
+#, fuzzy
 msgctxt "report:patient.imaging_report_results:"
-msgid "PUID"
-msgstr "PUID"
+msgid "PUID:"
+msgstr "证件号码："
 
+#, fuzzy
 msgctxt "report:patient.imaging_report_results:"
-msgid "Patient"
-msgstr "患者"
+msgid "Patient:"
+msgstr "患者："
 
 msgctxt "report:patient.imaging_report_results:"
 msgid "Print Date:"
 msgstr "打印日期："
 
 msgctxt "report:patient.imaging_report_results:"
-msgid "R"
-msgstr "R"
+msgid "Requested by:"
+msgstr ""
 
 msgctxt "report:patient.imaging_report_results:"
 msgid "Resources:"
 msgstr "资源:"
 
 msgctxt "report:patient.imaging_report_results:"
-msgid "Study"
-msgstr "检查项目"
-
-msgctxt "report:patient.imaging_report_results:"
-msgid "Study ID"
-msgstr "检查项目ID"
-
-msgctxt "report:patient.imaging_report_results:"
-msgid "ate:"
-msgstr "日期："
-
-msgctxt "report:patient.imaging_report_results:"
-msgid "by"
+msgid "Study ID:"
 msgstr ""
 
 msgctxt "report:patient.imaging_report_results:"
-msgid "equested by:"
+msgid "Study:"
 msgstr ""
 
 msgctxt "selection:gnuhealth.imaging.test.request,state:"

@@ -118,7 +118,6 @@ msgctxt "field:gnuhealth.orthanc.study,ident:"
 msgid "ID"
 msgstr "Orthanc 检查 ID"
 
-#, fuzzy
 msgctxt "field:gnuhealth.orthanc.study,imaging_test:"
 msgid "Study"
 msgstr "检查项目"
@@ -275,7 +274,6 @@ msgctxt "model:ir.cron,name:"
 msgid "Sync Orthanc servers"
 msgstr "同步 Orthanc 服务器"
 
-#, fuzzy
 msgctxt "model:ir.model.button,string:server_sync_button"
 msgid "Sync"
 msgstr "同步"

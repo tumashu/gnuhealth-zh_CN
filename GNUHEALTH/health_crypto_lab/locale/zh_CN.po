@@ -77,20 +77,17 @@ msgctxt "help:gnuhealth.lab,validated_by:"
 msgid "Professional who validates this lab test"
 msgstr "审核这个检验项目的医务人员"
 
-#, fuzzy
 msgctxt "model:ir.model.button,string:labtest_generate_button"
 msgid "Done"
 msgstr "已完成"
 
-#, fuzzy
 msgctxt "model:ir.model.button,string:labtest_setdraft_button"
 msgid "Draft"
-msgstr "Draft"
+msgstr "草案"
 
-#, fuzzy
 msgctxt "model:ir.model.button,string:labtest_sign_button"
 msgid "Validate"
-msgstr "Validate"
+msgstr "验证"
 
 msgctxt "selection:gnuhealth.lab,state:"
 msgid "Done"

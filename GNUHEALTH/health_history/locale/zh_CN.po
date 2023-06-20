@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "model:ir.action,name:report_patient_evaluation"
 msgid "Patient Evaluation and History"
-msgstr "患者评估和病史"
+msgstr "患者评估报告(包含病史)"
 
 msgctxt "report:patient.evaluation:"
 msgid "& history"
@@ -216,7 +216,7 @@ msgstr "臀围"
 
 msgctxt "report:patient.evaluation:"
 msgid "History of Present Illness"
-msgstr "既往病史"
+msgstr "现病史"
 
 msgctxt "report:patient.evaluation:"
 msgid "Housing conditions"
@@ -312,7 +312,7 @@ msgstr "氧饱和度"
 
 msgctxt "report:patient.evaluation:"
 msgid "PUID:"
-msgstr "PUID："
+msgstr "证件号码："
 
 msgctxt "report:patient.evaluation:"
 msgid "Paternal"
@@ -332,7 +332,7 @@ msgstr "个人经历"
 
 msgctxt "report:patient.evaluation:"
 msgid "Practices"
-msgstr ""
+msgstr "实践"
 
 msgctxt "report:patient.evaluation:"
 msgid "Practices safe sex ."

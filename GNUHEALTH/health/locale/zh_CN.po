@@ -72,7 +72,7 @@ msgstr "预约时间"
 
 msgctxt "field:gnuhealth.appointment.report,diagnosis:"
 msgid "Main Codition"
-msgstr "主要情况"
+msgstr "主要诊断"
 
 msgctxt "field:gnuhealth.appointment.report,gender:"
 msgid "Gender"
@@ -92,7 +92,7 @@ msgstr "患者"
 
 msgctxt "field:gnuhealth.appointment.report,ref:"
 msgid "PUID"
-msgstr "身份证号"
+msgstr "证件号码"
 
 msgctxt "field:gnuhealth.appointment.report.open.start,date_end:"
 msgid "Date End"
@@ -157,7 +157,7 @@ msgstr "状态"
 msgctxt ""
 "field:gnuhealth.check_immunization_status.init,immunization_schedule:"
 msgid "Schedule"
-msgstr "程序"
+msgstr "免疫程序"
 
 msgctxt "field:gnuhealth.command,description:"
 msgid "Description"
@@ -281,7 +281,7 @@ msgstr "说明"
 
 msgctxt "field:gnuhealth.diagnostic_hypothesis,evaluation:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "患者评估"
 
 msgctxt "field:gnuhealth.diagnostic_hypothesis,pathology:"
 msgid "Pathology"
@@ -293,7 +293,7 @@ msgstr "说明"
 
 msgctxt "field:gnuhealth.directions,name:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "患者评估"
 
 msgctxt "field:gnuhealth.directions,procedure:"
 msgid "Procedure"
@@ -541,7 +541,7 @@ msgstr "医务人员"
 
 msgctxt "field:gnuhealth.healthprofessional,puid:"
 msgid "PUID"
-msgstr "身份证号"
+msgstr "证件号码"
 
 msgctxt "field:gnuhealth.healthprofessional,specialties:"
 msgid "Specialties"
@@ -741,7 +741,7 @@ msgstr "专业"
 
 msgctxt "field:gnuhealth.immunization_schedule,active:"
 msgid "Active"
-msgstr "活跃"
+msgstr "启用"
 
 msgctxt "field:gnuhealth.immunization_schedule,country:"
 msgid "Country"
@@ -761,7 +761,7 @@ msgstr "疫苗"
 
 msgctxt "field:gnuhealth.immunization_schedule,year:"
 msgid "Year"
-msgstr "年"
+msgstr "年份"
 
 msgctxt "field:gnuhealth.immunization_schedule_dose,age_dose:"
 msgid "Age"
@@ -773,7 +773,7 @@ msgstr "时间单位"
 
 msgctxt "field:gnuhealth.immunization_schedule_dose,dose_number:"
 msgid "Dose"
-msgstr "剂量"
+msgstr "剂次"
 
 msgctxt "field:gnuhealth.immunization_schedule_dose,remarks:"
 msgid "Remarks"
@@ -781,7 +781,7 @@ msgstr "备注"
 
 msgctxt "field:gnuhealth.immunization_schedule_dose,sched:"
 msgid "Schedule"
-msgstr "程序"
+msgstr "免疫程序"
 
 msgctxt "field:gnuhealth.immunization_schedule_dose,vaccine:"
 msgid "Vaccine"
@@ -789,7 +789,7 @@ msgstr "疫苗"
 
 msgctxt "field:gnuhealth.immunization_schedule_line,doses:"
 msgid "Doses"
-msgstr "剂量"
+msgstr "剂次"
 
 msgctxt "field:gnuhealth.immunization_schedule_line,remarks:"
 msgid "Remarks"
@@ -797,7 +797,7 @@ msgstr "备注"
 
 msgctxt "field:gnuhealth.immunization_schedule_line,sched:"
 msgid "Schedule"
-msgstr "程序"
+msgstr "免疫程序"
 
 msgctxt "field:gnuhealth.immunization_schedule_line,scope:"
 msgid "Scope"
@@ -889,7 +889,7 @@ msgstr "专业"
 
 msgctxt "field:gnuhealth.insurance,category:"
 msgid "Category"
-msgstr "类别"
+msgstr "保险分类"
 
 msgctxt "field:gnuhealth.insurance,company:"
 msgid "Insurance Company"
@@ -917,11 +917,11 @@ msgstr "其它信息"
 
 msgctxt "field:gnuhealth.insurance,number:"
 msgid "Number"
-msgstr "编号"
+msgstr "保险编号"
 
 msgctxt "field:gnuhealth.insurance,plan_id:"
 msgid "Plan"
-msgstr "计划"
+msgstr "保险计划"
 
 msgctxt "field:gnuhealth.insurance.plan,company:"
 msgid "Insurance Company"
@@ -929,11 +929,11 @@ msgstr "保险公司"
 
 msgctxt "field:gnuhealth.insurance.plan,is_default:"
 msgid "Default plan"
-msgstr "默认计划"
+msgstr "默认保险计划"
 
 msgctxt "field:gnuhealth.insurance.plan,name:"
 msgid "Plan"
-msgstr "计划"
+msgstr "保险计划"
 
 msgctxt "field:gnuhealth.insurance.plan,notes:"
 msgid "Extra info"
@@ -1309,7 +1309,7 @@ msgstr "家庭医生"
 
 msgctxt "field:gnuhealth.patient,puid:"
 msgid "PUID"
-msgstr "身份证号"
+msgstr "证件号码"
 
 msgctxt "field:gnuhealth.patient,rh:"
 msgid "Rh"
@@ -1317,7 +1317,7 @@ msgstr "Rh血型"
 
 msgctxt "field:gnuhealth.patient,vaccinations:"
 msgid "Vaccinations"
-msgstr "接种疫苗"
+msgstr "疫苗接种"
 
 msgctxt "field:gnuhealth.patient.disease,age:"
 msgid "Age when diagnosed"
@@ -1405,7 +1405,7 @@ msgstr "备注"
 
 msgctxt "field:gnuhealth.patient.disease,status:"
 msgid "Status"
-msgstr "状态"
+msgstr "治疗转归"
 
 msgctxt "field:gnuhealth.patient.disease,treatment_description:"
 msgid "Treatment Description"
@@ -1553,7 +1553,7 @@ msgstr "计划"
 
 msgctxt "field:gnuhealth.patient.evaluation,discharge_reason:"
 msgid "Discharge Reason"
-msgstr "患者离院原因"
+msgstr "离院方式"
 
 msgctxt "field:gnuhealth.patient.evaluation,evaluation_endtime:"
 msgid "End"
@@ -1805,11 +1805,11 @@ msgstr "疗程结束"
 
 msgctxt "field:gnuhealth.patient.medication,discontinued:"
 msgid "Discontinued"
-msgstr "停产"
+msgstr "停药"
 
 msgctxt "field:gnuhealth.patient.medication,discontinued_reason:"
 msgid "Reason for discontinuation"
-msgstr "停产原因"
+msgstr "停药原因"
 
 msgctxt "field:gnuhealth.patient.medication,dose:"
 msgid "Dose"
@@ -1873,7 +1873,7 @@ msgstr "医疗机构"
 
 msgctxt "field:gnuhealth.patient.medication,is_active:"
 msgid "Active"
-msgstr "活跃"
+msgstr "正在用药"
 
 msgctxt "field:gnuhealth.patient.medication,medicament:"
 msgid "Medicament"
@@ -1906,15 +1906,15 @@ msgstr "开始"
 msgctxt ""
 "field:gnuhealth.person_alternative_identification,alternative_id_type:"
 msgid "ID type"
-msgstr "ID类型"
+msgstr "证件号码类型"
 
 msgctxt "field:gnuhealth.person_alternative_identification,code:"
 msgid "Code"
-msgstr "代码"
+msgstr "证件号码"
 
 msgctxt "field:gnuhealth.person_alternative_identification,comments:"
 msgid "Comments"
-msgstr "说明"
+msgstr "备注"
 
 msgctxt "field:gnuhealth.person_alternative_identification,expiration_date:"
 msgid "Expiration date"
@@ -1922,7 +1922,7 @@ msgstr "过期日期"
 
 msgctxt "field:gnuhealth.person_alternative_identification,name:"
 msgid "Party"
-msgstr "成员"
+msgstr "参与者"
 
 msgctxt "field:gnuhealth.person_name,date_from:"
 msgid "From"
@@ -2142,7 +2142,7 @@ msgstr "每次用量"
 
 msgctxt "field:gnuhealth.prescription.line,quantity:"
 msgid "Units"
-msgstr "总剂量"
+msgstr "总用量"
 
 msgctxt "field:gnuhealth.prescription.line,refills:"
 msgid "Refills #"
@@ -2230,7 +2230,7 @@ msgstr "说明"
 
 msgctxt "field:gnuhealth.secondary_condition,evaluation:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "患者评估"
 
 msgctxt "field:gnuhealth.secondary_condition,pathology:"
 msgid "Pathology"
@@ -2280,7 +2280,7 @@ msgstr "说明"
 
 msgctxt "field:gnuhealth.signs_and_symptoms,evaluation:"
 msgid "Evaluation"
-msgstr "评估"
+msgstr "患者评估"
 
 msgctxt "field:gnuhealth.signs_and_symptoms,sign_or_symptom:"
 msgid "Subjective / Objective"
@@ -2296,23 +2296,23 @@ msgstr "专业"
 
 msgctxt "field:gnuhealth.vaccination,admin_route:"
 msgid "Route"
-msgstr "用药途径"
+msgstr "接种途径"
 
 msgctxt "field:gnuhealth.vaccination,admin_site:"
 msgid "Admin Site"
-msgstr "Admin Site"
+msgstr "接种部位"
 
 msgctxt "field:gnuhealth.vaccination,amount:"
 msgid "Amount"
-msgstr "数量"
+msgstr "疫苗接种量"
 
 msgctxt "field:gnuhealth.vaccination,date:"
 msgid "Date"
-msgstr "日期"
+msgstr "接种日期"
 
 msgctxt "field:gnuhealth.vaccination,dose:"
 msgid "Dose #"
-msgstr "剂量"
+msgstr "剂次"
 
 msgctxt "field:gnuhealth.vaccination,healthprof:"
 msgid "Health Prof"
@@ -2328,7 +2328,7 @@ msgstr "患者"
 
 msgctxt "field:gnuhealth.vaccination,next_dose_date:"
 msgid "Next Dose"
-msgstr "下一个剂量"
+msgstr "下一剂日期"
 
 msgctxt "field:gnuhealth.vaccination,observations:"
 msgid "Observations"
@@ -2396,11 +2396,11 @@ msgstr "年龄"
 
 msgctxt "field:party.party,alternative_identification:"
 msgid "Alternative IDs"
-msgstr "备选ID"
+msgstr "其它证件号"
 
 msgctxt "field:party.party,alternative_ids:"
 msgid "Alternative IDs"
-msgstr "备选ID"
+msgstr "其它证件号"
 
 msgctxt "field:party.party,birth_certificate:"
 msgid "Birth Certificate"
@@ -2436,11 +2436,11 @@ msgstr "常用地址"
 
 msgctxt "field:party.party,est_dob:"
 msgid "Est"
-msgstr "估计"
+msgstr "估计值"
 
 msgctxt "field:party.party,est_years:"
 msgid "Years"
-msgstr "年"
+msgstr "填年龄"
 
 msgctxt "field:party.party,ethnic_group:"
 msgid "Ethnicity"
@@ -2528,7 +2528,7 @@ msgstr "图片"
 
 msgctxt "field:party.party,ref:"
 msgid "PUID"
-msgstr "身份证号"
+msgstr "证件号码"
 
 msgctxt "field:party.party,residence:"
 msgid "Residence"
@@ -2704,7 +2704,7 @@ msgstr "卫生专业人员的名字，来自 partner 列表"
 
 msgctxt "help:gnuhealth.healthprofessional,puid:"
 msgid "Person Unique Identifier"
-msgstr "个人唯一标识"
+msgstr "个人唯一标识，个人身份证件号码"
 
 msgctxt "help:gnuhealth.help,description:"
 msgid "Short description"
@@ -2780,11 +2780,11 @@ msgstr "专业代码"
 
 msgctxt "help:gnuhealth.immunization_schedule,desc:"
 msgid "Short Description for this immunization schedule"
-msgstr "此免疫接种程序的简要描述"
+msgstr "当前免疫程序的简要描述"
 
 msgctxt "help:gnuhealth.immunization_schedule,sched:"
 msgid "Code for this immunization schedule"
-msgstr "免疫接种程序代码"
+msgstr "免疫程序代码"
 
 msgctxt "help:gnuhealth.immunization_schedule_dose,vaccine:"
 msgid "Vaccine Name"
@@ -2792,7 +2792,7 @@ msgstr "疫苗名称"
 
 msgctxt "help:gnuhealth.immunization_schedule_line,sched:"
 msgid "Schedule Name"
-msgstr "免疫接种程序名称"
+msgstr "免疫程序名称"
 
 msgctxt "help:gnuhealth.immunization_schedule_line,vaccine:"
 msgid "Vaccine Name"
@@ -2840,7 +2840,7 @@ msgctxt "help:gnuhealth.insurance.plan,is_default:"
 msgid ""
 "Check if this is the default plan when assigning this insurance company to a"
 " patient"
-msgstr "将此保险公司对应到患者时，检查此计划是否为默认计划"
+msgstr "将此保险公司对应到患者时，检查此计划是否为默认保险计划"
 
 msgctxt "help:gnuhealth.insurance.plan,name:"
 msgid "Insurance company plan"
@@ -3132,7 +3132,7 @@ msgstr "当前患者的全科医生/家庭医生"
 
 msgctxt "help:gnuhealth.patient,puid:"
 msgid "Person Unique Identifier"
-msgstr "个人唯一标识"
+msgstr "个人唯一标识，个人身份证件号码"
 
 msgctxt "help:gnuhealth.patient.disease,age:"
 msgid "Patient age at the moment of the diagnosis. Can be estimative"
@@ -3200,7 +3200,7 @@ msgstr "采取的行动"
 msgctxt "help:gnuhealth.patient.evaluation,appointment:"
 msgid ""
 "Enter or select the date / ID of the appointment related to this evaluation"
-msgstr "输入或选择与此评估相对应的预约日期或预约编号"
+msgstr "填写或选择与此评估相对应的预约日期或预约编号"
 
 msgctxt "help:gnuhealth.patient.evaluation,bmi:"
 msgid "Body mass index"
@@ -3261,7 +3261,7 @@ msgstr "舒张压（mmHg）"
 
 msgctxt "help:gnuhealth.patient.evaluation,discharge_reason:"
 msgid "Reason for patient discharge"
-msgstr "患者离院原因"
+msgstr "患者离院方式/原因"
 
 msgctxt "help:gnuhealth.patient.evaluation,evaluation_length:"
 msgid "Duration of the evaluation"
@@ -3380,7 +3380,7 @@ msgstr "完成评估的医务人员"
 
 msgctxt "help:gnuhealth.patient.evaluation,signs_and_symptoms:"
 msgid "Enter the Signs and Symptoms for the patient in this evaluation."
-msgstr "输入评估时的症状和体征。"
+msgstr "填写评估时的症状和体征。"
 
 msgctxt "help:gnuhealth.patient.evaluation,systolic:"
 msgid "Systolic pressure (mmHg)"
@@ -3397,7 +3397,7 @@ msgstr "摄氏度"
 msgctxt "help:gnuhealth.patient.evaluation,tremor:"
 msgid ""
 "If associated  to a disease, please encode it on the patient disease history"
-msgstr "如果关联到某个疾病，请在病人病史中输入其编号"
+msgstr "如果关联到某个疾病，请在病人病史中填写其编号"
 
 msgctxt "help:gnuhealth.patient.evaluation,violent:"
 msgid "Check this box if the patient is aggressive or violent at the moment"
@@ -3477,7 +3477,7 @@ msgctxt "help:gnuhealth.patient.medication,frequency:"
 msgid ""
 "Time in between doses the patient must wait (ie, for 1 pill each 8 hours, "
 "put here 8 and select \"hours\" in the unit field"
-msgstr "用药间隔时间，患者在服用一剂量药物后需等待的时间（比如： 8小时1片，就在这里输入8，并选择单位：\"小时\"）"
+msgstr "用药间隔时间，患者在服用一剂量药物后需等待的时间（比如： 8小时1片，就在这里填写8，并选择单位：\"小时\"）"
 
 msgctxt "help:gnuhealth.patient.medication,frequency_prn:"
 msgid "Use it as needed, pro re nata"
@@ -3618,7 +3618,7 @@ msgctxt "help:gnuhealth.prescription.line,frequency:"
 msgid ""
 "Time in between doses the patient must wait (ie, for 1 pill each 8 hours, "
 "put here 8 and select \"hours\" in the unit field"
-msgstr "用药间隔时间，患者在服用一剂量药后需等待的时间（比如： 8小时1片，就在这里输入8，并选择单位：\"小时\"）"
+msgstr "用药间隔时间，患者在服用一剂量药后需等待的时间（比如： 8小时1片，就在这里填写8，并选择单位：\"小时\"）"
 
 msgctxt "help:gnuhealth.prescription.line,frequency_prn:"
 msgid "Use it as needed, pro re nata"
@@ -3646,12 +3646,12 @@ msgstr "如果需要打印当前处方，请选中此项。"
 
 msgctxt "help:gnuhealth.prescription.line,qty:"
 msgid "Quantity of units (eg, 2 capsules) of the medicament"
-msgstr "总剂量（例如，2粒）"
+msgstr "每次用量（例如，2粒）"
 
 msgctxt "help:gnuhealth.prescription.line,quantity:"
 msgid ""
 "Number of units of the medicament. Example : 30 capsules of amoxicillin"
-msgstr "总剂量。例如：阿莫西林胶囊30粒"
+msgstr "总用量。例如：阿莫西林胶囊30粒"
 
 msgctxt "help:gnuhealth.prescription.line,review:"
 msgid ""
@@ -3665,7 +3665,7 @@ msgstr "药物用药途径代码."
 
 msgctxt "help:gnuhealth.prescription.line,short_comment:"
 msgid "Short comment on the specific drug"
-msgstr "药品的简单说明"
+msgstr "特定药品的简单说明"
 
 msgctxt "help:gnuhealth.prescription.line,start_treatment:"
 msgid "Date of start of Treatment"
@@ -3673,7 +3673,7 @@ msgstr "治疗开始时间"
 
 msgctxt "help:gnuhealth.prescription.order,prescription_id:"
 msgid "Type in the ID of this prescription"
-msgstr "输入处方编号"
+msgstr "填写处方编号"
 
 msgctxt "help:gnuhealth.specialty,code:"
 msgid "ie, ADP. Please use CAPITAL LETTERS and no spaces"
@@ -3687,7 +3687,7 @@ msgctxt "help:gnuhealth.vaccination,amount:"
 msgid ""
 "Amount of vaccine administered, in mL . The dose per mL             (eg, "
 "mcg, EL.U ..) can be found at the related medicament"
-msgstr "疫苗注射量"
+msgstr "接种疫苗的量，单位为毫升。每毫升的剂量（例如mcg、EL.U.）可在相关药物中找到"
 
 msgctxt "help:gnuhealth.vaccination,healthprof:"
 msgid ""
@@ -3732,7 +3732,7 @@ msgstr "包含亲戚的链接"
 
 msgctxt "help:party.contact_mechanism,remarks:"
 msgid "Enter the name of the contact or other remarks"
-msgstr "输入联系人名称和其他备注"
+msgstr "填写联系人名称和其他备注"
 
 msgctxt "help:party.party,activation_date:"
 msgid "Date of activation of the party"
@@ -3742,7 +3742,7 @@ msgctxt "help:party.party,alternative_identification:"
 msgid ""
 "Other types of identification, not the official PUID . Examples : Passport, "
 "foreign ID,.."
-msgstr "其他类型的身份证明，不是本地正式的身份证号。比如： 护照，外国身份证 ..."
+msgstr "其他类型的证件号码，不是身份证号。比如： 护照，外国身份证 ..."
 
 msgctxt "help:party.party,citizenship:"
 msgid "Country of Citizenship"
@@ -3766,11 +3766,11 @@ msgstr "主要地址，基于现住址"
 
 msgctxt "help:party.party,est_dob:"
 msgid "Estimated from referred years"
-msgstr "根据参考年份估计"
+msgstr "出生日期是根据已经填写的年龄估算得到的"
 
 msgctxt "help:party.party,est_years:"
 msgid "Referred years"
-msgstr "参考年份"
+msgstr "请填写这个人的年龄(年)，填写年龄后，出生日期将自动估算"
 
 msgctxt "help:party.party,father:"
 msgid "Father from the Birth Certificate"
@@ -3813,7 +3813,7 @@ msgstr "如果此 party 代表一个医疗机构，就勾选此框"
 
 msgctxt "help:party.party,is_insurance_company:"
 msgid "Check if the party is an Insurance Company"
-msgstr "如果此 party 代表一个保险公司，就勾选此框"
+msgstr "如果当前参与者代表一个保险公司，就勾选此框"
 
 msgctxt "help:party.party,is_patient:"
 msgid "Check if the party is a patient"
@@ -3837,7 +3837,7 @@ msgstr "出生证明上的母亲记录"
 
 msgctxt "help:party.party,ref:"
 msgid "Person Unique Identifier"
-msgstr "个人唯一标识，身份证号"
+msgstr "个人唯一标识，身份证证件号码"
 
 msgctxt "help:party.party,residence:"
 msgid "Country of Residence"
@@ -3853,7 +3853,7 @@ msgstr "如果此产品是医疗中心的一个床位，就选中此项"
 
 msgctxt "help:product.product,is_insurance_plan:"
 msgid "Check if the product is an insurance plan"
-msgstr "如果此产品是保险计划，就选中此项"
+msgstr "如果当前产品是保险计划，就选中此项"
 
 msgctxt "help:product.product,is_medical_supply:"
 msgid "Check if the product is a medical supply"
@@ -3885,7 +3885,7 @@ msgstr "出生证明"
 
 msgctxt "model:gnuhealth.check_immunization_status.init,name:"
 msgid "Check Immunization Status Init"
-msgstr "检查免疫接种初始状况"
+msgstr "检查免疫状况初始化"
 
 msgctxt "model:gnuhealth.command,name:"
 msgid "GNU Health Commands"
@@ -4629,15 +4629,15 @@ msgstr "医务人员专业"
 
 msgctxt "model:gnuhealth.immunization_schedule,name:"
 msgid "Immunization Schedule"
-msgstr "免疫接种程序"
+msgstr "免疫程序"
 
 msgctxt "model:gnuhealth.immunization_schedule_dose,name:"
 msgid "Immunization Schedule Dose"
-msgstr "免疫接种程序剂量"
+msgstr "免疫程序疫苗剂次信息"
 
 msgctxt "model:gnuhealth.immunization_schedule_line,name:"
 msgid "Immunization Schedule Line"
-msgstr "免疫接种程序明细"
+msgstr "免疫程序明细"
 
 msgctxt "model:gnuhealth.institution,name:"
 msgid "Health Institution"
@@ -4645,7 +4645,7 @@ msgstr "医疗机构"
 
 msgctxt "model:gnuhealth.institution.operationalsector,name:"
 msgid "Operational Sectors covered by Institution"
-msgstr "医疗机构覆盖的卫生子区域"
+msgstr "医疗机构覆盖区域"
 
 msgctxt "model:gnuhealth.institution.specialties,name:"
 msgid "Health Institution Specialties"
@@ -7421,7 +7421,7 @@ msgstr "患者用药"
 
 msgctxt "model:gnuhealth.person_alternative_identification,name:"
 msgid "Alternative person ID"
-msgstr "备选个人身份ID"
+msgstr "其它证件号"
 
 msgctxt "model:gnuhealth.person_name,name:"
 msgid "Person Name"
@@ -7777,7 +7777,7 @@ msgstr "患者评估"
 
 msgctxt "model:ir.action,name:act_appointment_form1"
 msgid "Appointments"
-msgstr "预约"
+msgstr "患者预约"
 
 msgctxt "model:ir.action,name:act_appointment_report_patient"
 msgid "Patient"
@@ -7785,7 +7785,7 @@ msgstr "患者"
 
 msgctxt "model:ir.action,name:act_appointments_report_view_tree"
 msgid "Appointments with Dx Report"
-msgstr "有诊断报告的预约"
+msgstr "预约信息(附带诊断)"
 
 msgctxt "model:ir.action,name:act_bed_view"
 msgid "Beds"
@@ -7809,7 +7809,7 @@ msgstr "免疫状况报告"
 
 msgctxt "model:ir.action,name:act_condition_form1"
 msgid "Conditions"
-msgstr "疾病"
+msgstr "疾病诊断"
 
 msgctxt "model:ir.action,name:act_create_patient_evaluation"
 msgid "Create Patient Evaluation"
@@ -7829,7 +7829,7 @@ msgstr "心电图"
 
 msgctxt "model:ir.action,name:act_evaluation_form1"
 msgid "Evaluations"
-msgstr "评估"
+msgstr "患者评估"
 
 msgctxt "model:ir.action,name:act_medicament_by_category"
 msgid "Medicament by Category"
@@ -7845,7 +7845,7 @@ msgstr "人"
 
 msgctxt "model:ir.action,name:act_prescription_form1"
 msgid "Prescriptions"
-msgstr "处方"
+msgstr "处方信息"
 
 msgctxt "model:ir.action,name:act_unit_view"
 msgid "Units"
@@ -7853,7 +7853,7 @@ msgstr "单位"
 
 msgctxt "model:ir.action,name:act_vaccination_form1"
 msgid "Vaccinations"
-msgstr "接种疫苗"
+msgstr "疫苗接种"
 
 msgctxt "model:ir.action,name:act_ward_view"
 msgid "Wards"
@@ -7861,7 +7861,7 @@ msgstr "病房"
 
 msgctxt "model:ir.action,name:action_gnuhealth_appointment_view"
 msgid "Appointments"
-msgstr "预约"
+msgstr "患者预约"
 
 msgctxt "model:ir.action,name:action_gnuhealth_command_view"
 msgid "GNU Health Commands"
@@ -7893,7 +7893,7 @@ msgstr "医疗机构"
 
 msgctxt "model:ir.action,name:action_gnuhealth_institution_operationalsector"
 msgid "Operational sectors by institution"
-msgstr "医疗机构覆盖的卫生子区域"
+msgstr "医疗机构覆盖区域"
 
 msgctxt "model:ir.action,name:action_gnuhealth_institution_specialties"
 msgid "Specialties by institution"
@@ -7917,7 +7917,7 @@ msgstr "患者"
 
 msgctxt "model:ir.action,name:action_gnuhealth_prescription_view"
 msgid "Prescriptions"
-msgstr "处方"
+msgstr "处方信息"
 
 msgctxt "model:ir.action,name:action_gnuhealth_procedure_view"
 msgid "Procedures"
@@ -7925,7 +7925,7 @@ msgstr "医学操作"
 
 msgctxt "model:ir.action,name:appointments_report_open"
 msgid "Appointments with Dx Report"
-msgstr "有诊断报告的预约"
+msgstr "预约信息(附带诊断)"
 
 msgctxt "model:ir.action,name:gnuhealth_action_dosage"
 msgid "Medication Frequencies"
@@ -7965,7 +7965,7 @@ msgstr "GNU Health 信息平台-国家设置"
 
 msgctxt "model:ir.action,name:gnuhealth_action_form_pathology"
 msgid "Conditions"
-msgstr "疾病"
+msgstr "疾病诊断"
 
 msgctxt "model:ir.action,name:gnuhealth_action_healthprofessional"
 msgid "Health Professionals"
@@ -7981,15 +7981,15 @@ msgstr "医务人员专业"
 
 msgctxt "model:ir.action,name:gnuhealth_action_immunization_schedule"
 msgid "Immunization Schedule"
-msgstr "免疫接种程序"
+msgstr "免疫程序"
 
 msgctxt "model:ir.action,name:gnuhealth_action_immunization_schedule_dose"
 msgid "Vaccine Doses"
-msgstr "疫苗剂量"
+msgstr "疫苗接种剂次"
 
 msgctxt "model:ir.action,name:gnuhealth_action_immunization_schedule_line"
 msgid "Schedule Vaccines"
-msgstr "安排疫苗"
+msgstr "免疫程序疫苗信息"
 
 msgctxt "model:ir.action,name:gnuhealth_action_insurance"
 msgid "Insurances"
@@ -8045,7 +8045,7 @@ msgstr "死亡证明"
 
 msgctxt "model:ir.action,name:report_immunization_status"
 msgid "Immunization Status Report"
-msgstr "免疫情况报告"
+msgstr "免疫状况报告"
 
 msgctxt "model:ir.action,name:report_patient_card"
 msgid "ID Cards"
@@ -8057,7 +8057,7 @@ msgstr "健康状况"
 
 msgctxt "model:ir.action,name:report_patient_evaluation"
 msgid "Patient Evaluation"
-msgstr "患者评估"
+msgstr "患者评估报告"
 
 msgctxt "model:ir.action,name:report_patient_evaluation_brief"
 msgid "Evaluation Report (brief)"
@@ -8065,11 +8065,11 @@ msgstr "患者评估报告(简要)"
 
 msgctxt "model:ir.action,name:report_patient_medication"
 msgid "Medications"
-msgstr "药品"
+msgstr "患者用药史"
 
 msgctxt "model:ir.action,name:report_patient_vaccination"
 msgid "Vaccinations"
-msgstr "接种疫苗"
+msgstr "疫苗接种史"
 
 msgctxt "model:ir.action,name:report_prescription_order"
 msgid "Prescription"
@@ -8302,15 +8302,15 @@ msgstr "医务人员"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_immunization_schedule"
 msgid "Immunization Schedule"
-msgstr "免疫接种程序"
+msgstr "免疫程序"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_immunization_schedule_dose"
 msgid "Vaccine Doses"
-msgstr "疫苗计量"
+msgstr "疫苗剂次信息"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_immunization_schedule_line"
 msgid "Schedule Vaccines"
-msgstr "安排疫苗"
+msgstr "免疫程序疫苗信息"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_conf_institution"
 msgid "Institutions"
@@ -8418,7 +8418,7 @@ msgstr "帮助文档"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_institution_operationalsector"
 msgid "Operational sectors by institution"
-msgstr "医疗机构覆盖的卫生子区域"
+msgstr "医疗机构覆盖区域"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_institution_specialties"
 msgid "Specialties by institution"
@@ -8450,11 +8450,11 @@ msgstr "处方"
 
 msgctxt "model:ir.ui.menu,name:gnuhealth_reporting_menu"
 msgid "Reporting"
-msgstr "统计报告"
+msgstr "统计&报告"
 
 msgctxt "model:ir.ui.menu,name:menu_appointments_report_view_tree"
 msgid "Appointments with Dx Report"
-msgstr "有诊断报告的预约"
+msgstr "预约信息(附带诊断)"
 
 msgctxt "model:ir.ui.menu,name:menu_birth_cert"
 msgid "Birth certificates"
@@ -8534,7 +8534,7 @@ msgstr "说明/备注："
 
 msgctxt "report:appointment.receipt:"
 msgid "PUID"
-msgstr "身份证号"
+msgstr "证件号码"
 
 msgctxt "report:appointment.receipt:"
 msgid "Patient"
@@ -8602,15 +8602,15 @@ msgstr "性别"
 
 msgctxt "report:gnuhealth.birth_certificate:"
 msgid "This certifies that"
-msgstr ""
+msgstr "This certifies that"
 
 msgctxt "report:gnuhealth.birth_certificate:"
 msgid "Was born to"
-msgstr ""
+msgstr "Was born to"
 
 msgctxt "report:gnuhealth.birth_certificate:"
 msgid "nstitution"
-msgstr ""
+msgstr "nstitution"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid ","
@@ -8626,7 +8626,7 @@ msgstr "年龄"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid "Autopsy:"
-msgstr "验尸:"
+msgstr "尸检:"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid "Certificate number:"
@@ -8678,7 +8678,7 @@ msgstr "直接原因"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid "Institution"
-msgstr "机构"
+msgstr "医疗机构"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid "Location details"
@@ -8698,7 +8698,7 @@ msgstr "母亲"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid "Name of decedent:"
-msgstr "被继承人姓名:"
+msgstr "死者姓名:"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid "Occupation"
@@ -8734,11 +8734,11 @@ msgstr "常用地址"
 
 msgctxt "report:gnuhealth.death_certificate:"
 msgid "ate of birth"
-msgstr ""
+msgstr "ate of birth"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "(Complete Listing)"
-msgstr "（完整列表）"
+msgstr "(完整列表)"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid ":"
@@ -8757,11 +8757,11 @@ msgstr "年龄"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "Dose"
-msgstr "剂量"
+msgstr "剂次"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "Dose #"
-msgstr "剂量 #"
+msgstr "剂次 #"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "FOR SCHEDULE"
@@ -8769,7 +8769,7 @@ msgstr "时间表"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "IMMUNIZATION STATUS"
@@ -8781,7 +8781,7 @@ msgstr "重要说明"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "PUID"
-msgstr "身份证号"
+msgstr "证件号码"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "Patient"
@@ -8803,7 +8803,7 @@ msgctxt "report:gnuhealth.immunization_status_report:"
 msgid ""
 "Showing only the immunization status corresponding to the person age and the"
 " selected schedule"
-msgstr "仅显示与此人年龄和所选时间表相对应的免疫状态"
+msgstr "仅显示与此人年龄和所选时间表相对应的免疫状况"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "Status"
@@ -8815,7 +8815,7 @@ msgstr "疫苗"
 
 msgctxt "report:gnuhealth.immunization_status_report:"
 msgid "ender:"
-msgstr ""
+msgstr "ender:"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid ","
@@ -8903,7 +8903,7 @@ msgstr "鉴别诊断"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Discharge Reason"
-msgstr "患者离院原因"
+msgstr "离院方式"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "DoB:"
@@ -8931,7 +8931,7 @@ msgstr "心率"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "History of Present Illness"
-msgstr "既往病史"
+msgstr "现病史"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Information Source:"
@@ -8967,7 +8967,7 @@ msgstr "患者"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "PUID"
-msgstr "身份证号"
+msgstr "证件号码"
 
 msgctxt "report:gnuhealth.patient_evaluation:"
 msgid "Patient :"
@@ -9047,11 +9047,11 @@ msgstr "D"
 
 msgctxt "report:gnuhealth.patient_evaluation_brief:"
 msgid "Discharge Reason"
-msgstr "患者离院原因"
+msgstr "离院方式"
 
 msgctxt "report:gnuhealth.patient_evaluation_brief:"
 msgid "History of Present Illness"
-msgstr "既往病史"
+msgstr "现病史"
 
 msgctxt "report:gnuhealth.patient_evaluation_brief:"
 msgid "ID:"
@@ -9303,7 +9303,7 @@ msgstr "日期："
 
 msgctxt "report:patient.vaccination:"
 msgid "Dose"
-msgstr "剂量"
+msgstr "剂次"
 
 msgctxt "report:patient.vaccination:"
 msgid "Gender"
@@ -9319,7 +9319,7 @@ msgstr "ID"
 
 msgctxt "report:patient.vaccination:"
 msgid "Next Dose"
-msgstr "下一个剂量"
+msgstr "下一剂日期"
 
 msgctxt "report:patient.vaccination:"
 msgid "Observations"
@@ -9343,7 +9343,7 @@ msgstr "打印处方"
 
 msgctxt "report:patient.vaccination:"
 msgid "VACCINATION"
-msgstr "接种疫苗"
+msgstr "疫苗接种史"
 
 msgctxt "report:patient.vaccination:"
 msgid "Vaccine"
@@ -9447,7 +9447,7 @@ msgstr "注意事项"
 
 msgctxt "report:prescription.order:"
 msgid "PUID :"
-msgstr "身份证号："
+msgstr "证件号码："
 
 msgctxt "report:prescription.order:"
 msgid "Patient :"
@@ -9619,7 +9619,7 @@ msgstr "签署"
 
 msgctxt "selection:gnuhealth.death_certificate,place_of_death:"
 msgid "Health Center"
-msgstr "保健中心"
+msgstr "医疗机构"
 
 msgctxt "selection:gnuhealth.death_certificate,place_of_death:"
 msgid "Home"
@@ -10500,17 +10500,17 @@ msgstr "毫升/小时"
 msgctxt ""
 "selection:gnuhealth.person_alternative_identification,alternative_id_type:"
 msgid "Country of origin ID"
-msgstr "原籍国ID"
+msgstr "原籍国身份证号"
 
 msgctxt ""
 "selection:gnuhealth.person_alternative_identification,alternative_id_type:"
 msgid "GNU Health Federation"
-msgstr "GNU Health 信息平台"
+msgstr "GNU Health 信息平台帐号"
 
 msgctxt ""
 "selection:gnuhealth.person_alternative_identification,alternative_id_type:"
 msgid "Medical Record"
-msgstr "病历"
+msgstr "病历号"
 
 msgctxt ""
 "selection:gnuhealth.person_alternative_identification,alternative_id_type:"
@@ -10520,7 +10520,7 @@ msgstr "其它"
 msgctxt ""
 "selection:gnuhealth.person_alternative_identification,alternative_id_type:"
 msgid "Passport"
-msgstr "护照"
+msgstr "护照号"
 
 msgctxt "selection:gnuhealth.person_name,prefix:"
 msgid "Dr"
@@ -10796,7 +10796,7 @@ msgstr "症状"
 
 msgctxt "selection:gnuhealth.vaccination,admin_route:"
 msgid "Intradermal"
-msgstr "皮层内的"
+msgstr "皮内注射"
 
 msgctxt "selection:gnuhealth.vaccination,admin_route:"
 msgid "Intramuscular"
@@ -10804,7 +10804,7 @@ msgstr "肌肉注射"
 
 msgctxt "selection:gnuhealth.vaccination,admin_route:"
 msgid "Intranasal"
-msgstr "鼻内"
+msgstr "鼻内接种"
 
 msgctxt "selection:gnuhealth.vaccination,admin_route:"
 msgid "Oral"
@@ -10812,7 +10812,7 @@ msgstr "口服"
 
 msgctxt "selection:gnuhealth.vaccination,admin_route:"
 msgid "Subcutaneous"
-msgstr "皮下"
+msgstr "皮下注射"
 
 msgctxt "selection:gnuhealth.vaccination,admin_site:"
 msgid "left anterolateral fat of thigh"
@@ -11056,7 +11056,7 @@ msgstr "固定床位"
 
 msgctxt "view:gnuhealth.institution:"
 msgid "Institution Picture"
-msgstr "机构图片"
+msgstr "医疗机构图片"
 
 msgctxt "view:gnuhealth.medicament:"
 msgid "Adverse Reactions"
@@ -11192,15 +11192,15 @@ msgstr "日期"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Discharge"
-msgstr "评估结束或患者离院"
+msgstr "准许离开"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Discharge patient / End this evaluation ?"
-msgstr "患者离院 / 结束此次评估？"
+msgstr "患者离院 / 评估结束？"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Discharge patient / end this evaluation"
-msgstr "患者离院/ 结束此次评估"
+msgstr "患者离院/ 评估结束"
 
 msgctxt "view:gnuhealth.patient.evaluation:"
 msgid "Glasgow Coma Scale"
@@ -11308,7 +11308,7 @@ msgstr "已经经过医务人员签字或者审核"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Specific Dosage"
-msgstr "非常规剂量"
+msgstr "具体剂量"
 
 msgctxt "view:gnuhealth.patient.medication:"
 msgid "Status"
@@ -11388,7 +11388,7 @@ msgstr "其它"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Specific Dosage"
-msgstr "非常规剂量"
+msgstr "具体剂量"
 
 msgctxt "view:gnuhealth.prescription.line:"
 msgid "Treatment time"
@@ -11424,11 +11424,11 @@ msgstr "症状或体征"
 
 msgctxt "view:gnuhealth.vaccination:"
 msgid "Administration"
-msgstr "管理员"
+msgstr "接种"
 
 msgctxt "view:gnuhealth.vaccination:"
 msgid "Dose"
-msgstr "剂量"
+msgstr "剂次"
 
 msgctxt "view:gnuhealth.vaccination:"
 msgid "Finish and sign this vaccination ? It will become read-only !"
@@ -11448,7 +11448,7 @@ msgstr "签署和结束此次疫苗接种"
 
 msgctxt "view:gnuhealth.vaccination:"
 msgid "Vaccination"
-msgstr "接种疫苗"
+msgstr "疫苗接种"
 
 msgctxt "view:party.party:"
 msgid "Demographics"
@@ -11477,7 +11477,7 @@ msgstr "打开"
 msgctxt ""
 "wizard_button:gnuhealth.check_immunization_status,start,check_immunization_status:"
 msgid "Immunization Status"
-msgstr "免疫接种情况"
+msgstr "免疫状况"
 
 msgctxt "wizard_button:gnuhealth.check_immunization_status,start,end:"
 msgid "Cancel"
