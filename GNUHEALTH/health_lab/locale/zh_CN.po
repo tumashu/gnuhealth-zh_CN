@@ -1009,92 +1009,84 @@ msgstr "*"
 
 #, fuzzy
 msgctxt "report:patient.labtest.report:"
-msgid "-"
-msgstr "-"
+msgid "Age:"
+msgstr "年龄："
 
 msgctxt "report:patient.labtest.report:"
-msgid "医生:"
+msgid "Analyte"
+msgstr "分析物"
+
+#, fuzzy
+msgctxt "report:patient.labtest.report:"
+msgid "Date:"
+msgstr "日期:"
+
+msgctxt "report:patient.labtest.report:"
+msgid "Diagnosis:"
 msgstr ""
 
 msgctxt "report:patient.labtest.report:"
-msgid "单位"
+msgid "Doctor:"
 msgstr ""
 
 msgctxt "report:patient.labtest.report:"
-msgid "参考"
+msgid "Gender:"
 msgstr ""
 
 msgctxt "report:patient.labtest.report:"
-msgid "姓名:"
+msgid "LABORATORY REPORT"
+msgstr "实验室检验报告"
+
+#, fuzzy
+msgctxt "report:patient.labtest.report:"
+msgid "Name:"
+msgstr "名称:"
+
+msgctxt "report:patient.labtest.report:"
+msgid "Order:"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:patient.labtest.report:"
+msgid "PUID:"
+msgstr "证件号码："
+
+msgctxt "report:patient.labtest.report:"
+msgid "Pathologist:"
 msgstr ""
 
 msgctxt "report:patient.labtest.report:"
-msgid "实验室检验报告2"
+msgid "Reference"
+msgstr "参考值范围"
+
+msgctxt "report:patient.labtest.report:"
+msgid "Remarks"
+msgstr "备注"
+
+msgctxt "report:patient.labtest.report:"
+msgid "Results"
+msgstr "结果"
+
+msgctxt "report:patient.labtest.report:"
+msgid "Results:"
 msgstr ""
 
 msgctxt "report:patient.labtest.report:"
-msgid "年龄:"
+msgid "Signature:"
 msgstr ""
 
+#, fuzzy
 msgctxt "report:patient.labtest.report:"
-msgid "性别:"
-msgstr ""
+msgid "Test:"
+msgstr "检验："
 
 msgctxt "report:patient.labtest.report:"
-msgid "检验值"
-msgstr ""
+msgid "Unit"
+msgstr "计量单位"
 
 msgctxt "report:patient.labtest.report:"
-msgid "检验日期:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "检验项目:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "申请医生:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "申请编号:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "签字:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "结果"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "结果:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "警告"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "诊断:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "说明"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "身份证号:"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "项目明细"
-msgstr ""
-
-msgctxt "report:patient.labtest.report:"
-msgid "￥"
-msgstr ""
+msgid "Value"
+msgstr "测量值"
 
 msgctxt "selection:gnuhealth.patient.lab.test,state:"
 msgid "Cancel"

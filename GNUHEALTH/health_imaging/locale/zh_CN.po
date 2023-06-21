@@ -365,9 +365,10 @@ msgctxt "report:patient.imaging_report_results:"
 msgid ")"
 msgstr ")"
 
+#, fuzzy
 msgctxt "report:patient.imaging_report_results:"
-msgid ","
-msgstr ","
+msgid "Comment"
+msgstr "说明"
 
 msgctxt "report:patient.imaging_report_results:"
 msgid "Context:"
@@ -388,6 +389,14 @@ msgstr ""
 
 msgctxt "report:patient.imaging_report_results:"
 msgid "Gender:"
+msgstr ""
+
+msgctxt "report:patient.imaging_report_results:"
+msgid "Image"
+msgstr ""
+
+msgctxt "report:patient.imaging_report_results:"
+msgid "Imaging Study Report"
 msgstr ""
 
 msgctxt "report:patient.imaging_report_results:"

@@ -2878,77 +2878,79 @@ msgctxt "model:res.group,name:group_health_dentist"
 msgid "Health Dentist"
 msgstr "Health 牙医"
 
+#, fuzzy
 msgctxt "report:health_dentistry.odontogram.report:"
-msgid ":"
-msgstr "："
+msgid ","
+msgstr ","
+
+#, fuzzy
+msgctxt "report:health_dentistry.odontogram.report:"
+msgid "Age:"
+msgstr "年龄："
 
 msgctxt "report:health_dentistry.odontogram.report:"
 msgid "Odontogram"
 msgstr "齿形图"
 
+#, fuzzy
 msgctxt "report:health_dentistry.odontogram.report:"
-msgid "PUID"
-msgstr "证件号码"
+msgid "PUID:"
+msgstr "证件号码："
 
+#, fuzzy
 msgctxt "report:health_dentistry.odontogram.report:"
-msgid "Patient"
-msgstr "患者"
+msgid "Patient:"
+msgstr "患者："
 
 msgctxt "report:health_dentistry.odontogram.report:"
 msgid "Print Date:"
 msgstr "打印日期："
 
-msgctxt "report:health_dentistry.odontogram.report:"
-msgid "at"
-msgstr "在"
-
+#, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
-msgid ":"
-msgstr "："
+msgid ","
+msgstr ","
 
+#, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
-msgid "Age :"
+msgid "Age:"
 msgstr "年龄："
 
 msgctxt "report:health_dentistry.procedure.report:"
-msgid "DENTISTRY PROCEDURES"
-msgstr "牙科操作"
+msgid "DENTISTRY PROCEDURES HISTORY"
+msgstr ""
+
+#, fuzzy
+msgctxt "report:health_dentistry.procedure.report:"
+msgid "DMFT Index"
+msgstr "恒牙龋失补指数"
 
 msgctxt "report:health_dentistry.procedure.report:"
-msgid "DMFT Index:"
-msgstr "恒牙龋失补指数:"
+msgid "DMFT Index For Primary Teeth"
+msgstr ""
 
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "Date"
 msgstr "日期"
 
 msgctxt "report:health_dentistry.procedure.report:"
-msgid "Date :"
-msgstr "日期："
-
-msgctxt "report:health_dentistry.procedure.report:"
-msgid "HISTORY"
-msgstr "史"
-
-msgctxt "report:health_dentistry.procedure.report:"
-msgid "ID"
-msgstr "ID"
-
-msgctxt "report:health_dentistry.procedure.report:"
 msgid "Notes"
 msgstr "注意事项"
 
+#, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
-msgid "PU"
-msgstr "PU"
+msgid "PUID:"
+msgstr "证件号码："
 
+#, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
-msgid "Patient"
-msgstr "患者"
+msgid "Patient:"
+msgstr "患者："
 
+#, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
-msgid "Print"
-msgstr "打印"
+msgid "Print Date:"
+msgstr "打印日期："
 
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "Procedure"
@@ -2957,10 +2959,6 @@ msgstr "牙科操作"
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "State"
 msgstr "状态"
-
-msgctxt "report:health_dentistry.procedure.report:"
-msgid "dmft index:"
-msgstr "乳牙龋失补指数:"
 
 msgctxt "selection:gnuhealth.dentistry.set.odontogram.start,t11:"
 msgid "Decayed"
