@@ -2,7 +2,7 @@
 source $HOME/.gnuhealthrc
 
 LANGUAGE="zh_CN"
-TRYTON_DATABASE="translations-1"
+TRYTON_DATABASE="translations-2"
 TRYTON_SERVER_DIR=${GNUHEALTH_DIR}/tryton/server
 TRYTOND_ADMIN_CMD="${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --email admin -d ${TRYTON_DATABASE} --all"
 
