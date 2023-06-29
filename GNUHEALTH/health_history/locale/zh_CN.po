@@ -267,7 +267,7 @@ msgid "PUID:"
 msgstr "证件号码："
 
 msgctxt "report:patient.evaluation:"
-msgid "Patient Evaluation Report"
+msgid "Patient Evaluation Detail Report"
 msgstr ""
 
 msgctxt "report:patient.evaluation:"

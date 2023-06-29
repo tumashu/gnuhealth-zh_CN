@@ -9309,15 +9309,15 @@ msgid ","
 msgstr ","
 
 msgctxt "report:prescription.order:"
-msgid "//"
-msgstr "//"
-
-msgctxt "report:prescription.order:"
 msgid "Allowed"
 msgstr ""
 
 msgctxt "report:prescription.order:"
-msgid "Directions:"
+msgid "Common Usage"
+msgstr ""
+
+msgctxt "report:prescription.order:"
+msgid "Directions"
 msgstr ""
 
 #, fuzzy
@@ -9400,8 +9400,13 @@ msgctxt "report:prescription.order:"
 msgid "Prescription date:"
 msgstr ""
 
+#, fuzzy
 msgctxt "report:prescription.order:"
-msgid "Qty:"
+msgid "Qty"
+msgstr "数量"
+
+msgctxt "report:prescription.order:"
+msgid "Quantity:"
 msgstr ""
 
 msgctxt "report:prescription.order:"
@@ -9418,6 +9423,10 @@ msgstr ""
 
 msgctxt "report:prescription.order:"
 msgid "Route:"
+msgstr ""
+
+msgctxt "report:prescription.order:"
+msgid "Specific Usage"
 msgstr ""
 
 msgctxt "report:prescription.order:"
