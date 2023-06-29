@@ -2826,7 +2826,7 @@ msgstr ","
 #, fuzzy
 msgctxt "report:health_dentistry.odontogram.report:"
 msgid "Age:"
-msgstr "年龄："
+msgstr "年龄:"
 
 msgctxt "report:health_dentistry.odontogram.report:"
 msgid "Odontogram"
@@ -2835,16 +2835,16 @@ msgstr "齿形图"
 #, fuzzy
 msgctxt "report:health_dentistry.odontogram.report:"
 msgid "PUID:"
-msgstr "证件号码："
+msgstr "证件号码:"
 
 #, fuzzy
 msgctxt "report:health_dentistry.odontogram.report:"
 msgid "Patient:"
-msgstr "患者："
+msgstr "患者:"
 
 msgctxt "report:health_dentistry.odontogram.report:"
 msgid "Print Date:"
-msgstr "打印日期："
+msgstr "打印日期:"
 
 #, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
@@ -2854,7 +2854,7 @@ msgstr ","
 #, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "Age:"
-msgstr "年龄："
+msgstr "年龄:"
 
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "DENTISTRY PROCEDURES HISTORY"
@@ -2880,17 +2880,17 @@ msgstr "注意事项"
 #, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "PUID:"
-msgstr "证件号码："
+msgstr "证件号码:"
 
 #, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "Patient:"
-msgstr "患者："
+msgstr "患者:"
 
 #, fuzzy
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "Print Date:"
-msgstr "打印日期："
+msgstr "打印日期:"
 
 msgctxt "report:health_dentistry.procedure.report:"
 msgid "Procedure"
