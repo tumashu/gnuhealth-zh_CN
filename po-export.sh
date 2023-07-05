@@ -55,4 +55,4 @@ echo "## Running trytond-admin command to update DB (3. Active language) ..."
 ${TRYTOND_ADMIN_CMD} --language ${LANGUAGE}
 
 echo "## Export po files ..."
-python3 gnuhealth-translations-export.py --user admin --database ${TRYTON_DATABASE} --language ${LANGUAGE}
+./po-export.py --user admin --database ${TRYTON_DATABASE} --language ${LANGUAGE}
