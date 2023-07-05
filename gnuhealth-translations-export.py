@@ -59,7 +59,7 @@ def delete_useless_translations(language):
 def export_all_translations(language):
     print("Starting export {0} translations of gnuhealth modules ...".format(language))
     for module in get_all_health_module_names():
-        po_file = get_po_file_path(module)
+        po_file = get_po_file_path(module, language)
         print("## Exporting to '{0}'".format(po_file))
         export_translation(language, module, po_file)
     print("Finish to export!")
@@ -70,9 +70,9 @@ def get_all_health_module_names():
                            ('state', 'in', ['activated'])])
     return [module.name for module in modules]
     
-def get_po_file_path(module_name):
+def get_po_file_path(module_name, language):
     script_dir = os.path.abspath(os.path.dirname(__file__))
-    path = script_dir + "/GNUHEALTH/" + module_name + "/locale/zh_CN.po"
+    path = script_dir + "/GNUHEALTH/" + module_name + "/locale/" + language + ".po"
     return path
 
 def export_translation(lang, module, po_file):
