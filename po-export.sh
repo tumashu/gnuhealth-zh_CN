@@ -1,6 +1,12 @@
 #!/bin/bash
 source $HOME/.gnuhealthrc
 
+LANGUAGE=$1
+ALL_LANGUAGES="en bg ca cs de es es_419 et fa fi fr hu id it lo lt nl pl pt ro ru sl tr zh_CN"
+TRYTON_DATABASE="mytmpdb"
+TRYTON_SERVER_DIR=${GNUHEALTH_DIR}/tryton/server
+TRYTOND_ADMIN_CMD="${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --email admin -d ${TRYTON_DATABASE} --all"
+
 help()
 {
     cat << EOF
@@ -11,6 +17,7 @@ usage: `basename $0` language
 
     Example:
     $ bash ./gnuhealth-update-translations.sh zh_CN
+    $ bash .
 
 EOF
     exit 0
@@ -20,11 +27,11 @@ if [ $# -eq 0 ]; then
     help
 fi
 
-LANGUAGE=$1
-TRYTON_DATABASE="mytmpdb"
-TRYTON_SERVER_DIR=${GNUHEALTH_DIR}/tryton/server
-TRYTOND_ADMIN_CMD="${TRYTON_SERVER_DIR}/trytond-${TRYTON_VERSION}/bin/trytond-admin --email admin -d ${TRYTON_DATABASE} --all"
-
+if ![[ "$ALL_LANGUAGES" =~ "$LANGUAGE"]]; then
+    echo "$LANGUAGE is not valid value, $ALL_LANGUAGES"
+    exit 0
+fi
+    
 echo ""
 echo "+--------------------------------------------+"
 echo "|    GNU Health HMIS po files export tool    |"
