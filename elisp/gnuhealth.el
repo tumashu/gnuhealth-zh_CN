@@ -1,3 +1,28 @@
+(defun gnuhealth-update ()
+  "Format a tab split file to a elisp function"
+  (interactive)
+  (let ((file (read-file-name "Data file: ")))
+    (with-temp-buffer
+      (insert-file-contents file)
+      (goto-char (point-min))
+      (while (not (eobp))
+        (gnuhealth-replace-line
+         (buffer-substring-no-properties
+          (line-beginning-position)
+          (line-end-position)))
+        (forward-line 1)))))
+
+(defun gnuhealth-replace-line (line)
+  (let* ((line-content (split-string line "	"))
+         (class (nth 0 line-content))
+         (code (nth 1 line-content))
+         (desc (nth 2 line-content))
+         (func (intern (format "gnuhealth-replace-%s" class)))
+         )
+    (when (functionp func)
+      (message "Replace:" class code desc)
+      (funcall func code desc))))
+
 (defun gnuhealth-replace-icd10-disease (a b &rest c)
   (goto-char (point-min))
   (when (and (re-search-forward
@@ -41,30 +66,3 @@
     (insert b)
     (insert "\""))
   (goto-char (point-min)))
-
-(defun gnuhealth-generate-batch ()
-  "Format a tab split file to a elisp function"
-  (interactive)
-  (let ((x (completing-read "翻译对象" '(icd10-chapter icd10-section icd10-disease icd9procs))))
-    (goto-char (point-min))
-    (while (re-search-forward "\n+" nil t)
-      (replace-match "\n" nil t))
-    (goto-char (point-min))
-    (while (re-search-forward "[[:space:]	\t：]+" nil t)
-      (replace-match "\" \"" nil t))
-    (goto-char (point-min))
-    (while (re-search-forward "^" nil t)
-      (replace-match (format "(gnuhealth-replace-%s \"" x) nil t))
-    (while (re-search-forward "#N/A" nil t)
-      (replace-match "" nil t))
-    (goto-char (point-min))
-    (while (re-search-forward "\n+" nil t)
-      (replace-match "\")\n" nil t))
-    (goto-char (point-min))
-    (insert (format
-             "
-(defun gnuhealth-replace-all-%s ()
-  (interactive)
-" x))
-    (goto-char (point-max))
-    (insert ")")))
