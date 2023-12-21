@@ -1,4 +1,3 @@
-
 (defun gnuhealth-replace-all-icd10-disease ()
   (interactive)
   (gnuhealth-replace-icd10-disease "A00" "霍乱")
