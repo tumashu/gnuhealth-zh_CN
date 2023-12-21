@@ -34,7 +34,7 @@
   (when (and (re-search-forward
               (format ":cie9_%s\""
                       (replace-regexp-in-string
-                       "[+*.]" "-" a))
+                       "[.]" "-" a))
               nil t)
              (re-search-forward "msgstr \"" nil t))
     (delete-region (point) (line-end-position))
